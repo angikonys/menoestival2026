@@ -524,11 +524,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
-
-[[files]]
-file = "toto.sh"
-hash = "85132c891d2ccf9c0d3d24e3d4bfbff7ddf0d32ac90f1312f88c813e03186077"
-
-[[files]]
-file = "urls.txt"
-hash = "a4dd982ea9a7220bf8ebfe213de159cd909d6d31b9bfb5ecbc1f6fcf128bbc75"
