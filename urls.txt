@@ -98,8 +98,8 @@ https://modrinth.com/mod/HZmhgdJk
 https://modrinth.com/mod/1bokaNcj
 https://modrinth.com/mod/1eAoo2KR
 https://modrinth.com/mod/wjpmYU1u
-https://www.curseforge.com/projects/1091339
-https://www.curseforge.com/projects/858897
-https://www.curseforge.com/projects/404465
-https://www.curseforge.com/projects/289412
-https://www.curseforge.com/projects/404468
+https://www.curseforge.com/minecraft/mc-mods/alltheleaks
+https://www.curseforge.com/minecraft/mc-mods/create-creating-space
+https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge
+https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge
+https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge

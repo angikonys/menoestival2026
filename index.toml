@@ -6,8 +6,13 @@ hash = "37a7a5a7d013603e5b1ea8a472f318b8e0dce6a78abd163e851721415263a519"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "7e03652d2003566873ab5103454f7c537471d6c2fea1c2f614507b33ef4434f7"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
@@ -161,13 +166,18 @@ hash = "57e8ff6c2bf41c7556f727251fda72946ebd8d849e5e83c141a679387a559dbc"
 metafile = true
 
 [[files]]
+file = "mods/create-creating-space.pw.toml"
+hash = "a66e4a2757fb908177d99bf702eb960157d10701dd99d0ac6be2fffe4920c719"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "616a0a7fc051382574b73276c74e60ae7c40d9cf1bbb9113375da164278ae94f"
+hash = "418d221d9ccd532f463955d58314a8b4c568d5d6b79c1d78287825ecf201a25f"
 metafile = true
 
 [[files]]
@@ -247,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -296,8 +306,18 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "54b6ce5c7ccf54db4cf8888e1c7e56b2d840cddc0e3e3fd15869a03d5c76c2ef"
+metafile = true
+
+[[files]]
 file = "mods/ftb-quest-translator.pw.toml"
 hash = "75a2ee3a109f409ddf4a3b088b22f6def1bcbdf967480eeac4008ede48e0acc4"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "6632b5bf5d4a47942c43c0e2c98193bbcc239718e713874d0e98f31db688a766"
 metafile = true
 
 [[files]]
@@ -308,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-quests-optimizer.pw.toml"
 hash = "130923cea74d38f39b996ff5884dbfe91dde3f46f2efe330af2ae54d731f6481"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
 metafile = true
 
 [[files]]
@@ -502,8 +527,8 @@ metafile = true
 
 [[files]]
 file = "toto.sh"
-hash = "81b78bd942c9cf6f4f6e4f9c7945c354ffc92ebedc9aa95f5b77eddfcdee146f"
+hash = "85132c891d2ccf9c0d3d24e3d4bfbff7ddf0d32ac90f1312f88c813e03186077"
 
 [[files]]
 file = "urls.txt"
-hash = "6cec09df7abafd844f491d46764aea90f46bfdc86731eb8f65ad60af5c933726"
+hash = "a4dd982ea9a7220bf8ebfe213de159cd909d6d31b9bfb5ecbc1f6fcf128bbc75"

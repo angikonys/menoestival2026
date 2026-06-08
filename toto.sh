@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Ensure packwiz is initialized in a fresh folder
+# Ensure packwiz is initialized
 if [ ! -f "pack.toml" ]; then
     echo "Error: pack.toml not found. Run 'packwiz init' first."
     exit 1
@@ -8,22 +8,20 @@ fi
 
 # Process the URL list (urls.txt)
 while IFS= read -r url || [ -n "$url" ]; do
-    # Skip empty lines
     [[ -z "$url" ]] && continue
     
     echo "Processing: $url"
     
     if [[ "$url" == *"modrinth.com"* ]]; then
-        # Extract slug for Modrinth
-        slug=$(echo "$url" | sed -E 's|https?://modrinth\.com/mod/([^/]+).*|\1|')
-        packwiz modrinth add "$slug"
+        # Use -y to auto-confirm dependencies
+        packwiz modrinth add "$url" -y
         
     elif [[ "$url" == *"curseforge.com"* ]]; then
-        # Add CurseForge projects directly
-        packwiz curseforge add "$url"
+        # Use -y to auto-confirm dependencies
+        packwiz curseforge add "$url" -y
         
     else
-        echo "Warning: Unsupported or invalid URL: $url"
+        echo "Warning: Unsupported URL: $url"
     fi
 done < urls.txt
 
