@@ -1,0 +1,13 @@
+name = "Eidolon:Edoni"
+filename = "eidolon_edoni-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fSZPmYn4/versions/CmAdy6PR/eidolon_edoni-1.1.3.jar"
+hash-format = "sha512"
+hash = "e584bff910f7ccc10864c2ed543bd2c6bdc155660fb8fa39095c79d24bf6b4a7a50ba2a47307a01119bbbaa70e0b9d673d58d09f55d50324b18f2344d1153e64"
+
+[update]
+[update.modrinth]
+mod-id = "fSZPmYn4"
+version = "CmAdy6PR"
