@@ -1,3 +1,530 @@
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash-format = "sha256"
 
-[files]
+[[files]]
+file = "README.md"
+hash = "ff9e3d669e2d75f51e48d323bd8961d20e62366913ea691f44474ce111b59b7a"
+
+[[files]]
+file = "advancedperipherals.pw.toml"
+hash = "89c83355fc7c7bc8e140950beba459bd59ddb57145c9a032e52cb4f20a7a73c8"
+metafile = true
+
+[[files]]
+file = "alltheleaks.pw.toml"
+hash = "3b677ec0afb38e6623dbfc587d0ee322ea7ca1cfc0be544f349c50117bd54458"
+metafile = true
+
+[[files]]
+file = "architectury-api.pw.toml"
+hash = "2de72a067c618a855af01239c1dd665e99bd9987a9f1301fcf499dd61669df02"
+metafile = true
+
+[[files]]
+file = "ars-nouveau.pw.toml"
+hash = "fa1ebdcbdaef25df60fb1d092b7a459a1f4cfb46430ea98cf569b993ef7609be"
+metafile = true
+
+[[files]]
+file = "arsdelight.pw.toml"
+hash = "6210aa0461558973a0c53720d7abde0d600a1d617d0b4324eb7663f8ce0d18d7"
+metafile = true
+
+[[files]]
+file = "badoptimizations.pw.toml"
+hash = "90cc2f8a2589a157a7943476aa238446b6e32255a6d0da313b81bef8d6246249"
+metafile = true
+
+[[files]]
+file = "bclib-neoforge.pw.toml"
+hash = "399cd958e1e30533a176d0201d4323086d5b3aad5739ba599f0d79e087c3ecd7"
+metafile = true
+
+[[files]]
+file = "bellsandwhistles.pw.toml"
+hash = "1db1cbff929bed2994ed9fc786ba2fe927132a756f7056da2c0ee401aca738cb"
+metafile = true
+
+[[files]]
+file = "big-contraptions.pw.toml"
+hash = "e478e056d3509de14f2f56359f83cd8b32d6a08839454fb0e012db28f22131ae"
+metafile = true
+
+[[files]]
+file = "cbcperipheral.pw.toml"
+hash = "1cea4572407c2e47b4e8f87c7d16935af5f1ae62e2f7d92ea7f7bcd73784a7d3"
+metafile = true
+
+[[files]]
+file = "cc-cbc.pw.toml"
+hash = "a1d789398c5cfb6f44ba430d1989983c2e4720b8bff73469a4d83fc70d4445fa"
+metafile = true
+
+[[files]]
+file = "cc-redstone-link-bridge.pw.toml"
+hash = "6ae33e2a34a69f2f787dda148408ebaf034abfd59879dc1b119ed19509062bed"
+metafile = true
+
+[[files]]
+file = "cc-sable.pw.toml"
+hash = "bac3b27633219d332f4a95dfb7a81ef483cdcdb9ac197657f922e283cd043118"
+metafile = true
+
+[[files]]
+file = "cc-tweaked.pw.toml"
+hash = "5a39c3f88ada7ace8ba939b151d414fd3b90fa445d85a5d4316b546995b0ade0"
+metafile = true
+
+[[files]]
+file = "cloth-config.pw.toml"
+hash = "c9f5811e9b12ef54fe3bca7ec48f4d3a792b74a6d58c50c8a00194af6dfe5fae"
+metafile = true
+
+[[files]]
+file = "copycats+-aeronautics-weight.pw.toml"
+hash = "0f134221e8790eb3f4f9a3266a51f34dd50970f2ae1d86c40242a35a6c224103"
+metafile = true
+
+[[files]]
+file = "copycats.pw.toml"
+hash = "d503dd6710c9dc28f8fa634e28ed2ab76391121fcf936f03064254376525bbde"
+metafile = true
+
+[[files]]
+file = "corn-delight.pw.toml"
+hash = "e928dd988c901aa9153b840873a26e10f001d13ca4c69c43c7dcf10e3032e7a7"
+metafile = true
+
+[[files]]
+file = "create-aeronautics-automated-logistics.pw.toml"
+hash = "f7b0ddf6badd60c84916c3765ea64ee44aef168ad3c2a5568fd0a9cb33dd8ca3"
+metafile = true
+
+[[files]]
+file = "create-aeronautics-throwable-rope-connector.pw.toml"
+hash = "efa306800a06dc3ed6a972ad9124fa41650445072de1e8e2760d929aa5525982"
+metafile = true
+
+[[files]]
+file = "create-aeronautics.pw.toml"
+hash = "11658263aac10d20e68725c1814fa8f59698eed809c8f7af41855f1b79256171"
+metafile = true
+
+[[files]]
+file = "create-aeroworks.pw.toml"
+hash = "abe5fe24705ef17db7784d1c5761acc6c591e4e34bd501ef65bb0a1863e5a672"
+metafile = true
+
+[[files]]
+file = "create-ballast.pw.toml"
+hash = "4869523cd7609130cce381afc8ba3374deb34fb7e7f1c4533c84271dd3edf57c"
+metafile = true
+
+[[files]]
+file = "create-better-item-vaults.pw.toml"
+hash = "9000195f282cafd8dd2436c31a94c7b36b523a6a67443aa00452f686d8ba773e"
+metafile = true
+
+[[files]]
+file = "create-big-cannons-advanced-technologies.pw.toml"
+hash = "a8abc34e841c669c8cb7fbafcdde7c3f9fdf596f7c047784208976087e27fd0c"
+metafile = true
+
+[[files]]
+file = "create-big-cannons-equally-opposite.pw.toml"
+hash = "6842fa46e42f5c32559e7b797d1eec0063c9f2772dd879ff3e13764aa84dbe23"
+metafile = true
+
+[[files]]
+file = "create-big-cannons-going-ballistic.pw.toml"
+hash = "df098382e4c420186f827368218a3464734a039324326a98d60e3836b337f118"
+metafile = true
+
+[[files]]
+file = "create-big-cannons.pw.toml"
+hash = "557d770366ae6367399a55ce2d1ac9e88c77f2a354a6242d40cca7356e22484a"
+metafile = true
+
+[[files]]
+file = "create-cc-total-logistics.pw.toml"
+hash = "5554d0b2acc2e1526c1d078fc2233870905abe064d4e7d7673b367fb015c2154"
+metafile = true
+
+[[files]]
+file = "create-ccbr.pw.toml"
+hash = "51fe3d1d3ba5d148b2070d1635fc54d44f36b639098c8661c05f5567348221a9"
+metafile = true
+
+[[files]]
+file = "create-central-kitchen.pw.toml"
+hash = "e06c81803702c78693aeb012c2b140b686e1747483cdaadc76746660db47b79f"
+metafile = true
+
+[[files]]
+file = "create-clothes.pw.toml"
+hash = "a4d368881961d4770d40845ae8d4be87deb32a385765207813ae610c761f0769"
+metafile = true
+
+[[files]]
+file = "create-connected.pw.toml"
+hash = "ebe1650d0809f0fadee075bcc2469dae850bf4a498aacb224732fc14fab5cf7d"
+metafile = true
+
+[[files]]
+file = "create-creating-space.pw.toml"
+hash = "5141818ca4b5f2753bf497749a4ccb9496b0096241bf7a89e8d0e884378e6d1b"
+metafile = true
+
+[[files]]
+file = "create-design-n-decor.pw.toml"
+hash = "e71b0e1fb607d083dc0150bc78c9c5d7935668361d267211fd5656b99492d3df"
+metafile = true
+
+[[files]]
+file = "create-dragons-plus.pw.toml"
+hash = "6a1a7b0b13ba3b8b2969de962a0dbba585b7dc35a1a6166ac9c02b8b4e539e31"
+metafile = true
+
+[[files]]
+file = "create-encased.pw.toml"
+hash = "6d9a40b9e50b676ac801e1abdb062aa695244b5c1b214b060bb6ecd209a51db8"
+metafile = true
+
+[[files]]
+file = "create-enchantment-industry.pw.toml"
+hash = "46ad782a24a3d8afef2e85d689f45b1f88e03b07764ea12c720d6dbfd0b2f3b2"
+metafile = true
+
+[[files]]
+file = "create-framed.pw.toml"
+hash = "65698b39f03ab799403da3ea6780cbb480b6ab1a1bc2a33293719b1c60f3d120"
+metafile = true
+
+[[files]]
+file = "create-goggles.pw.toml"
+hash = "e9328955f7e98d60e587311005581435ba104c8db994b43c4d67ce7a9f007a08"
+metafile = true
+
+[[files]]
+file = "create-mechanical-extruder.pw.toml"
+hash = "73feeef510b83cd0d471d9253c1de204e4e4f0583d383230083ba1ec5e331fac"
+metafile = true
+
+[[files]]
+file = "create-meta-logistics.pw.toml"
+hash = "082cdb9e8ba6a5d3ef018964ac8009266e40cffe81bd33b98ee900253161bbf9"
+metafile = true
+
+[[files]]
+file = "create-new-age.pw.toml"
+hash = "ba92d63b5a8487c73bdb012a3c7530ab9f9da3b6406d1656c46a793294d7c3f2"
+metafile = true
+
+[[files]]
+file = "create-ore-excavation-plus.pw.toml"
+hash = "610848db8100ae7fe30d925916a46f61cfbc0ae3863b58df7c4bce0af7cc5495"
+metafile = true
+
+[[files]]
+file = "create-ore-excavation.pw.toml"
+hash = "9b93c95217e5057fdb2bae4d788cefa79ba9871eb501b7cb8ad222f8e1345b04"
+metafile = true
+
+[[files]]
+file = "create-pattern-schematics.pw.toml"
+hash = "56b9b267f152e599260a7563d75a8080a04896fe8068ab94ea03c2d7ffa7b87e"
+metafile = true
+
+[[files]]
+file = "create-radars.pw.toml"
+hash = "12ff69c7adbd71228f2405153e7d13e07e64bba909a30c4ac291635d7b8d33d2"
+metafile = true
+
+[[files]]
+file = "create-railways-navigator.pw.toml"
+hash = "c7457f368760d20d50637501f8dc0e7e6b6145de07cf84c5ecd241176a5fe220"
+metafile = true
+
+[[files]]
+file = "create-sound-of-steam.pw.toml"
+hash = "31bff7e6c537f70dac49c728d577179746596901a7bead0a918f60440fc3e6d0"
+metafile = true
+
+[[files]]
+file = "create-steam-n-rails-1.21.1.pw.toml"
+hash = "51b92382f3ba74696915c14b2f724fb5b641e295a7fea35c4c29dc0509ad61c7"
+metafile = true
+
+[[files]]
+file = "create-tfmg.pw.toml"
+hash = "ffa908d1a9e87a108bebd31fcd005ee6e53eddd4bc58226849e73e2b30df95e6"
+metafile = true
+
+[[files]]
+file = "create.pw.toml"
+hash = "d54c45b486976c4c6ffb74197f2f1f8d37130ab4208db229969b6397517e40e7"
+metafile = true
+
+[[files]]
+file = "create_oxidized.pw.toml"
+hash = "e7f475599dadc1d3b0942ac654ee56e54d81425a73fe3acf547318b1a1953f66"
+metafile = true
+
+[[files]]
+file = "curios.pw.toml"
+hash = "39074dc93296139f29b081165b7b6e3d235b6b185e62a29b809a652a8e07381f"
+metafile = true
+
+[[files]]
+file = "dragonlib.pw.toml"
+hash = "9e8c1a7546d8372110cb3093ca8cb519b8c7e12f872389640d4f4cc2a360eeb1"
+metafile = true
+
+[[files]]
+file = "drive-by-wire-sable.pw.toml"
+hash = "8bbbd0ef40ee4f0c76c0b06eb929da7884725b1749707b6a193c93081d936d7b"
+metafile = true
+
+[[files]]
+file = "eidolon-edoni.pw.toml"
+hash = "0357d6f49ff18bde6223a7f863afb0612529a946737e020778c3120a1e8b7a21"
+metafile = true
+
+[[files]]
+file = "eidolonrepraised.pw.toml"
+hash = "f1e6d57e7d6c9bf73aee7bd634e220e994fd6bf98a38e48694e18905acc616b8"
+metafile = true
+
+[[files]]
+file = "emi.pw.toml"
+hash = "54588a6b7f6a9ea789f683c9f351d9dbe50d0363a6e24f8539b71d2bb0a63955"
+metafile = true
+
+[[files]]
+file = "farmers-delight.pw.toml"
+hash = "c03f7fb679748b4c8beb2197a25141d6e222798ef9f1af66b1e17b91452fd316"
+metafile = true
+
+[[files]]
+file = "ferrite-core.pw.toml"
+hash = "36f48fcf3565488130a3fb2417688cce6b77461c9beec468be43c9deea5519d3"
+metafile = true
+
+[[files]]
+file = "ftb-library-forge.pw.toml"
+hash = "ac3479c3914c48852560a3d0efb7f33de6578785ecbbff079ad7a0b6e0ddcbfa"
+metafile = true
+
+[[files]]
+file = "ftb-quest-translator.pw.toml"
+hash = "917c24eb428be387ab603b7de32a00cb38300c59faf82593652d70ae1e6942ac"
+metafile = true
+
+[[files]]
+file = "ftb-quests-forge.pw.toml"
+hash = "1ed7d5dd320b09fa1bfba8729ad689f6e8064325b17393ed2dd7801765268dd3"
+metafile = true
+
+[[files]]
+file = "ftb-quests-item-rewards.pw.toml"
+hash = "5c8adfbfe3cd534bd421d21908cbbfa8793ae1a88974809903aba8828572de5f"
+metafile = true
+
+[[files]]
+file = "ftb-quests-optimizer.pw.toml"
+hash = "f4b2e7e83d922cc756a7a1685a628e288e2092dcc0a14e90548e40cff7170654"
+metafile = true
+
+[[files]]
+file = "ftb-teams-forge.pw.toml"
+hash = "f1aa3dc8f0e818d5cf17ea1524c89522d05ebde7072e72c4811bf4460c0ddc1d"
+metafile = true
+
+[[files]]
+file = "fusion-connected-textures.pw.toml"
+hash = "ef2b6743a883a19927359565b1046553983e4dc8ff6907f49eda4598cb8b2362"
+metafile = true
+
+[[files]]
+file = "geckolib.pw.toml"
+hash = "5f57ffc2b21b8fd052c4d79740acf3f9f47911d9ffd69f1910bd49ad19e9a414"
+metafile = true
+
+[[files]]
+file = "interiors.pw.toml"
+hash = "23d76c44a7898c12d20915aff10566ab4496fb2d04db250d765698a5ba5da8b3"
+metafile = true
+
+[[files]]
+file = "iris.pw.toml"
+hash = "bad7a016fed7f4a8416f8600de5f05e38a97acc8a35ed17f18e1b0e7fdcbf96f"
+metafile = true
+
+[[files]]
+file = "jei.pw.toml"
+hash = "c28e9a975de4d4166c50191746edf8e65b5112014485e70274e3c577e0b5730a"
+metafile = true
+
+[[files]]
+file = "kotlin-for-forge.pw.toml"
+hash = "e7bd002c8ff9c45a99e48a2c7116e29e00efaa5cde194e97739a840498b2725b"
+metafile = true
+
+[[files]]
+file = "krypton-fnp.pw.toml"
+hash = "ced023dc6347aae8294d161f42e86d1269c3f20c5086e1924ff94a60daf6f15e"
+metafile = true
+
+[[files]]
+file = "lithium.pw.toml"
+hash = "468fd02be4d935601708259840d021c8fbe71e651972d96913b833a54ba5e763"
+metafile = true
+
+[[files]]
+file = "lithostitched.pw.toml"
+hash = "36e59d2ff07caab25b8d346af9c727dfdba3915d880b82a45da3b1d7b1c1c8d4"
+metafile = true
+
+[[files]]
+file = "macaws-bridges.pw.toml"
+hash = "a7e7ec77cf2eea30540c5ff66969bbe460dbd19dbc720b76e5443691b235fc99"
+metafile = true
+
+[[files]]
+file = "macaws-doors.pw.toml"
+hash = "ca706ace41f33add2d56d970c52b485204e9adf05fc8e131e9a871f173fc9b38"
+metafile = true
+
+[[files]]
+file = "macaws-furniture.pw.toml"
+hash = "1e16889971b82d156fea9fe0cfefde4d7c693e3644169d1eb5a041bd22d207ce"
+metafile = true
+
+[[files]]
+file = "macaws-roofs.pw.toml"
+hash = "93e85d46196e698d4193806de45ea0207645128e8fd023381829ae320a64df6d"
+metafile = true
+
+[[files]]
+file = "macaws-windows.pw.toml"
+hash = "27364bc2a88e88d8c67f889cb1a8898e68c6a2ec1210ded63d7e41a48d9fb984"
+metafile = true
+
+[[files]]
+file = "mahou-tsukai.pw.toml"
+hash = "ffea7eae6de15807ed0578eda150ee89e1201ba92af50173d6c09193150f8cea"
+metafile = true
+
+[[files]]
+file = "mechanicals-lib.pw.toml"
+hash = "7bc5c32b19d07e56c56adb22f374ebfcf58ca6bdadacf19575fa034661665a2b"
+metafile = true
+
+[[files]]
+file = "mmlib.pw.toml"
+hash = "dab969230fcf0d798338aeb5d142a2e437f81134488fb6b6880cdafc34afe801"
+metafile = true
+
+[[files]]
+file = "mobile-radars.pw.toml"
+hash = "ebd47d9ea72637edf9ffb42f9dab50de6f2fa92278daabcc6578ca4d1c638aed"
+metafile = true
+
+[[files]]
+file = "modernfix.pw.toml"
+hash = "9f6cf3e386f78f9cbf3dae359e7973190b923220d44de6495d04aab722f9b683"
+metafile = true
+
+[[files]]
+file = "patchouli.pw.toml"
+hash = "d78de81e44a119bf740afa0bb706635c1dffe690a632c7349e2d2697a5566e9c"
+metafile = true
+
+[[files]]
+file = "psi.pw.toml"
+hash = "f8694f5462901bad305c314d7ea9ec7756787aaaf86a796c511be08920b28393"
+metafile = true
+
+[[files]]
+file = "rechiseled-create.pw.toml"
+hash = "5cc37c738fd2c1b790bd3e5522ced667020cf44d80ff8016286c48b59ec379c2"
+metafile = true
+
+[[files]]
+file = "rechiseled.pw.toml"
+hash = "e9197b4b83c3d9cf3568d644104c792901648780bd4710fc58ba3d07ea31c185"
+metafile = true
+
+[[files]]
+file = "rpl.pw.toml"
+hash = "75dcc598339b396de9aaea2896fddc1a8a667cf565905b9f6f8688ed73a4ccae"
+metafile = true
+
+[[files]]
+file = "rustic-delight.pw.toml"
+hash = "e71861ce527ae9b7e0c484d672c1e365007d061f72578d11ac531379ded28a7f"
+metafile = true
+
+[[files]]
+file = "sable.pw.toml"
+hash = "5aea527dd671cc16b9d4dde1cec35dbbe1bbabc3a37ba62d537863daf2f8ef95"
+metafile = true
+
+[[files]]
+file = "slice-and-dice.pw.toml"
+hash = "80d6e3748b677bfbeb3c4c1953215e6df74214d17cbfb923cb0db896b4a04254"
+metafile = true
+
+[[files]]
+file = "sodium.pw.toml"
+hash = "e79139f362694836c402c4ca6cf7705b1c1bd5c219b32cb3b2ad8ff48b265a82"
+metafile = true
+
+[[files]]
+file = "supermartijn642s-config-lib.pw.toml"
+hash = "0e1d1db1559dc09ddd9f0d49a69681ee32204b91e115c722b7c8f123565ad258"
+metafile = true
+
+[[files]]
+file = "supermartijn642s-core-lib.pw.toml"
+hash = "8e79251a5a92e70066c8b75c1e42dd5750fa75d65070cab5b69271bb6223628f"
+metafile = true
+
+[[files]]
+file = "tectonic.pw.toml"
+hash = "5363851361eb5f4f7fbf5b9e21a4c1afc9eccb61b651d578e09617d189671011"
+metafile = true
+
+[[files]]
+file = "terralith.pw.toml"
+hash = "d0e576ccb1b237dec5de68037a28a6cc4143618484cf0d7b5069ed61748fc847"
+metafile = true
+
+[[files]]
+file = "when-dungeons-arise-seven-seas.pw.toml"
+hash = "b8b6e810a946a86af2c14e7b844583db2efcb0e31c617384b7d4c8276058faa2"
+metafile = true
+
+[[files]]
+file = "when-dungeons-arise.pw.toml"
+hash = "f4b43a2b51a64d459c2b5b2f9f43b112f4d0288921f88023a8b9b24dfe831e0c"
+metafile = true
+
+[[files]]
+file = "worldweaver-neoforge.pw.toml"
+hash = "8974a76a554c95cb4a326924b9337727397e9f1576ae345cb9add2bfe957f05e"
+metafile = true
+
+[[files]]
+file = "wunderlib-neoforge.pw.toml"
+hash = "ba37de53834892957b9452463d4c6f87e1d86265e0bb72b3b36454255047be18"
+metafile = true
+
+[[files]]
+file = "xaeros-minimap.pw.toml"
+hash = "e94b29c9f23ce22a8e0a1f8dbc495b2c0fb668983bc9ba2ebf2560aa184e6d3e"
+metafile = true
+
+[[files]]
+file = "yacl.pw.toml"
+hash = "2c3c1a470e0aadb71f40f2eade67760b9452b3d6c23e039239aeeded0e72c5ca"
+metafile = true

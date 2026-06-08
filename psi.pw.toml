@@ -1,0 +1,21 @@
+filename = 'Psi-1.21.1-108.jar'
+name = 'Psi'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-108'
+
+[download]
+hash = 'fb0fb0494c77744172c2f747acd3e01101a8f77891a7e400f9fa68432ba4bd7aa3aa4eb37ff69b83d59b4f4cb13158f035cc68c347624323c3377fc7a380ee99'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pOeA0exL/versions/dUM55Jd9/Psi-1.21.1-108.jar'
+
+[update.modrinth]
+mod-id = 'pOeA0exL'
+version = 'dUM55Jd9'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nU0bVIaL'
+type = 'REQUIRED'

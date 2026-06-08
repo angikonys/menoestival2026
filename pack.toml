@@ -1,10 +1,12 @@
-name = "Menoria Estival"
+name = "Menoria Estival 2026"
 author = "angiko"
 version = "1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
+hash = "278d122b34b067efb59092ed136d8192b29f8d474830d0d1d49f36c0278d4062"
 
 [versions]
 minecraft = "1.21.1"
