@@ -1,0 +1,11 @@
+name = "Menoria Estival"
+author = "angiko"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"
