@@ -531,11 +531,6 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
-file = "mods/vertigo.pw.toml"
-hash = "f49660144484e5bb61be21e175a60c55b87b20d40d2ffb3634f2129d2d880cef"
-metafile = true
-
-[[files]]
 file = "mods/when-dungeons-arise-seven-seas.pw.toml"
 hash = "49daa837ab97ab95e582d7ca094f56e5b3a04bf00248bc86e50ee8874cea87af"
 metafile = true
