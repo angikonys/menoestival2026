@@ -511,6 +511,11 @@ hash = "3c08d6331ca871abdfa7a185011d2a6349a1125cc6b2cf87f9c89ca4043dbe70"
 metafile = true
 
 [[files]]
+file = "mods/tacz-1.21.1.pw.toml"
+hash = "6f3afa4d434d61b2c08310e687673fdfe56cee59e245c06f8bcccaf16a682344"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "cd5c8c1f6183f5c2ca899daed14f272890566002dfcb2d9f9a59dfbfac0bc8f6"
 metafile = true
