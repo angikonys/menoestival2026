@@ -71,6 +71,11 @@ hash = "581fe9931e2afd190443334286e3f0acb31c71fce02a2e7dc7014c4f18fdb03a"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "0194091946d249681e33dd32a927122e844d4093c2f14165f2f99f92e028af11"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "fd923f77a85d87a52e78076d8a6ebe1ae5eeee5af132b960f52b47715c414ed9"
 metafile = true
@@ -268,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "29b81fd0e463f7eeb5b92c1e633f16a562d340bb1ec71f65a80524d2389edb03"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
 metafile = true
 
 [[files]]
