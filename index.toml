@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/cbcperipheral.pw.toml"
-hash = "dabdb2af208e63254ad8ee11eb1fca491ad1d9e566bb81d5e58ab8d46d175ded"
+hash = "0acbc2105fdfcd535ab43acab2bbd5c9152cdb6d0001e17456ca8d9670914755"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-better-item-vaults.pw.toml"
-hash = "5e88b9327627d2723da106b4cd355635d35b444a4079d47b84012f293eb899d4"
+hash = "6964531591282773e43fd1415d420454696f7d48795d99597ac7fd1f7397cb57"
 metafile = true
 
 [[files]]
@@ -143,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "c675fe9b36a86f29039dcc28e871b9d474946039aa1f6623fa4715bff3909ba9"
-metafile = true
-
-[[files]]
-file = "mods/create-cc-total-logistics.pw.toml"
-hash = "6865ce6259485ecddbdc6164f66c892fe74d4558c8f18673a8e8073bd9bef2ba"
 metafile = true
 
 [[files]]
@@ -512,12 +507,12 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise-seven-seas.pw.toml"
-hash = "7e49c6ef4719e7aca33b0306b5512939eb9314449eb0b6fb3ba40311f5ee7e1c"
+hash = "53495e6602737fe158e000adee94d22a6f1cc6c228450ea95a5e54cfbe564ca4"
 metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "22c2aae2f56da30c741707053c1f0b5c27df07d102db28991e8a7c6df306fdbd"
+hash = "e23333908237aa82ede7dc5620acba1bf0d837979f2eb36b4418c82e5bb272c5"
 metafile = true
 
 [[files]]
