@@ -81,11 +81,6 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
-metafile = true
-
-[[files]]
 file = "mods/copycats+-aeronautics-weight.pw.toml"
 hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
 metafile = true
@@ -311,11 +306,6 @@ hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
 metafile = true
 
 [[files]]
-file = "mods/extended-build-limit.pw.toml"
-hash = "c84f233e9c3e3d0244079649d77951d01909d9ac9b23e0aa31c47b891198f282"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
@@ -323,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
@@ -383,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "66a57cc8d304db7381210763955db9be51ca984c29292dc7ede40b40816130d0"
 metafile = true
 
 [[files]]
@@ -533,11 +523,6 @@ metafile = true
 [[files]]
 file = "mods/wunderlib-neoforge.pw.toml"
 hash = "be9540e46f1fb23ecc35d79b468480558924c518f759e46783f9d9de68b772f3"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "2dea95045b782554e51b6d718e059f8736481814817ec760f0df25999e126747"
 metafile = true
 
 [[files]]
