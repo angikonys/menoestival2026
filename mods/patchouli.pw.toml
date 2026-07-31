@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar"
-hash-format = "sha512"
-hash = "0b5c172db9a6eeecb5ca44b359a83548c3a60be7ff313959acdfc1e5b8039736c18e57e947d435b52d06da31159d2d02ea36e5742668dbc826308a4c99e4039f"
+hash-format = "sha256"
+hash = "959af52ed6640c316c3a8469203420be4aeea11ad6603890ba83bf48f5d9f993"
 
 [update]
 [update.modrinth]

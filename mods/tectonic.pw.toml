@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/vNrkxC3z/tectonic-3.0.26-neoforge-21.1.jar"
-hash-format = "sha512"
-hash = "7f91f69f6985cf5d0533dc0a645286f40b9625e0a67e405969d153497923a9b2e6b88e436b017eb969a1fbe28d02850d87152a06f2c01dc55779814912d770ef"
+hash-format = "sha256"
+hash = "36aa9b4a8c399c9943460a7a58d91402b6d671c10ab11b099c2ee1d75af232ea"
 
 [update]
 [update.modrinth]

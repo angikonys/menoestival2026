@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/cV2GZBSJ/sliceanddice-neoforge-4.3.2.jar"
-hash-format = "sha512"
-hash = "5093797c46be646a9af44aace05e43a5705a3bd59927c0fa0e6a3e0e00fdf4222d85eca06d4be6381915f87a064488174fa690218f380c156ae46d0b725b0cc4"
+hash-format = "sha256"
+hash = "334afd3a0d543674823032eb710189d29b6ffb74bc35e27c569c75e6c7ca07e0"
 
 [update]
 [update.modrinth]

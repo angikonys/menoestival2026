@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wjpmYU1u/versions/wsXjRa7l/aerocopycats-1.1.1.jar"
-hash-format = "sha512"
-hash = "4f48c03a25a6f4ec022398cece20e5aa8d51f00951a0f568980e6e5419c1af2f12c8bb652500721afef119ecc455e4c5b1bc4bb7bef38d88846759f0e4c39e8c"
+hash-format = "sha256"
+hash = "3199c2afddb6eea98f041ea9a36aed71542213aedf0fdd0da21f6be4a1e72ae8"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "architectury-13.0.11-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "008656a0702801174b8ec245ed7aad1921d6e9f1"
+hash-format = "sha256"
+hash = "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb"
 mode = "metadata:curseforge"
 
 [update]

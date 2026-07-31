@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dzb1a5WV/versions/LxesD770/CreateDragonsPlus-1.11.3.jar"
-hash-format = "sha512"
-hash = "71bb7806789bba9a15a8dce9e5b111b1fcdb058419039d668ed4cb5fd1d36604feadf04894a5214e95deba39c74cec58487adaa0cca321b889ce1d294623d6a6"
+hash-format = "sha256"
+hash = "4aa4f5669cbbc68e070fb329de08a521b15cc1a9f24a892c37047863366efccc"
 
 [update]
 [update.modrinth]

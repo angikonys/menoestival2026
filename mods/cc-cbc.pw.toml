@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zA9Klldw/versions/naLCoIB4/cc-cbc-v1.1.1-1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "0bb9959fc21c940e307430225bcf8f3878092dbacb073b16f6e47c06057ea5b67bb2ce4a2f9bc8d4acd5784061e7212267c7eeb3b02eaecbded1234b4cc284a5"
+hash-format = "sha256"
+hash = "0afc7fe10d31c87c0737ad1c3e443c87d3b57aab93a9628fdf51c3ee4053b535"
 
 [update]
 [update.modrinth]

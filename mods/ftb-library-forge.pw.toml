@@ -3,8 +3,8 @@ filename = "ftb-library-neoforge-2101.1.34.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "58e47947064d1aefe4cc304cf19175152b901269"
+hash-format = "sha256"
+hash = "603e7c9fc8e7020642f2ff6d3a904ef5cb12f7cf8b683c5ff8b08f120d083cff"
 mode = "metadata:curseforge"
 
 [update]

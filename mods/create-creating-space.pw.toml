@@ -3,8 +3,8 @@ filename = "creatingspace-1.21.1-1.7.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ebb48f18ac54b152bc7d355581ee70c0d0131760"
+hash-format = "sha256"
+hash = "b128a2f01beb25dd11914807070f77d9b91013a7bb38d2a2f6a29237b2dd6df6"
 mode = "metadata:curseforge"
 
 [update]

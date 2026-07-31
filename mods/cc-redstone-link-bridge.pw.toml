@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/k3y2uvYF/versions/gH50GtVz/ccredstonelinkbridge-neoforge-1.0.3.jar"
-hash-format = "sha512"
-hash = "d7a1cb8d4b02a25bdbebd6893e94cfb1d0702a534f9168886dcf82bec9cc6c4190dbcd0dbc11701fe0cff9b5a38fb9331874249dc7ced4fbc2e9b4dd1645e984"
+hash-format = "sha256"
+hash = "5f07df1b7e12b4cd36fe96a7b7a1aaf0531f989dd1a451220ec788470c638e41"
 
 [update]
 [update.modrinth]

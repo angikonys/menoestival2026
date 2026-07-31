@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HZmhgdJk/versions/5db3GZzg/wunderlib-21.0.10.jar"
-hash-format = "sha512"
-hash = "8785b16968ed82ead0fc3f6f42ca3dd7fa94b94a79eeb97a61e57b258bf8c0e6775002a561cf28a1840216bd06f3b86a31da420d4ccc2d37c14abe22058bdf96"
+hash-format = "sha256"
+hash = "b49c7a040f87ade1e3f73bd7335e8d68ff7a328919c192a6d2c022bae6786a2f"
 
 [update]
 [update.modrinth]

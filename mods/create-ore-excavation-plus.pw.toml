@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZHocuC06/versions/mevrMbVX/create_ore_excavation_plus-0.2.5-1.21.1.jar"
-hash-format = "sha512"
-hash = "5181bb7d301deb4a47c6e475b954d66177e8fd5c698eefda4179489a8d0e5a47d80f79774b966cd0ea7301220dd59e34c5bb4803bf473e6c7565c314d0ad277e"
+hash-format = "sha256"
+hash = "8ee16be18c109e4b033e8eabc91223f64da7e5d63c34340a14e2f08612ed4600"
 
 [update]
 [update.modrinth]

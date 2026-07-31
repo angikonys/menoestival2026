@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/73ZXeRfx/versions/mu6DXA7H/create_aeronautics_automated_logistics-0.5.2.jar"
-hash-format = "sha512"
-hash = "7114dc961ff1fb20f19358721e32184eee20a5aad8123a2199152204745688bcaeabdfcf05aba016bf844caba90860ad7ac22c2c4e4ea71e9de3f80e2d3a7416"
+hash-format = "sha256"
+hash = "1218d44f3fd65c1dc2fe59603704bfbb8806d3024978e28c69421802e40865ad"
 
 [update]
 [update.modrinth]
