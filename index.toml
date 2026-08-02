@@ -166,6 +166,11 @@ hash = "fcdbed297f2568d50c9c82aa620d602d0c2d5429b8933b6cb5eab17131744aab"
 metafile = true
 
 [[files]]
+file = "mods/create-coasters-simulated.pw.toml"
+hash = "8d3d93487823b5c630123d9796f670114f9ffefc5361fc133a6a30be2f6369ed"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "3c29261f5c68dda7dc696fe8e6b342cd4cc23d413aa0b13f082519091e36c965"
 metafile = true
@@ -398,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "3156cc045c1c892816a8d96de5fd1a0e54e4d65b23f22badd915037333926693"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "a0a2036a901c1d61589768d62bc92d0cd630a40e9dfe92f45aefdc835c0c808d"
 metafile = true
 
 [[files]]
