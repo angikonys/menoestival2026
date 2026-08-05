@@ -16,6 +16,11 @@ hash = "00acbeb8cfb8358f45b26fc1229ab96775011d618d67e2b99d3e165a22aa58fd"
 metafile = true
 
 [[files]]
+file = "mods/armourers-workshop.pw.toml"
+hash = "9fde3fc37e25b17f175145590130aa284439296578fc2b599cbc71f603451d65"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "7a4c7ada9d3ab41e2e6fb902b59cc636106ea5099fbb44db7e44fc914b0973a3"
 metafile = true
