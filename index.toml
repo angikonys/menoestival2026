@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/server_scripts/stage_lock.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "c5105a612998991aafe9d13fcb37d16c671c9b38e3e4e62b3d642e7a650cbfae"
 metafile = true
@@ -403,11 +407,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
-metafile = true
-
-[[files]]
-file = "mods/leawind-third-person.pw.toml"
-hash = "f14d1d2bd4c1ef51b33485d107c16e4a212ad4d1210a45efd39e5620f0cb6cda"
 metafile = true
 
 [[files]]
