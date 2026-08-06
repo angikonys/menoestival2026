@@ -480,6 +480,11 @@ hash = "d5427308a379764cd38ca1448319b818a0b9004d88135f36ead329870bd3c183"
 metafile = true
 
 [[files]]
+file = "mods/progressivestages.pw.toml"
+hash = "4d277fabc650f3fea2e89ac1f80e32152521ca3575d6f7c45461f033a7c7a6b8"
+metafile = true
+
+[[files]]
 file = "mods/psi.pw.toml"
 hash = "77c5146ad00e9593d5aca57f21182c04d5b8f029c9475f73fb9d9dc4e6d742ee"
 metafile = true
