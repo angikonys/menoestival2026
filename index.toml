@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "00acbeb8cfb8358f45b26fc1229ab96775011d618d67e2b99d3e165a22aa58fd"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -88,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "fe127a6927e3b15b8503102cf377efb25f1eac5a110997003cb06e123ad210d8"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "c19c2e5a0b485648c801c4663ece3596d7e3bd1164f9065f27242346655066bf"
 metafile = true
 
 [[files]]
@@ -331,6 +336,11 @@ hash = "fe4578b7f4a8c09f5e672a139c5fe89262e6c4728d82c5a22515120c83e3eb08"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "bdc751ad0e632ae3b25839d12bd5d548f575719baf61767b5ab64aa99d120ccc"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "6f047ffbb58d9fb18b940983ca1dc760eda0ebff1e4bbe0d51273d62334e70a1"
 metafile = true
@@ -401,6 +411,11 @@ hash = "4c9f342eabc9930a391ac5b92087fed8a6115871d51bcdf71b7b9187f6bda367"
 metafile = true
 
 [[files]]
+file = "mods/leawind-third-person.pw.toml"
+hash = "f14d1d2bd4c1ef51b33485d107c16e4a212ad4d1210a45efd39e5620f0cb6cda"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "78d27aadf3bb0a99ea88a88bcd8c89a97ceabc14a2c5d2755a31dfaa8181f2ab"
 metafile = true
@@ -468,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d5427308a379764cd38ca1448319b818a0b9004d88135f36ead329870bd3c183"
+metafile = true
+
+[[files]]
+file = "mods/pomkots-mechs.pw.toml"
+hash = "899cbee3f28141f69f0956b219bd8e33e77fdb82f52e8c682a1b1caf2dd2440e"
 metafile = true
 
 [[files]]
