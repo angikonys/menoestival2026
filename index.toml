@@ -401,6 +401,11 @@ hash = "4c9f342eabc9930a391ac5b92087fed8a6115871d51bcdf71b7b9187f6bda367"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+metafile = true
+
+[[files]]
 file = "mods/leawind-third-person.pw.toml"
 hash = "f14d1d2bd4c1ef51b33485d107c16e4a212ad4d1210a45efd39e5620f0cb6cda"
 metafile = true
@@ -488,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "bb64b82aefdea5bc125fa6bffe832fe8ffdea7b18536015a8be28d135dc96e5e"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
 
 [[files]]
