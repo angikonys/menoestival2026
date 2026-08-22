@@ -1,0 +1,13 @@
+name = "Apple Skins"
+filename = "appleskins-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q5IXwQJO/versions/5u9xXXTK/appleskins-1.4.0.jar"
+hash-format = "sha512"
+hash = "aad9a68a4b6dd2faa0a641f0988de0a7049dd6d84908a697b411eb3a39980b1d3a599fdbcdab87f681afbe6cf2806aaf60b33e3701777e394f2dbb5a9ed9bb86"
+
+[update]
+[update.modrinth]
+mod-id = "Q5IXwQJO"
+version = "5u9xXXTK"

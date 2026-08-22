@@ -15,6 +15,11 @@ hash = "ac99251bc91fa124421f807a661a9408953b70d348206e53fde41783b522ec1c"
 metafile = true
 
 [[files]]
+file = "mods/apple-skins.pw.toml"
+hash = "ae43513fa5d7eb4998d95ac3c8b9669a4c4a5bcff7e79756e968dce89339b2ea"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
@@ -42,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "c8b16a9466293917d779a51b05a3d7678d94c93c422c56369b3107b9aee72e37"
+metafile = true
+
+[[files]]
+file = "mods/bettermultiplayersleep.pw.toml"
+hash = "8a8c14bd9408fc1b19185ed3207f328a8e81ba138125647f80ee3cb568b6e7e9"
 metafile = true
 
 [[files]]
@@ -100,6 +110,11 @@ hash = "fe127a6927e3b15b8503102cf377efb25f1eac5a110997003cb06e123ad210d8"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
+metafile = true
+
+[[files]]
 file = "mods/copycats+-aeronautics-weight.pw.toml"
 hash = "7d312e2bc1b2b8e001bb7d89eb0312b2cb4d3745d892763b471ed5d64842641a"
 metafile = true
@@ -112,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "583c1dda1a7bb615a27861f1c2a0c0d5e55a26c31a691cb8efe647f84c9380f5"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
 metafile = true
 
 [[files]]
@@ -435,6 +455,11 @@ hash = "5e0b042e046ae73495cfbb3e6d0b9394b7df08dabdb39f67128f86919ba57e81"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "8f9feaae861d37fd25a7e209343c197a752c0bf71831b1dc9833f4cb569783bf"
 metafile = true
@@ -525,8 +550,18 @@ hash = "2a479d0d5753343738e07e59068254dd4e1c77f87620a630346798546d65e3f7"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d5427308a379764cd38ca1448319b818a0b9004d88135f36ead329870bd3c183"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
@@ -633,3 +668,7 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "7c0f054aa1af18a505d8c3747bac786245c1fe1412eb64e83c832971afcf80f6"
 metafile = true
+
+[[files]]
+file = "tacz/tacz-pre.toml"
+hash = "87155972680fc8f6247d84cf987f09ddd738ed4dc1013565f55817bfd97c5d58"
