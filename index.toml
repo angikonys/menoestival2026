@@ -465,11 +465,6 @@ hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "8f9feaae861d37fd25a7e209343c197a752c0bf71831b1dc9833f4cb569783bf"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "eb23a10af2c212f6c3578993fe8477990be2ecd319780957ab2a333af639c499"
 metafile = true
@@ -567,11 +562,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
-metafile = true
-
-[[files]]
-file = "mods/progressivestages.pw.toml"
-hash = "4d277fabc650f3fea2e89ac1f80e32152521ca3575d6f7c45461f033a7c7a6b8"
 metafile = true
 
 [[files]]
@@ -673,7 +663,3 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "7c0f054aa1af18a505d8c3747bac786245c1fe1412eb64e83c832971afcf80f6"
 metafile = true
-
-[[files]]
-file = "tacz/tacz-pre.toml"
-hash = "87155972680fc8f6247d84cf987f09ddd738ed4dc1013565f55817bfd97c5d58"
