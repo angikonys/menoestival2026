@@ -385,6 +385,11 @@ hash = "8cae33b1efef3e002d97f8baf1f78b33b6d723cba76f8c9485bf98ec85416322"
 metafile = true
 
 [[files]]
+file = "mods/epoch-stages.pw.toml"
+hash = "ca7e5fbcfb84d8356161203d9254448667d1dd01c947a50a05306f2fb4050108"
+metafile = true
+
+[[files]]
 file = "mods/escalated.pw.toml"
 hash = "5822270769e6a4d6372fa5d88eeb003f719a539cc60eb047006cfa9b81baab02"
 metafile = true
