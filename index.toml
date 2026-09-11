@@ -15,6 +15,11 @@ hash = "ac99251bc91fa124421f807a661a9408953b70d348206e53fde41783b522ec1c"
 metafile = true
 
 [[files]]
+file = "mods/almostunified.pw.toml"
+hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
+metafile = true
+
+[[files]]
 file = "mods/apple-skins.pw.toml"
 hash = "ae43513fa5d7eb4998d95ac3c8b9669a4c4a5bcff7e79756e968dce89339b2ea"
 metafile = true
