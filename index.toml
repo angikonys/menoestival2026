@@ -30,6 +30,11 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "2dedbdaea212fc6b7327eb46b9d6ced3597aa0920ba1df19950a79ed408c5178"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "8a857077b98b950607b66b0c4fec557f214190dd6657d5fc49cc3b8540126b5b"
 metafile = true
@@ -572,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/psi.pw.toml"
 hash = "40c7f3e1346a776603fc6fc510709fc445a6084fc30c6817f64dd1a24651e7d8"
+metafile = true
+
+[[files]]
+file = "mods/psitweaks.pw.toml"
+hash = "66cd9e8f6fe36e55b39fbf98a35ae7e81fbc39a33f2f601cee030bb7f2e73de2"
 metafile = true
 
 [[files]]

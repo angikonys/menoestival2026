@@ -1,0 +1,13 @@
+name = "Psi: Tweaks and Additions"
+filename = "psitweaks-1.21.1-0.10.8-hotfix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pwmvTzDk/versions/AsQcdxwr/psitweaks-1.21.1-0.10.8-hotfix.jar"
+hash-format = "sha512"
+hash = "3bb0655af64445c14b29a77141f7421517ac328fa5d772b839259fedc4228c9f1ba6f321e533968dcc9d4cda95b6425b06ece5dbbd6e815c8655c006e273603d"
+
+[update]
+[update.modrinth]
+mod-id = "pwmvTzDk"
+version = "AsQcdxwr"
