@@ -265,11 +265,6 @@ hash = "fdce46060dbc0033029338e92dabae981a780c80bcc6705a43cb7060925bfb78"
 metafile = true
 
 [[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "064b51c45426c5f7dd4f435fa8c398d90da5e761932d6e94cb525f78b07b7e61"
-metafile = true
-
-[[files]]
 file = "mods/create-ore-excavation-plus.pw.toml"
 hash = "7fe779008811ce6534122dbc9dd7c64656908ae46773f025db52a22e5d555a85"
 metafile = true
@@ -342,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/createlazytick.pw.toml"
 hash = "0590e6ac543f33f0df98b90fe1ccfd57bbfe2af396dc3ef87264c313f104e7ff"
+metafile = true
+
+[[files]]
+file = "mods/createnuclear.pw.toml"
+hash = "e7a6cda82ddd91e08e2fbadff97d4590861f0ca78d9fa12a8693de25f48a58ac"
 metafile = true
 
 [[files]]
