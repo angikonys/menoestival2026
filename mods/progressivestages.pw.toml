@@ -1,0 +1,13 @@
+name = "ProgressiveStages"
+filename = "progressivestages-3.0.4-fix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rY4mdP4Q/versions/FWSVEj4J/progressivestages-3.0.4-fix.jar"
+hash-format = "sha512"
+hash = "c98929383457b3a52c9bb4b900fb65c989818152be4e0c43da05db711dcdb8eab7db35e3801506d66297373e5e44087fff5eaa0e7fe623cc7b543e2ef817fb42"
+
+[update]
+[update.modrinth]
+mod-id = "rY4mdP4Q"
+version = "FWSVEj4J"

@@ -390,11 +390,6 @@ hash = "8cae33b1efef3e002d97f8baf1f78b33b6d723cba76f8c9485bf98ec85416322"
 metafile = true
 
 [[files]]
-file = "mods/epoch-stages.pw.toml"
-hash = "ca7e5fbcfb84d8356161203d9254448667d1dd01c947a50a05306f2fb4050108"
-metafile = true
-
-[[files]]
 file = "mods/escalated.pw.toml"
 hash = "528ae7ee97068e0250282f449ee8224ff6f3dfd3b66c50d7651590b43080c7a8"
 metafile = true
@@ -572,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "d935e4ce118d15c88b10809df85e801f0e9577855f870f3c28e5a0bd5e7fecf6"
+metafile = true
+
+[[files]]
+file = "mods/progressivestages.pw.toml"
+hash = "e26fbae2ed9abd2f5da03bf6373d9d558c47753d9d2c1bd4714f388a601209b6"
 metafile = true
 
 [[files]]
