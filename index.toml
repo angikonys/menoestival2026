@@ -150,7 +150,7 @@ hash = "224b397f6c1f3d892e03b1c4a97bf9e0c45dfdb0be7ff5aec9166656ce7cbce9"
 
 [[files]]
 file = "config/progressivestages/stages/magic_mahou_master/rules.toml"
-hash = "922cddffe565be1ad3859e4b1ab7d4bb15d261d2f6b851aa53ef25f312021bf1"
+hash = "b9609899b899611cc104d2cd815303011ed7f1cb7fac75780ebe2ccbc22ab464"
 
 [[files]]
 file = "config/progressivestages/stages/magic_mahou_master/stage.toml"

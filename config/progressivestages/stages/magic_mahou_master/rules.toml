@@ -3,14 +3,12 @@
 
 [items]
 locked = [
-    "mahoutsukai:black_fire",
     "mahoutsukai:caliburn",
     "mahoutsukai:clarent",
     "mahoutsukai:morgan",
     "mahoutsukai:nobu",
     "mahoutsukai:proximity_projection_keys",
     "mahoutsukai:replica",
-    "mahoutsukai:rhongomyniad",
     "mahoutsukai:rule_breaker",
     "mahoutsukai:scroll_ascension",
     "mahoutsukai:scroll_black_flame",
@@ -44,14 +42,12 @@ locked = [
 [recipes]
 # toute recette qui produit un objet verrouillé
 locked_items = [
-    "mahoutsukai:black_fire",
     "mahoutsukai:caliburn",
     "mahoutsukai:clarent",
     "mahoutsukai:morgan",
     "mahoutsukai:nobu",
     "mahoutsukai:proximity_projection_keys",
     "mahoutsukai:replica",
-    "mahoutsukai:rhongomyniad",
     "mahoutsukai:rule_breaker",
     "mahoutsukai:scroll_ascension",
     "mahoutsukai:scroll_black_flame",
