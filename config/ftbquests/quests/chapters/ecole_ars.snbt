@@ -42,14 +42,14 @@
 		dependencies: ["4A6E04A40C7A9A44"]
 		id: "4941C03F19C35701"
 		rewards: [{
-			count: 1
+			count: 8
 			id: "54FE225B4514635F"
-			item: { count: 1, id: "ars_nouveau:dowsing_rod" }
+			item: { count: 1, id: "ars_nouveau:magelight_torch" }
 			type: "item"
 		}{
-			count: 8
+			count: 4
 			id: "3C7443E5467268DB"
-			item: { count: 1, id: "ars_nouveau:magelight_torch" }
+			item: { count: 1, id: "ars_nouveau:source_berry_roll" }
 			type: "item"
 		}]
 		tasks: [{

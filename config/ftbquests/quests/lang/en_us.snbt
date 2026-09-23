@@ -15,10 +15,10 @@
 	quest.757A32242EFCE882.quest_desc: ["Ton premier assemblage séquencé."]
 	quest.422CCC65D074B5D7.title: "La vapeur"
 	quest.422CCC65D074B5D7.quest_desc: ["Construis un moteur à vapeur complet et fais-le tourner."]
-	task.32A6E26ADE4F36E9.title: "Mon moteur à vapeur tourne"
+	task.32A6E26ADE4F36E9.title: "Faire tourner un moteur à vapeur"
 	quest.6B3CF0A186795ED4.title: "Le rail (optionnel)"
-	quest.6B3CF0A186795ED4.quest_desc: ["Relie deux gares par un train."]
-	task.443480B531F10B1D.title: "Un train relie deux gares"
+	quest.6B3CF0A186795ED4.quest_desc: ["Assemble ton premier train."]
+	task.443480B531F10B1D.title: "Assembler un train"
 	quest.2AFD6E9FACCA8D73.title: "Ouvrir l'Ère Industrielle"
 	quest.2AFD6E9FACCA8D73.quest_desc: ["Fabrique les Plans de l'Ère Industrielle à l'établi mécanique et rends-les." "Débloque TFMG et les addons industriels."]
 	chapter.15B7AFBB3DDBA17A.title: "Ère Électrique"
@@ -33,8 +33,7 @@
 	quest.7C4F2B36EDEE660D.title: "Raffiner"
 	quest.7C4F2B36EDEE660D.quest_desc: ["Construis une colonne de distillation et sépare le pétrole brut."]
 	quest.2E444E3D7647121C.title: "Le moteur"
-	quest.2E444E3D7647121C.quest_desc: ["Fais tourner une usine avec un moteur alimenté au diesel."]
-	task.31419D7E065D4213.title: "Mon usine tourne au diesel"
+	quest.2E444E3D7647121C.quest_desc: ["Le moteur à explosion de TFMG, alimenté au diesel ou à l'essence."]
 	quest.43F145D55BED0BBF.title: "Ouvrir l'Ère Électrique"
 	quest.43F145D55BED0BBF.quest_desc: ["Fabrique les Plans de l'Ère Électrique à l'établi mécanique et rends-les." "Débloque l'électricité TFMG et les ordinateurs."]
 	chapter.4AC61BF2C076CC76.title: "Ère Nucléaire"
@@ -48,8 +47,7 @@
 	quest.124C6058BA3D969E.title: "La chimie"
 	quest.124C6058BA3D969E.quest_desc: ["L'acide sulfurique servira à extraire l'uranium."]
 	quest.4A02EE1D9A488353.title: "Le contrôle"
-	quest.4A02EE1D9A488353.quest_desc: ["Un ordinateur qui affiche la tension d'un voltmètre sur un moniteur."]
-	task.79EE30F5EC96DCB9.title: "Mon ordinateur surveille le réseau"
+	quest.4A02EE1D9A488353.quest_desc: ["Un ordinateur et un voltmètre : de quoi surveiller le réseau."]
 	quest.376D459538E944F5.title: "Ouvrir l'Ère Nucléaire"
 	quest.376D459538E944F5.quest_desc: ["Fabrique les Plans de l'Ère Nucléaire à l'établi mécanique et rends-les." "Débloque Create Nuclear."]
 	chapter.171E50263E977FFE.title: "Ère Aérienne"
@@ -62,9 +60,9 @@
 	quest.4BFB6410C40B4106.quest_desc: ["Monte au-dessus de Y 250."]
 	task.3A30A0C352F0271E.title: "Atteindre Y 250"
 	quest.343BC4988BEC243C.title: "Matériaux légers"
-	quest.7F8B2D88DAB71F5C.title: "Grande contraption"
-	quest.7F8B2D88DAB71F5C.quest_desc: ["Fais bouger une contraption d'au moins 100 blocs."]
-	task.31A991C706505D06.title: "Ma contraption de 100 blocs bouge"
+	quest.7F8B2D88DAB71F5C.title: "Maîtriser le vent"
+	quest.7F8B2D88DAB71F5C.quest_desc: ["Assemble un moulin à vent de puissance maximale : une grande structure de voiles en mouvement."]
+	task.31A991C706505D06.title: "Moulin à vent de puissance maximale"
 	quest.3E4D0945C787D707.title: "Ouvrir l'Ère Aérienne"
 	quest.3E4D0945C787D707.quest_desc: ["Fabrique les Plans de l'Ère Aérienne à l'établi mécanique et rends-les." "Débloque la Navigation céleste (lévitite, pilotage, construction jusqu'à Y 1023), les machines steampunk d'Aeronautics et ses addons."]
 	chapter.6A1F3EEBDB2C5F86.title: "Conquête Spatiale"
@@ -74,8 +72,7 @@
 	task.3637E6BE5EDEBCD7.title: "Avoir l'Ère Électrique"
 	quest.126FD7D8F793C68D.title: "Carburants"
 	quest.62529AC9320EEFCC.title: "Calculer la trajectoire"
-	quest.62529AC9320EEFCC.quest_desc: ["Écris un programme sur un ordinateur CC."]
-	task.4230AA44EDB2D6D0.title: "Mon programme de trajectoire fonctionne"
+	quest.62529AC9320EEFCC.quest_desc: ["Il faudra un ordinateur CC pour calculer les trajectoires."]
 	quest.7A5913F90CABB132.title: "Structure de fusée"
 	quest.41AA3B545AF0F8C2.title: "Voir la Lune"
 	quest.41AA3B545AF0F8C2.quest_desc: ["Monte au sommet du monde une nuit de pleine lune."]
@@ -108,8 +105,7 @@
 	quest.7599EF18593E496B.quest_desc: ["Se valide automatiquement quand tu as l'Ère Militaire."]
 	task.7FD95C49F5B031F4.title: "Avoir l'Ère Militaire"
 	quest.747C6C07351D0048.title: "Le premier tir"
-	quest.747C6C07351D0048.quest_desc: ["Construis un canon et tire un obus explosif."]
-	task.4878A8AA54B81F12.title: "J'ai tiré un obus"
+	quest.747C6C07351D0048.quest_desc: ["Monte un canon et prépare des obus explosifs."]
 	quest.12A37ACE8F84283D.title: "Ciblage électronique"
 	quest.12A37ACE8F84283D.quest_desc: ["Il faut l'Ère Électrique."]
 	task.7035046B3EF6B39E.title: "Avoir l'Ère Électrique"
@@ -123,19 +119,16 @@
 	task.445951CAD24EBE32.title: "Avoir l'Ère Électrique"
 	quest.2EF8E2981A914F8B.title: "Une anomalie"
 	quest.2EF8E2981A914F8B.quest_desc: ["Tes instruments électriques captent un bruit de fond inexpliqué." "Il devient plus fort quand quelqu'un se concentre à proximité." "Mesure-le et affiche-le."]
-	task.5CC1A97515FD04B4.title: "J'ai enregistré l'anomalie"
 	quest.2AE189E6F110566B.title: "Isoler le signal"
 	quest.2AE189E6F110566B.quest_desc: ["Le bruit ne vient d'aucune source électrique connue." "Un ordinateur et une antenne permettent de le filtrer."]
 	quest.66E5F61397008F9E.title: "Le détecteur de psions"
 	quest.66E5F61397008F9E.quest_desc: ["Un champ électromagnétique intense réagit au signal." "Construis un détecteur : bobine, aimants et transformateur."]
 	quest.2400A7EE430F2AE8.title: "Le psion"
 	quest.2400A7EE430F2AE8.quest_desc: ["Le signal est porté par une particule non physique : le psion." "Il ne se propage pas dans l'espace, mais dans la pensée." "Chaque objet possède une « information » que les psions peuvent lire et modifier."]
-	task.584271A3C5561107.title: "J'ai compris la nature du psion"
 	quest.1A239A127869D0C8.title: "La séquence d'activation"
 	quest.1A239A127869D0C8.quest_desc: ["Un esprit seul émet des psions sans les contrôler." "Il faut un appareil qui les ordonne en séquence : un assistant de lancement."]
 	quest.2DD8CA7325004EFD.title: "Éveil psychique"
 	quest.2DD8CA7325004EFD.quest_desc: ["Tu sais détecter, comprendre et ordonner les psions." "Débloque Psi et le Casting Assistant Device (CAD)."]
-	task.6A8C05FCC20C1446.title: "Je suis prêt à éveiller mon esprit"
 	chapter.695FE49D3F9B1221.title: "Maîtrise psionique"
 	chapter.695FE49D3F9B1221.chapter_subtitle: ["Du premier CAD au CAD de fin de jeu"]
 	quest.2060BCF14FCFDEAA.title: "Prérequis"
@@ -257,7 +250,6 @@
 	task.5E96F9D2C678508E.title: "Atteindre Y 300"
 	quest.6497EDD68AE7D1F3.title: "Ascension ésotérique"
 	quest.6497EDD68AE7D1F3.quest_desc: ["Termine au moins une des trois voies." "Débloque la Navigation céleste : lévitite (recettes magiques pour chaque école), pilotage des vaisseaux, roue à Starbuncle et construction jusqu'à Y 1023."]
-	task.67B5E432BC4439BC.title: "Je suis prêt à rejoindre le ciel"
 	quest.5936746B3F3F9074.title: "Pierre qui flotte"
 	quest.5936746B3F3F9074.quest_desc: ["Produis de la lévitite par la magie de ton école."]
 	quest.6FB0519A89DF6B17.title: "La roue à Starbuncle"
@@ -279,20 +271,16 @@
 	task.30D930A3BCB396C0.title: "Être maître"
 	quest.4C70EE1114F79BBA.title: "Perception d'Ars Nouveau"
 	quest.4C70EE1114F79BBA.quest_desc: ["Le glyphe Détection magique révèle un courant que la Source n'explique pas."]
-	task.6A8453F6A4AD4258.title: "J'ai senti les psions avec Détection magique"
 	quest.6C4E78F2F708C984.title: "Voie d'Eidolon"
 	quest.6C4E78F2F708C984.quest_desc: ["Il faut être Maître d'Eidolon."]
 	task.28BF718B3FA5D248.title: "Être maître"
 	quest.2F72EF9944F049D8.title: "Perception d'Eidolon"
 	quest.2F72EF9944F049D8.quest_desc: ["Les psions traversent l'esprit comme les âmes traversent la mort." "Protège ton esprit avant de les étudier."]
-	task.1D51CF9A894E5102.title: "J'ai protégé mon esprit des psions"
 	quest.72F52B7738FA0C01.title: "Voie de Mahou Tsukai"
 	quest.72F52B7738FA0C01.quest_desc: ["Il faut être Maître de Mahou Tsukai."]
 	task.22DD4038F7C941E3.title: "Être maître"
 	quest.4F212830BAD215BF.title: "Perception de Mahou Tsukai"
 	quest.4F212830BAD215BF.quest_desc: ["L'intuition révèle l'« information » cachée dans chaque objet." "Les psions la lisent et la modifient."]
-	task.310A5EDD55897EBA.title: "J'ai lu l'information d'un objet"
 	quest.12CFD501790EFA94.title: "Éveil psychique"
 	quest.12CFD501790EFA94.quest_desc: ["Termine au moins une des trois voies." "Débloque Psi et le Casting Assistant Device (CAD)." "La voie technologique est dans le chapitre « Découverte des psions »."]
-	task.62084A1B7EC187B3.title: "Je suis prêt à éveiller mon esprit"
 }

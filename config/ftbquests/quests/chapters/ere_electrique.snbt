@@ -115,9 +115,6 @@
 			id: "3370C34ABB103D74"
 			item: { count: 1, id: "tfmg:regular_engine" }
 			type: "item"
-		}{
-			id: "31419D7E065D4213"
-			type: "checkmark"
 		}]
 		x: 8.0d
 		y: 0.0d
@@ -142,9 +139,9 @@
 			item: { count: 1, id: "tfmg:multimeter" }
 			type: "item"
 		}{
-			count: 1
+			count: 8
 			id: "3E1A4F45823CCC0B"
-			item: { count: 1, id: "computercraft:pocket_computer_advanced" }
+			item: { count: 1, id: "tfmg:light_bulb" }
 			type: "item"
 		}]
 		tasks: [{

@@ -34,9 +34,6 @@
 			id: "79CCD79981DAAAA3"
 			item: { count: 1, id: "computercraft:monitor_advanced" }
 			type: "item"
-		}{
-			id: "5CC1A97515FD04B4"
-			type: "checkmark"
 		}]
 		x: 0.0d
 		y: 0.0d
@@ -95,9 +92,9 @@
 		dependencies: ["66E5F61397008F9E"]
 		id: "2400A7EE430F2AE8"
 		rewards: [{
-			count: 4
+			count: 8
 			id: "3D463975E1F044BA"
-			item: { count: 1, id: "minecraft:amethyst_cluster" }
+			item: { count: 1, id: "minecraft:end_rod" }
 			type: "item"
 		}]
 		tasks: [{
@@ -105,9 +102,6 @@
 			item: { count: 1, id: "tfmg:circuit_board" }
 			type: "item"
 			count: 16L
-		}{
-			id: "584271A3C5561107"
-			type: "checkmark"
 		}]
 		x: 6.0d
 		y: 0.0d
@@ -154,10 +148,7 @@
 			item: { count: 1, id: "psi:cad_colorizer_psi" }
 			type: "item"
 		}]
-		tasks: [{
-			id: "6A8C05FCC20C1446"
-			type: "checkmark"
-		}]
+		tasks: []
 		x: 10.0d
 		y: 0.0d
 	}]

@@ -131,10 +131,7 @@
 			item: { count: 1, id: "aeronautics:wooden_propeller" }
 			type: "item"
 		}]
-		tasks: [{
-			id: "67B5E432BC4439BC"
-			type: "checkmark"
-		}]
+		tasks: []
 		x: 5.0d
 		y: 0.0d
 	}{

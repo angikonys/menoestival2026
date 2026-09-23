@@ -115,29 +115,34 @@
 			stage: "pack_military_era"
 			type: "gamestage"
 		}{
-			count: 2
+			count: 1
 			id: "5FD5886D1D814824"
-			item: { count: 1, id: "createbigcannons:cast_iron_cannon_barrel" }
+			item: { count: 1, id: "createbigcannons:gas_mask" }
 			type: "item"
 		}{
 			count: 1
 			id: "13B898444E7E6559"
-			item: { count: 1, id: "createbigcannons:cast_iron_cannon_chamber" }
+			item: { count: 1, id: "createbigcannons:ram_rod" }
+			type: "item"
+		}{
+			count: 1
+			id: "29A575F15C36644E"
+			item: { count: 1, id: "createbigcannons:worm_head" }
 			type: "item"
 		}{
 			count: 8
-			id: "29A575F15C36644E"
+			id: "6C5D79955A9FF4FF"
 			item: { count: 1, id: "createbigcannons:solid_shot" }
 			type: "item"
 		}{
 			count: 16
-			id: "6C5D79955A9FF4FF"
+			id: "2CD7D938E9E842CF"
 			item: { count: 1, id: "createbigcannons:powder_charge" }
 			type: "item"
 		}{
-			count: 1
-			id: "2CD7D938E9E842CF"
-			item: { count: 1, id: "createbigcannons:gas_mask" }
+			count: 4
+			id: "1D1CED61F28A4784"
+			item: { count: 1, id: "createbigcannons:bag_of_grapeshot" }
 			type: "item"
 		}]
 		tasks: [{

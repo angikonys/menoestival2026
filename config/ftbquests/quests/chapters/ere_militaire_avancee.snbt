@@ -35,9 +35,6 @@
 			item: { count: 1, id: "createbigcannons:he_shell" }
 			type: "item"
 			count: 4L
-		}{
-			id: "4878A8AA54B81F12"
-			type: "checkmark"
 		}]
 		x: 0.0d
 		y: 0.0d
@@ -90,24 +87,29 @@
 			stage: "pack_military_advanced_era"
 			type: "gamestage"
 		}{
-			count: 4
+			count: 1
 			id: "1E176E41A3C97DFA"
-			item: { count: 1, id: "createbigcannons:steel_autocannon_barrel" }
-			type: "item"
-		}{
-			count: 1
-			id: "6801CE6968AA4621"
-			item: { count: 1, id: "createbigcannons:steel_autocannon_breech" }
-			type: "item"
-		}{
-			count: 1
-			id: "776B40C57AE8E523"
-			item: { count: 1, id: "createbigcannons:autocannon_ammo_container" }
+			item: { count: 1, id: "createbigcannons:block_armor_inspection_tool" }
 			type: "item"
 		}{
 			count: 32
-			id: "157DBC3440834DDC"
+			id: "6801CE6968AA4621"
 			item: { count: 1, id: "createbigcannons:ap_autocannon_round" }
+			type: "item"
+		}{
+			count: 16
+			id: "776B40C57AE8E523"
+			item: { count: 1, id: "createbigcannons:flak_autocannon_round" }
+			type: "item"
+		}{
+			count: 4
+			id: "157DBC3440834DDC"
+			item: { count: 1, id: "createbigcannons:smoke_shell" }
+			type: "item"
+		}{
+			count: 4
+			id: "5203933A1AF2FAE1"
+			item: { count: 1, id: "createbigcannons:timed_fuze" }
 			type: "item"
 		}]
 		tasks: [{

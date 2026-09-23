@@ -129,19 +129,14 @@
 			stage: "magic_eidolon_adept"
 			type: "gamestage"
 		}{
-			count: 2
+			count: 1
 			id: "11F68827F4611FD9"
-			item: { count: 1, id: "eidolon_repraised:wraith_heart" }
+			item: { count: 1, id: "eidolon_repraised:reaper_scythe" }
 			type: "item"
 		}{
 			count: 1
 			id: "4DD5117743C5DC6A"
-			item: { count: 1, id: "eidolon_repraised:holy_symbol" }
-			type: "item"
-		}{
-			count: 1
-			id: "68BB6F976FBC1E06"
-			item: { count: 1, id: "eidolon_repraised:unholy_symbol" }
+			item: { count: 1, id: "eidolon_repraised:bonechill_wand" }
 			type: "item"
 		}]
 		tasks: [{
@@ -200,9 +195,9 @@
 			item: { count: 1, id: "eidolon_repraised:basic_amulet" }
 			type: "item"
 		}{
-			count: 1
+			count: 2
 			id: "7116818BF9C0816E"
-			item: { count: 1, id: "eidolon_repraised:basic_belt" }
+			item: { count: 1, id: "eidolon_repraised:magic_candlestick" }
 			type: "item"
 		}]
 		tasks: [{
@@ -239,14 +234,14 @@
 			stage: "magic_eidolon_master"
 			type: "gamestage"
 		}{
-			count: 2
+			count: 1
 			id: "4B834BF8349691AE"
-			item: { count: 1, id: "eidolon_repraised:withered_heart" }
+			item: { count: 1, id: "eidolon_repraised:summoning_staff" }
 			type: "item"
 		}{
 			count: 1
 			id: "1041F0F5DABBBD70"
-			item: { count: 1, id: "eidolon_repraised:summoning_staff" }
+			item: { count: 1, id: "eidolon_repraised:soulfire_wand" }
 			type: "item"
 		}]
 		tasks: [{
@@ -273,7 +268,7 @@
 		rewards: [{
 			count: 1
 			id: "1EA2BA030BAD4793"
-			item: { count: 1, id: "eidolon_repraised:warlock_hat" }
+			item: { count: 1, id: "eidolon_repraised:deathbringer_scythe" }
 			type: "item"
 		}]
 		tasks: [{
@@ -294,7 +289,7 @@
 		}{
 			count: 1
 			id: "42F3B0AC4210F34A"
-			item: { count: 1, id: "eidolon_repraised:warlock_boots" }
+			item: { count: 1, id: "eidolon_repraised:enervating_ring" }
 			type: "item"
 		}]
 		tasks: [{

@@ -89,9 +89,6 @@
 			id: "24DED44716E6EB49"
 			item: { count: 1, id: "tfmg:voltmeter" }
 			type: "item"
-		}{
-			id: "79EE30F5EC96DCB9"
-			type: "checkmark"
 		}]
 		x: 6.0d
 		y: 0.0d

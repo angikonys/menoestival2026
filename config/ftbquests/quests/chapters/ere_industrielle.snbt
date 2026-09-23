@@ -87,7 +87,9 @@
 			type: "item"
 		}{
 			id: "32A6E26ADE4F36E9"
-			type: "checkmark"
+			advancement: "create:steam_engine"
+			criterion: ""
+			type: "advancement"
 		}]
 		x: 6.0d
 		y: 0.0d
@@ -108,7 +110,9 @@
 		}]
 		tasks: [{
 			id: "443480B531F10B1D"
-			type: "checkmark"
+			advancement: "create:train"
+			criterion: ""
+			type: "advancement"
 		}]
 		x: 6.0d
 		y: 2.0d

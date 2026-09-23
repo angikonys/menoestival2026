@@ -86,7 +86,9 @@
 		}]
 		tasks: [{
 			id: "31A991C706505D06"
-			type: "checkmark"
+			advancement: "create:windmill_maxed"
+			criterion: ""
+			type: "advancement"
 		}]
 		x: 6.0d
 		y: 0.0d

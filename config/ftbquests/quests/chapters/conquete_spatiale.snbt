@@ -47,19 +47,11 @@
 			id: "38DBE8A7D7B72362"
 			item: { count: 1, id: "advancedperipherals:player_detector" }
 			type: "item"
-		}{
-			count: 1
-			id: "584B5705309D5855"
-			item: { count: 1, id: "computercraft:speaker" }
-			type: "item"
 		}]
 		tasks: [{
 			id: "54394C89F791573E"
 			item: { count: 1, id: "computercraft:computer_advanced" }
 			type: "item"
-		}{
-			id: "4230AA44EDB2D6D0"
-			type: "checkmark"
 		}]
 		x: 2.0d
 		y: 0.0d
@@ -91,7 +83,7 @@
 		rewards: [{
 			count: 1
 			id: "3CB3D1CD2A6324D4"
-			item: { count: 1, id: "minecraft:clock" }
+			item: { count: 1, id: "minecraft:spyglass" }
 			type: "item"
 		}{
 			count: 16

@@ -30,9 +30,6 @@
 			id: "38AA48CC48C78C4A"
 			item: { count: 1, id: "ars_nouveau:glyph_sense_magic" }
 			type: "item"
-		}{
-			id: "6A8453F6A4AD4258"
-			type: "checkmark"
 		}]
 		x: 2.0d
 		y: -3.0d
@@ -59,9 +56,6 @@
 			id: "54001E887F6E53A2"
 			item: { count: 1, id: "eidolon_repraised:mind_shielding_plate" }
 			type: "item"
-		}{
-			id: "1D51CF9A894E5102"
-			type: "checkmark"
 		}]
 		x: 2.0d
 		y: 0.0d
@@ -88,9 +82,6 @@
 			id: "4E58F5BCEE816B41"
 			item: { count: 1, id: "mahoutsukai:scroll_insight" }
 			type: "item"
-		}{
-			id: "310A5EDD55897EBA"
-			type: "checkmark"
 		}]
 		x: 2.0d
 		y: 3.0d
@@ -116,10 +107,7 @@
 			item: { count: 1, id: "psi:cad_colorizer_psi" }
 			type: "item"
 		}]
-		tasks: [{
-			id: "62084A1B7EC187B3"
-			type: "checkmark"
-		}]
+		tasks: []
 		x: 5.0d
 		y: 0.0d
 	}]
