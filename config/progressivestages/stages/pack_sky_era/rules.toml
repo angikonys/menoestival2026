@@ -1,0 +1,53 @@
+# Généré automatiquement — modids lus dans les jars du dossier mods/.
+
+[items]
+locked = [
+    "mod:aeronautics",   # Create Aeronautics
+    "mod:simulated",   # Create Simulated (noyau physique inclus dans le jar Aeronautics)
+    "mod:offroad",   # Offroad (inclus dans le jar Aeronautics)
+    "mod:create_aeronautics_automated_logistics",   # Create Aeronautics: Automated Logistics
+    "mod:create_aeronautics_throwable_rope_connector",   # Create Aeronautics: Throwable Rope Connector
+    "mod:aerocopycats",   # aero_copycats
+    "mod:aeroworks",   # Create: Aeroworks
+    "mod:create_sky_village",   # Create: Sky Village
+    "mod:ballastmod",   # Create: Ballast
+]
+
+[blocks]
+locked = [
+    "mod:aeronautics",   # Create Aeronautics
+    "mod:simulated",   # Create Simulated (noyau physique inclus dans le jar Aeronautics)
+    "mod:offroad",   # Offroad (inclus dans le jar Aeronautics)
+    "mod:create_aeronautics_automated_logistics",   # Create Aeronautics: Automated Logistics
+    "mod:create_aeronautics_throwable_rope_connector",   # Create Aeronautics: Throwable Rope Connector
+    "mod:aerocopycats",   # aero_copycats
+    "mod:aeroworks",   # Create: Aeroworks
+    "mod:create_sky_village",   # Create: Sky Village
+    "mod:ballastmod",   # Create: Ballast
+]
+
+[recipes]
+# recettes appartenant au mod (même si la sortie est vanilla)
+locked_ids = [
+    "mod:aeronautics",
+    "mod:simulated",
+    "mod:offroad",
+    "mod:create_aeronautics_automated_logistics",
+    "mod:create_aeronautics_throwable_rope_connector",
+    "mod:aerocopycats",
+    "mod:aeroworks",
+    "mod:create_sky_village",
+    "mod:ballastmod",
+]
+# toute recette qui produit un item verrouillé
+locked_items = [
+    "mod:aeronautics",   # Create Aeronautics
+    "mod:simulated",   # Create Simulated (noyau physique inclus dans le jar Aeronautics)
+    "mod:offroad",   # Offroad (inclus dans le jar Aeronautics)
+    "mod:create_aeronautics_automated_logistics",   # Create Aeronautics: Automated Logistics
+    "mod:create_aeronautics_throwable_rope_connector",   # Create Aeronautics: Throwable Rope Connector
+    "mod:aerocopycats",   # aero_copycats
+    "mod:aeroworks",   # Create: Aeroworks
+    "mod:create_sky_village",   # Create: Sky Village
+    "mod:ballastmod",   # Create: Ballast
+]

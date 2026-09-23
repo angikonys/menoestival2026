@@ -1,0 +1,20 @@
+[schema]
+version = 4
+
+[stage]
+id = "pack_military_advanced_era"
+display_name = "Ère Militaire Avancée"
+description = "Addons de Create Big Cannons."
+icon = "createbigcannons:he_shell"
+dependencies = ["pack_military_era", "pack_electric_era"]
+dependency_mode = "all"
+dependency_count = 1
+category = "Militaire"
+color = "#e0503a"
+hidden = false
+scope = "team"
+tags = ["create_progression"]
+
+[display]
+frame = "challenge"
+reveal = "dependencies"

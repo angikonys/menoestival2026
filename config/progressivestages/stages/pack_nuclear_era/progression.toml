@@ -1,0 +1,6 @@
+# Accordé par une quête FTB : Stage Reward -> "pack_nuclear_era"
+
+[unlock]
+toast = "Ère Nucléaire débloquée !"
+title = "&6&lÈre Nucléaire débloquée !"
+sound = "minecraft:ui.toast.challenge_complete"

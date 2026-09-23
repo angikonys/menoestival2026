@@ -1,0 +1,103 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ere_militaire_avancee"
+	group: "03F9E40C3DF35108"
+	id: "4ED72FD3E2BE3792"
+	images: [ ]
+	order_index: 7
+	quest_links: [ ]
+	quests: [{
+		id: "7599EF18593E496B"
+		rewards: []
+		tasks: [{
+			id: "7FD95C49F5B031F4"
+			stage: "pack_military_era"
+			type: "gamestage"
+		}]
+		x: -2.0d
+		y: 0.0d
+	}{
+		dependencies: ["7599EF18593E496B"]
+		id: "747C6C07351D0048"
+		rewards: [{
+			id: "57222FD159D04FF7"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "10B1E6D84FF55702"
+			item: { count: 1, id: "createbigcannons:cannon_mount" }
+			type: "item"
+		}{
+			id: "71ACB22AE4BCBEF8"
+			item: { count: 1, id: "createbigcannons:he_shell" }
+			type: "item"
+			count: 4L
+		}{
+			id: "4878A8AA54B81F12"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}{
+		dependencies: ["747C6C07351D0048"]
+		id: "12A37ACE8F84283D"
+		rewards: [{
+			id: "6B6A1D99F58DAB22"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "7035046B3EF6B39E"
+			stage: "pack_electric_era"
+			type: "gamestage"
+		}{
+			id: "431637E4C458D9CF"
+			item: { count: 1, id: "tfmg:circuit_board" }
+			type: "item"
+			count: 8L
+		}]
+		x: 2.0d
+		y: 0.0d
+	}{
+		dependencies: ["12A37ACE8F84283D"]
+		id: "673E165FE6C44F9D"
+		rewards: [{
+			id: "3887C07498EA23A8"
+			type: "xp_levels"
+			xp_levels: 20
+		}]
+		tasks: [{
+			id: "3D47C899554BFE1E"
+			entity: "minecraft:wither"
+			type: "kill"
+			value: 1L
+		}]
+		x: 4.0d
+		y: 0.0d
+	}{
+		dependencies: ["673E165FE6C44F9D"]
+		id: "303FC3DC160A3FE6"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			auto: "enabled"
+			id: "23CBC84D7518DB00"
+			stage: "pack_military_advanced_era"
+			type: "gamestage"
+		}{
+			id: "1E176E41A3C97DFA"
+			type: "xp_levels"
+			xp_levels: 30
+		}]
+		tasks: [{
+			id: "4DC8C7A55F32FAB0"
+			consume_items: true
+			item: { count: 1, id: "kubejs:plan_military_advanced_era" }
+			type: "item"
+		}]
+		x: 6.0d
+		y: 0.0d
+	}]
+}

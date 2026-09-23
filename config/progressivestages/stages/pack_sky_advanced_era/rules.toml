@@ -1,0 +1,37 @@
+# Généré automatiquement — modids lus dans les jars du dossier mods/.
+
+[items]
+locked = [
+    "mod:create_avionics",   # Create: Avionics
+    "mod:createpropulsion",   # Create Propulsion: Simulated
+    "mod:create_radar",   # Create Radar
+    "mod:create_radar_mobile_radars",   # Create Radar: Mobile Radars
+    "mod:drivebywire",   # Drive By Wire
+]
+
+[blocks]
+locked = [
+    "mod:create_avionics",   # Create: Avionics
+    "mod:createpropulsion",   # Create Propulsion: Simulated
+    "mod:create_radar",   # Create Radar
+    "mod:create_radar_mobile_radars",   # Create Radar: Mobile Radars
+    "mod:drivebywire",   # Drive By Wire
+]
+
+[recipes]
+# recettes appartenant au mod (même si la sortie est vanilla)
+locked_ids = [
+    "mod:create_avionics",
+    "mod:createpropulsion",
+    "mod:create_radar",
+    "mod:create_radar_mobile_radars",
+    "mod:drivebywire",
+]
+# toute recette qui produit un item verrouillé
+locked_items = [
+    "mod:create_avionics",   # Create: Avionics
+    "mod:createpropulsion",   # Create Propulsion: Simulated
+    "mod:create_radar",   # Create Radar
+    "mod:create_radar_mobile_radars",   # Create Radar: Mobile Radars
+    "mod:drivebywire",   # Drive By Wire
+]

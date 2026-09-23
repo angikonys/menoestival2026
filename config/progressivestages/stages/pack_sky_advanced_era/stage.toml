@@ -1,0 +1,20 @@
+[schema]
+version = 4
+
+[stage]
+id = "pack_sky_advanced_era"
+display_name = "Ère Aérienne Avancée"
+description = "Propulsion avancée et contrôle poussé des contraptions."
+icon = "createpropulsion:vector_thruster"
+dependencies = ["pack_sky_era", "pack_space_conquest"]
+dependency_mode = "all"
+dependency_count = 1
+category = "Ciel"
+color = "#4a8fe0"
+hidden = false
+scope = "team"
+tags = ["create_progression"]
+
+[display]
+frame = "challenge"
+reveal = "dependencies"

@@ -1,0 +1,26 @@
+# Généré automatiquement — modids lus dans les jars du dossier mods/.
+
+[items]
+locked = [
+    "mod:createnuclear",   # Create Nuclear
+]
+
+[blocks]
+locked = [
+    "mod:createnuclear",   # Create Nuclear
+]
+
+[fluids]
+locked = [
+    "mod:createnuclear",
+]
+
+[recipes]
+# recettes appartenant au mod (même si la sortie est vanilla)
+locked_ids = [
+    "mod:createnuclear",
+]
+# toute recette qui produit un item verrouillé
+locked_items = [
+    "mod:createnuclear",   # Create Nuclear
+]

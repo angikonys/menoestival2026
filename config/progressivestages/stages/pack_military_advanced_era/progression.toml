@@ -1,0 +1,6 @@
+# Accordé par une quête FTB : Stage Reward -> "pack_military_advanced_era"
+
+[unlock]
+toast = "Ère Militaire Avancée débloquée !"
+title = "&6&lÈre Militaire Avancée débloquée !"
+sound = "minecraft:ui.toast.challenge_complete"

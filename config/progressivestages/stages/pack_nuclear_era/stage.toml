@@ -1,0 +1,20 @@
+[schema]
+version = 4
+
+[stage]
+id = "pack_nuclear_era"
+display_name = "Ère Nucléaire"
+description = "Débloque Create Nuclear."
+icon = "createnuclear:reactor_core"
+dependencies = ["pack_electric_era"]
+dependency_mode = "all"
+dependency_count = 1
+category = "Industrie"
+color = "#6ee04a"
+hidden = false
+scope = "team"
+tags = ["create_progression"]
+
+[display]
+frame = "challenge"
+reveal = "dependencies"

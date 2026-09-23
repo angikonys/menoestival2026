@@ -1,0 +1,20 @@
+[schema]
+version = 4
+
+[stage]
+id = "pack_psi"
+display_name = "Éveil psychique"
+description = "Débloque Psi. Accordé par la quête « Éveil psychique » (voie technologique ou magique)."
+icon = "psi:cad_assembler"
+dependencies = []
+dependency_mode = "all"
+dependency_count = 1
+category = "Magie"
+color = "#5ad6e0"
+hidden = false
+scope = "team"
+tags = ["magic_progression"]
+
+[display]
+frame = "goal"
+reveal = "always"

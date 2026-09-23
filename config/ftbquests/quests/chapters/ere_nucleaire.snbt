@@ -1,0 +1,118 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ere_nucleaire"
+	group: "03F9E40C3DF35108"
+	id: "4AC61BF2C076CC76"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [{
+		id: "38113B47E12D6638"
+		rewards: []
+		tasks: [{
+			id: "6211202A2463937C"
+			stage: "pack_electric_era"
+			type: "gamestage"
+		}]
+		x: -2.0d
+		y: 0.0d
+	}{
+		dependencies: ["38113B47E12D6638"]
+		id: "4339D6DBED22B749"
+		rewards: [{
+			id: "6900FFAEAE858629"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "5D77D7F2C68B93AF"
+			item: { count: 1, id: "tfmg:generator" }
+			type: "item"
+		}{
+			id: "4E61902C743D91DA"
+			item: { count: 1, id: "tfmg:electric_motor" }
+			type: "item"
+			count: 4L
+		}]
+		x: 0.0d
+		y: 0.0d
+	}{
+		dependencies: ["4339D6DBED22B749"]
+		id: "2CD08436EA981076"
+		rewards: [{
+			id: "1885FB3E4DA4F3ED"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "3DAE50BA0535D7D0"
+			item: { count: 1, id: "tfmg:circuit_board" }
+			type: "item"
+			count: 16L
+		}]
+		x: 2.0d
+		y: 0.0d
+	}{
+		dependencies: ["2CD08436EA981076"]
+		id: "124C6058BA3D969E"
+		rewards: [{
+			id: "4E2A2C6B73F24178"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "2F05FF56A20DB25B"
+			amount: 4000L
+			fluid: "tfmg:sulfuric_acid"
+			type: "fluid"
+		}]
+		x: 4.0d
+		y: 0.0d
+	}{
+		dependencies: ["124C6058BA3D969E"]
+		id: "4A02EE1D9A488353"
+		rewards: [{
+			id: "5F352FEC0232B61C"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "1B41952C35BCEFA2"
+			item: { count: 1, id: "computercraft:computer_advanced" }
+			type: "item"
+		}{
+			id: "24DED44716E6EB49"
+			item: { count: 1, id: "tfmg:voltmeter" }
+			type: "item"
+		}{
+			id: "79EE30F5EC96DCB9"
+			type: "checkmark"
+		}]
+		x: 6.0d
+		y: 0.0d
+	}{
+		dependencies: ["4A02EE1D9A488353"]
+		id: "376D459538E944F5"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			auto: "enabled"
+			id: "3279DEC0E8A18932"
+			stage: "pack_nuclear_era"
+			type: "gamestage"
+		}{
+			id: "6492A3A2EA17A3C8"
+			type: "xp_levels"
+			xp_levels: 30
+		}]
+		tasks: [{
+			id: "2E0CB9542165814F"
+			consume_items: true
+			item: { count: 1, id: "kubejs:plan_nuclear_era" }
+			type: "item"
+		}]
+		x: 8.0d
+		y: 0.0d
+	}]
+}

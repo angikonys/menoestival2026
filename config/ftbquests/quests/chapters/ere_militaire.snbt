@@ -1,0 +1,112 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ere_militaire"
+	group: "03F9E40C3DF35108"
+	id: "3E4FFE7114AEEAEF"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [{
+		id: "1DEAD525B4B29FBA"
+		rewards: []
+		tasks: [{
+			id: "2830C8D2F2D3183B"
+			stage: "pack_industrial_era"
+			type: "gamestage"
+		}]
+		x: -2.0d
+		y: 0.0d
+	}{
+		dependencies: ["1DEAD525B4B29FBA"]
+		id: "446F3F32C42DE5A1"
+		rewards: [{
+			id: "36565ED2381DDE6E"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "3FA031444FB0AFFB"
+			item: { count: 1, id: "minecraft:gunpowder" }
+			type: "item"
+			count: 256L
+		}]
+		x: 0.0d
+		y: 0.0d
+	}{
+		dependencies: ["446F3F32C42DE5A1"]
+		id: "3B0B1C982151A1CF"
+		rewards: [{
+			id: "2258B073707E5E3D"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "20575AFF54CE3006"
+			item: { count: 1, id: "tfmg:cast_iron_ingot" }
+			type: "item"
+			count: 64L
+		}]
+		x: 2.0d
+		y: 0.0d
+	}{
+		dependencies: ["3B0B1C982151A1CF"]
+		id: "3ACD5D54947BE454"
+		rewards: [{
+			id: "3C613FB9DF08E3EF"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "59E5A9E650A5041D"
+			structure: "minecraft:pillager_outpost"
+			type: "structure"
+		}{
+			id: "3C8298A3B88048EE"
+			entity: "minecraft:pillager"
+			type: "kill"
+			value: 20L
+		}]
+		x: 4.0d
+		y: 0.0d
+	}{
+		dependencies: ["3ACD5D54947BE454"]
+		id: "162C1A818C708207"
+		rewards: [{
+			id: "14B2AE192269AE09"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "5B32F1826CDDA84D"
+			item: { count: 1, id: "tfmg:rebar_concrete" }
+			type: "item"
+			count: 256L
+		}]
+		x: 6.0d
+		y: 0.0d
+	}{
+		dependencies: ["162C1A818C708207"]
+		id: "676DE7CF593BC042"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			auto: "enabled"
+			id: "3AD247F2C627E821"
+			stage: "pack_military_era"
+			type: "gamestage"
+		}{
+			id: "5FD5886D1D814824"
+			type: "xp_levels"
+			xp_levels: 20
+		}]
+		tasks: [{
+			id: "5D54B92888EB4999"
+			consume_items: true
+			item: { count: 1, id: "kubejs:plan_military_era" }
+			type: "item"
+		}]
+		x: 8.0d
+		y: 0.0d
+	}]
+}

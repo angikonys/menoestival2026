@@ -1,0 +1,209 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "conquete_spatiale"
+	group: "03F9E40C3DF35108"
+	id: "6A1F3EEBDB2C5F86"
+	images: [ ]
+	order_index: 5
+	quest_links: [ ]
+	quests: [{
+		id: "748AC595154D8BBE"
+		rewards: []
+		tasks: [{
+			id: "3637E6BE5EDEBCD7"
+			stage: "pack_electric_era"
+			type: "gamestage"
+		}]
+		x: -2.0d
+		y: 0.0d
+	}{
+		dependencies: ["748AC595154D8BBE"]
+		id: "126FD7D8F793C68D"
+		rewards: [{
+			id: "73EFC4A7548F6D77"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "6DD40FC507E2B2F3"
+			amount: 16000L
+			fluid: "tfmg:kerosene"
+			type: "fluid"
+		}{
+			id: "5ABD531EB9F905A1"
+			amount: 16000L
+			fluid: "tfmg:hydrogen"
+			type: "fluid"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}{
+		dependencies: ["126FD7D8F793C68D"]
+		id: "62529AC9320EEFCC"
+		rewards: [{
+			id: "38DBE8A7D7B72362"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "54394C89F791573E"
+			item: { count: 1, id: "computercraft:computer_advanced" }
+			type: "item"
+		}{
+			id: "4230AA44EDB2D6D0"
+			type: "checkmark"
+		}]
+		x: 2.0d
+		y: 0.0d
+	}{
+		dependencies: ["62529AC9320EEFCC"]
+		id: "7A5913F90CABB132"
+		rewards: [{
+			id: "2752138158A33A75"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "79FACACC0953FF48"
+			item: { count: 1, id: "tfmg:heavy_plate" }
+			type: "item"
+			count: 128L
+		}{
+			id: "2A6BD3972522B7D1"
+			item: { count: 1, id: "tfmg:aluminum_sheet" }
+			type: "item"
+			count: 64L
+		}]
+		x: 4.0d
+		y: 0.0d
+	}{
+		dependencies: ["7A5913F90CABB132"]
+		id: "41AA3B545AF0F8C2"
+		rewards: [{
+			id: "3CB3D1CD2A6324D4"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "138A7BDCBCF383D5"
+			dimension: "minecraft:overworld"
+			ignore_dimension: false
+			position: [I; -30000000, 300, -30000000]
+			size: [I; 60000000, 20, 60000000]
+			type: "location"
+		}]
+		x: 6.0d
+		y: 0.0d
+	}{
+		dependencies: ["41AA3B545AF0F8C2"]
+		id: "3B73BED3C6EB92A8"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			auto: "enabled"
+			id: "5084E6D45D49A027"
+			stage: "pack_space_conquest"
+			type: "gamestage"
+		}{
+			id: "72A025D46F47627A"
+			type: "xp_levels"
+			xp_levels: 20
+		}]
+		tasks: [{
+			id: "170A93C0AA013F0F"
+			consume_items: true
+			item: { count: 1, id: "kubejs:plan_space_conquest" }
+			type: "item"
+		}]
+		x: 8.0d
+		y: 0.0d
+	}{
+		dependencies: ["3B73BED3C6EB92A8"]
+		id: "5FCA99C083C64354"
+		rewards: [{
+			id: "53E41381EF261586"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "204178AEDD34FD91"
+			item: { count: 1, id: "creatingspace:rocket_engine" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 3.0d
+	}{
+		dependencies: ["5FCA99C083C64354"]
+		id: "31AA69C4619FD9B2"
+		rewards: [{
+			id: "345B35547E59B64E"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "1E7A95806D6B4C20"
+			item: { count: 1, id: "creatingspace:rocket_controls" }
+			type: "item"
+		}]
+		x: 2.0d
+		y: 3.0d
+	}{
+		dependencies: ["31AA69C4619FD9B2"]
+		id: "1625DB9672E5B0D4"
+		rewards: [{
+			id: "12E7D8743837E59D"
+			type: "xp_levels"
+			xp_levels: 15
+		}]
+		tasks: [{
+			id: "7849CDA74B7D3285"
+			dimension: "creatingspace:earth_orbit"
+			type: "dimension"
+		}]
+		x: 4.0d
+		y: 3.0d
+	}{
+		dependencies: ["1625DB9672E5B0D4"]
+		id: "680D4390ADC1C7AA"
+		rewards: [{
+			id: "6FFBDA2A0D679D98"
+			type: "xp_levels"
+			xp_levels: 20
+		}]
+		tasks: [{
+			id: "5A2C0CA685842FE4"
+			dimension: "creatingspace:the_moon"
+			type: "dimension"
+		}]
+		x: 6.0d
+		y: 3.0d
+	}{
+		dependencies: ["680D4390ADC1C7AA"]
+		id: "569353F2C868EBFD"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			auto: "enabled"
+			id: "735F27B0D8A9E0B8"
+			stage: "pack_sky_advanced_era"
+			type: "gamestage"
+		}{
+			id: "584D527D6D38CDE1"
+			type: "xp_levels"
+			xp_levels: 30
+		}]
+		tasks: [{
+			id: "3E86653123AB2920"
+			stage: "pack_sky_era"
+			type: "gamestage"
+		}{
+			id: "2DFA66D2A20BB625"
+			consume_items: true
+			item: { count: 1, id: "kubejs:plan_sky_advanced_era" }
+			type: "item"
+		}]
+		x: 8.0d
+		y: 3.0d
+	}]
+}

@@ -1,0 +1,20 @@
+[schema]
+version = 4
+
+[stage]
+id = "pack_electric_era"
+display_name = "Ère Électrique"
+description = "Débloque la partie électrique de TFMG. Ouvre la questline spatiale."
+icon = "tfmg:generator"
+dependencies = ["pack_industrial_era"]
+dependency_mode = "all"
+dependency_count = 1
+category = "Industrie"
+color = "#e6d34a"
+hidden = false
+scope = "team"
+tags = ["create_progression"]
+
+[display]
+frame = "goal"
+reveal = "dependencies"

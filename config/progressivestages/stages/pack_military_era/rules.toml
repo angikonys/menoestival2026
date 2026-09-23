@@ -1,0 +1,26 @@
+# Généré automatiquement — modids lus dans les jars du dossier mods/.
+
+[items]
+locked = [
+    "mod:createbigcannons",   # Create Big Cannons
+]
+
+[blocks]
+locked = [
+    "mod:createbigcannons",   # Create Big Cannons
+]
+
+[fluids]
+locked = [
+    "mod:createbigcannons",
+]
+
+[recipes]
+# recettes appartenant au mod (même si la sortie est vanilla)
+locked_ids = [
+    "mod:createbigcannons",
+]
+# toute recette qui produit un item verrouillé
+locked_items = [
+    "mod:createbigcannons",   # Create Big Cannons
+]

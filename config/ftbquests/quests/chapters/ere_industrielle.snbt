@@ -1,0 +1,114 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ere_industrielle"
+	group: "03F9E40C3DF35108"
+	id: "21A2A5D39A76708D"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "25BBC4746B9B2003"
+		rewards: [{
+			id: "29CC11726E50E942"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "4D7743F1962EF8F1"
+			item: { count: 1, id: "create:andesite_alloy" }
+			type: "item"
+			count: 256L
+		}]
+		x: 0.0d
+		y: 0.0d
+	}{
+		dependencies: ["25BBC4746B9B2003"]
+		id: "1F72E6B3EC4D96FB"
+		rewards: [{
+			id: "6CF604E77E50E0BE"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "397D5E26BD91DAC8"
+			item: { count: 1, id: "create:brass_ingot" }
+			type: "item"
+			count: 64L
+		}]
+		x: 2.0d
+		y: 0.0d
+	}{
+		dependencies: ["1F72E6B3EC4D96FB"]
+		id: "757A32242EFCE882"
+		rewards: [{
+			id: "44602367F1788903"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "74F4448FC9301E06"
+			item: { count: 1, id: "create:precision_mechanism" }
+			type: "item"
+			count: 16L
+		}]
+		x: 4.0d
+		y: 0.0d
+	}{
+		dependencies: ["757A32242EFCE882"]
+		id: "422CCC65D074B5D7"
+		rewards: [{
+			id: "1D723F7A9D9864C3"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "65104A94D13820DA"
+			item: { count: 1, id: "create:steam_engine" }
+			type: "item"
+		}{
+			id: "32A6E26ADE4F36E9"
+			type: "checkmark"
+		}]
+		x: 6.0d
+		y: 0.0d
+	}{
+		dependencies: ["422CCC65D074B5D7"]
+		id: "6B3CF0A186795ED4"
+		optional: true
+		rewards: [{
+			id: "7E7C0C2DEA562BB9"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "443480B531F10B1D"
+			type: "checkmark"
+		}]
+		x: 6.0d
+		y: 2.0d
+	}{
+		dependencies: ["422CCC65D074B5D7"]
+		id: "2AFD6E9FACCA8D73"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			auto: "enabled"
+			id: "6610C26252AE4EA0"
+			stage: "pack_industrial_era"
+			type: "gamestage"
+		}{
+			id: "2DD8A10B5E751F95"
+			type: "xp_levels"
+			xp_levels: 15
+		}]
+		tasks: [{
+			id: "466A24F7E24F1CF1"
+			consume_items: true
+			item: { count: 1, id: "kubejs:plan_industrial_era" }
+			type: "item"
+		}]
+		x: 10.0d
+		y: 0.0d
+	}]
+}

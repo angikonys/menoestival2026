@@ -1,0 +1,20 @@
+[schema]
+version = 4
+
+[stage]
+id = "pack_space_conquest"
+display_name = "Conquête Spatiale"
+description = "Récompense de la questline spatiale. Débloque Creating Space et ouvre l'aéro avancée."
+icon = "creatingspace:rocket_engine"
+dependencies = ["pack_electric_era"]
+dependency_mode = "all"
+dependency_count = 1
+category = "Ciel"
+color = "#9b7bf0"
+hidden = false
+scope = "team"
+tags = ["create_progression"]
+
+[display]
+frame = "challenge"
+reveal = "dependencies"

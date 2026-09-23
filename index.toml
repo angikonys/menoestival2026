@@ -1,8 +1,244 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/unification/materials.json"
+hash = "94b0e91c5a04f45a4090e11a29537169420dc49057b7f311fc891fd87a53747f"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "80e2e5e9ea913c85dfa5a4dbf74e04249f2021faf803957932a2cc6c62655d2c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/conquete_spatiale.snbt"
+hash = "29c3f941c09e1630a67b99959a0b1e45f9ce2e279c2915fc6ee2eb40fa708445"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ere_aerienne.snbt"
+hash = "ded8f37c98c601e355bbdbd35c6cf0e0c30784b5256cc9eb273c5ad9d67f41a8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ere_electrique.snbt"
+hash = "4ecf4902f1a9d99c9befa42d097f02bc20d3095b694c55a42c580fd812507805"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ere_industrielle.snbt"
+hash = "4adeb0e6ee2869d99448c34c8f4264b9b959238c76bad0221ad719fc7a32bcb7"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ere_militaire.snbt"
+hash = "c26eb88669645108f62a7cbf15533ff5a2d6422939efc8f7a85971a8d9ed9f98"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ere_militaire_avancee.snbt"
+hash = "4b3144f8f75d54d0f40a2f32a711f5b57b26be52bf710036f21e7496aad34a61"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ere_nucleaire.snbt"
+hash = "a542a873e99911ab8c5d1bdd771e2be3dadb9f7584317e3638828e3a00ae9f3a"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/eveil_psychique.snbt"
+hash = "7e572e75572f52694ea6eff33c46877ed1692e3417deb76d02eb30e682d57fc6"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/introduction_a_create.snbt"
+hash = "414e1dea64a6b6b0994ccaafa2a3708f69d162eb7d2a7485f8c7686f809d39a0"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/maitrise_psionique.snbt"
+hash = "49d5c1af1d5912c10a488530b0c86ca780c8a0459fb1708108c23c63ef49c7a3"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "400de9a472395f49ccbb567298634855aa9f62713f742d22f53ba131b0991d2e"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "eb2d5b8078a9f80df6d089355b0e8cc251cd1ade843e693fbaec356644c3a2ff"
+
+[[files]]
+file = "config/progressivestages/progressivestages.toml"
+hash = "2a4882b719aef50932676871c66d156a6452c19da719d52add0986f624245061"
+
+[[files]]
+file = "config/progressivestages/stages/pack_electric_era/progression.toml"
+hash = "9f0cbad90a2ecfd4737e44165183b96b16e68f9d90f99f28db32c5040e4d71d2"
+
+[[files]]
+file = "config/progressivestages/stages/pack_electric_era/rules.toml"
+hash = "a5e9f7711754d132ed8db3ca6a237e2833b06e0727ec9be6ea47aaf6d6dcef2d"
+
+[[files]]
+file = "config/progressivestages/stages/pack_electric_era/stage.toml"
+hash = "aaf4a3534338d9dca89a00b7018bcec7eb5ac6e92f07c015a35e759a5185313e"
+
+[[files]]
+file = "config/progressivestages/stages/pack_industrial_era/progression.toml"
+hash = "ac03510022a24e7b98c3921e33deb1baa5bbf3d673dee5df05b271290f2a87c6"
+
+[[files]]
+file = "config/progressivestages/stages/pack_industrial_era/rules.toml"
+hash = "a1e457e8ac8d92c4ab2d66913c6eae0cfaf3d2730d9cb57d9510d6baa2689c51"
+
+[[files]]
+file = "config/progressivestages/stages/pack_industrial_era/stage.toml"
+hash = "dbd3ad64463a79b906f63dea0491b9bb8736c6993698dfd3ebd806f904b3c9f1"
+
+[[files]]
+file = "config/progressivestages/stages/pack_military_advanced_era/progression.toml"
+hash = "2f9a26fb3ae807861389a8e5f5f1ec0318d40624b497b1641bac50a897fa4b7c"
+
+[[files]]
+file = "config/progressivestages/stages/pack_military_advanced_era/rules.toml"
+hash = "fa6033b34d5282eafa66bc7cb2a73864ba0f71a71604fd6e839f8f526148ce65"
+
+[[files]]
+file = "config/progressivestages/stages/pack_military_advanced_era/stage.toml"
+hash = "7be3db95e1770718502957d49acc4eb67c4b27f10e8aabde5b1de3449d4cabd0"
+
+[[files]]
+file = "config/progressivestages/stages/pack_military_era/progression.toml"
+hash = "9c05961e8587260c6a3c730c933bcea1db686d30394b16123e6c0c974710a02f"
+
+[[files]]
+file = "config/progressivestages/stages/pack_military_era/rules.toml"
+hash = "24e735996686aa56b87e004cca037e1d688f5a223f5cc1e75cadc9d636e97089"
+
+[[files]]
+file = "config/progressivestages/stages/pack_military_era/stage.toml"
+hash = "15fe4e7271a54e64e4352b70f49f7796494687374e4cf9f880c380df98f4a5e2"
+
+[[files]]
+file = "config/progressivestages/stages/pack_nuclear_era/progression.toml"
+hash = "31a199ea71b2b267a6d3bc1e2aceecf515396f977513433b8cd780f26d26f552"
+
+[[files]]
+file = "config/progressivestages/stages/pack_nuclear_era/rules.toml"
+hash = "5845d1eed73856c4af78a5b8d77857d892b767a3ec5aca19533a0e8b168fd386"
+
+[[files]]
+file = "config/progressivestages/stages/pack_nuclear_era/stage.toml"
+hash = "e0d7ac987a61cfcfbf39ab462b56ad4f2746aa1a70e697def8c9bf9e4b01678e"
+
+[[files]]
+file = "config/progressivestages/stages/pack_psi/progression.toml"
+hash = "77bc6ccc60304ef197efe2488dedce45dd630e0d9d4171f951b9d73147625cec"
+
+[[files]]
+file = "config/progressivestages/stages/pack_psi/rules.toml"
+hash = "9f78974e411ec29fef4aec02880a716955cd19485eb459fe70c95ef8a9b2876f"
+
+[[files]]
+file = "config/progressivestages/stages/pack_psi/stage.toml"
+hash = "03a8163878936b86cfc0f0f0591a4e21e665f228e2c8a1ee2474f8009beaebd8"
+
+[[files]]
+file = "config/progressivestages/stages/pack_sky_advanced_era/progression.toml"
+hash = "888f3c32e5309fd26b7e7a4b92a285b6d2a18dcbd89f38ff7df8fde0d25afd84"
+
+[[files]]
+file = "config/progressivestages/stages/pack_sky_advanced_era/rules.toml"
+hash = "ca8bb25a49a43ce7dcfdb39318e31bd78d7dfb7f10b7539bbbe8cfa70461628d"
+
+[[files]]
+file = "config/progressivestages/stages/pack_sky_advanced_era/stage.toml"
+hash = "d07f3e5a63fbd9c73054cd8075865dc8e03f768e58d4c9fabdf71b637f9aec43"
+
+[[files]]
+file = "config/progressivestages/stages/pack_sky_era/progression.toml"
+hash = "ee5ea46fd4763af4dd3b1548ae8db8fcabe58705c87eb3bb361ce88824c8c18f"
+
+[[files]]
+file = "config/progressivestages/stages/pack_sky_era/rules.toml"
+hash = "a47484b0787bfcea8c36a53f81bedfa77b1ca8e354361a840615c685fdfa4d19"
+
+[[files]]
+file = "config/progressivestages/stages/pack_sky_era/stage.toml"
+hash = "059a783df08bca2b3d65269d683c852ade7b2619a5fa457ec0626c4eb7a4011b"
+
+[[files]]
+file = "config/progressivestages/stages/pack_space_conquest/progression.toml"
+hash = "5078e93df1edd273c588226d3afd1a49724425214d62c9707f6f57716e4167dc"
+
+[[files]]
+file = "config/progressivestages/stages/pack_space_conquest/rules.toml"
+hash = "f389c223bd4160bf6848b013cd2e14e74eba86b6710cef88d7b040f638b9cb41"
+
+[[files]]
+file = "config/progressivestages/stages/pack_space_conquest/stage.toml"
+hash = "e6024581801e634e7bcd33ca4d5a738392f6d2ca7875e5f29681c3971e5ce5f3"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "b9103ea3b7f70cc466e60edee3306209d3920b1b8c17e6e8e80337ad74bc4528"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/plan_electric_era.png"
+hash = "163f5d0b9c4210fa73195fb3113ebd112300ccb2b2fde7dfdd704dda0423a2c7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/plan_industrial_era.png"
+hash = "ce42f9c6c5cae2d6e3774f21c35fe437755aed43479267ac4b03f604b2d799b0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/plan_military_advanced_era.png"
+hash = "22907d80c64e803e6ef239d0cb2ef1f0d80893f7565467776452df569f2d89a9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/plan_military_era.png"
+hash = "66e4d8e6b58e295cab739cd66d41c451734ef68ba338abc47c82a9a4a5164518"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/plan_nuclear_era.png"
+hash = "33b88a7d9c8586a79527705ba937aee78c9118d03e69a1418b0ff8d846b450b7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/plan_sky_advanced_era.png"
+hash = "ae32f6630cbd0b1dff234eed1a911e254f82cf58db12b39217401f726618b38c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/plan_sky_era.png"
+hash = "33315646e8dae8a11d0df99114b754f6ebd93be65a0e9a252f215671ef80e896"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/plan_space_conquest.png"
+hash = "2b050b5522e3aa65d109ded859f8482925238d6b1f7e407ecda32582e2dc2520"
+
+[[files]]
+file = "kubejs/data/createnuclear/neoforge/biome_modifier/lead_ore.json"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "kubejs/data/creatingspace/neoforge/biome_modifier/add_nickel_overworld_ore.json"
+hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
+
+[[files]]
+file = "kubejs/server_scripts/createnuclear_progression.js"
+hash = "ae9d944c8a703ed4d9f5b6c99be812f143e337a1720d5a1bbbedcb944a2b4903"
+
+[[files]]
+file = "kubejs/server_scripts/era_plans.js"
+hash = "7a6bf3855c9c16a234a2f501a7208230db8b31c9bf5fc00ec25d2f3f56c77178"
+
+[[files]]
+file = "kubejs/server_scripts/ore_excavation.js"
+hash = "55adea7534e67bb43b1e117e332dfc3f86a4b4803ada3a4dffdba34cea804572"
+
+[[files]]
+file = "kubejs/server_scripts/resource_unification.js"
+hash = "a0f9d3607f2e401d7e6d6c56c9a9908764bdeaf3dd3d5311db71c0f13a678fa2"
+
+[[files]]
+file = "kubejs/server_scripts/sky_build_limit.js"
+hash = "a38c6e654494cf1be85561f56212542c479a76bcd35b34c6551caa8240847728"
+
+[[files]]
 file = "kubejs/server_scripts/stage_lock.js"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/startup_scripts/era_plans.js"
+hash = "8f7b78dad9973504aedad24160f9a7d08002b74e30b6e712d82de2a7784bec71"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
@@ -27,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+metafile = true
+
+[[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "e735b472ad5c38359636d5abb84ed1baeb461f72aa19c324c349543823a16188"
 metafile = true
 
 [[files]]
@@ -331,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "619696ae737e913189805cce55cf5ab20a2d91d493a2e6e54b657252435eb275"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]

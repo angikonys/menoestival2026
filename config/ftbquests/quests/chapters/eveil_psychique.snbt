@@ -1,0 +1,148 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "eveil_psychique"
+	group: "1C04136890F85D41"
+	id: "21AC26ACD481B1F2"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "2052A4F93A4D0370"
+		rewards: []
+		tasks: [{
+			id: "445951CAD24EBE32"
+			stage: "pack_electric_era"
+			type: "gamestage"
+		}]
+		x: -2.0d
+		y: 0.0d
+	}{
+		dependencies: ["2052A4F93A4D0370"]
+		id: "2EF8E2981A914F8B"
+		rewards: [{
+			id: "51BDCF1DE69AD5DB"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "1E1B4E70FBEF906F"
+			item: { count: 1, id: "tfmg:voltmeter" }
+			type: "item"
+		}{
+			id: "79CCD79981DAAAA3"
+			item: { count: 1, id: "computercraft:monitor_advanced" }
+			type: "item"
+		}{
+			id: "5CC1A97515FD04B4"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}{
+		dependencies: ["2EF8E2981A914F8B"]
+		id: "2AE189E6F110566B"
+		rewards: [{
+			id: "5053678048599326"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "6CE91EA8CD53A507"
+			item: { count: 1, id: "computercraft:computer_advanced" }
+			type: "item"
+		}{
+			id: "746C5EBD38359084"
+			item: { count: 1, id: "computercraft:wireless_modem_advanced" }
+			type: "item"
+		}]
+		x: 2.0d
+		y: 0.0d
+	}{
+		dependencies: ["2AE189E6F110566B"]
+		id: "66E5F61397008F9E"
+		rewards: [{
+			id: "1FAEF3B3D15A7A6C"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "228FD7AA6D6DF071"
+			item: { count: 1, id: "tfmg:electromagnetic_coil" }
+			type: "item"
+			count: 4L
+		}{
+			id: "28FAB4DF4B3B0A10"
+			item: { count: 1, id: "tfmg:magnet" }
+			type: "item"
+			count: 4L
+		}{
+			id: "62850964489FBB8E"
+			item: { count: 1, id: "tfmg:transformer" }
+			type: "item"
+		}]
+		x: 4.0d
+		y: 0.0d
+	}{
+		dependencies: ["66E5F61397008F9E"]
+		id: "2400A7EE430F2AE8"
+		rewards: [{
+			id: "3D463975E1F044BA"
+			type: "xp_levels"
+			xp_levels: 15
+		}]
+		tasks: [{
+			id: "30E1143A6972C1D0"
+			item: { count: 1, id: "tfmg:circuit_board" }
+			type: "item"
+			count: 16L
+		}{
+			id: "584271A3C5561107"
+			type: "checkmark"
+		}]
+		x: 6.0d
+		y: 0.0d
+	}{
+		dependencies: ["2400A7EE430F2AE8"]
+		id: "1A239A127869D0C8"
+		rewards: [{
+			id: "322FC4188FE4833E"
+			type: "xp_levels"
+			xp_levels: 15
+		}]
+		tasks: [{
+			id: "6CA1BEE94FE36902"
+			item: { count: 1, id: "tfmg:coated_circuit_board" }
+			type: "item"
+			count: 4L
+		}{
+			id: "671527CE2562B841"
+			item: { count: 1, id: "tfmg:capacitor_item" }
+			type: "item"
+			count: 4L
+		}]
+		x: 8.0d
+		y: 0.0d
+	}{
+		dependencies: ["1A239A127869D0C8"]
+		id: "2DD8CA7325004EFD"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			auto: "enabled"
+			id: "5C1CB76501A375E0"
+			stage: "pack_psi"
+			type: "gamestage"
+		}{
+			id: "243581FE15BE424F"
+			type: "xp_levels"
+			xp_levels: 20
+		}]
+		tasks: [{
+			id: "6A8C05FCC20C1446"
+			type: "checkmark"
+		}]
+		x: 10.0d
+		y: 0.0d
+	}]
+}

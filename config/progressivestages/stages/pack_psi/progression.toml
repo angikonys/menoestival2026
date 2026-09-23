@@ -1,0 +1,6 @@
+# Accordé par une quête FTB : Stage Reward -> "pack_psi"
+
+[unlock]
+toast = "Éveil psychique débloqué !"
+title = "&b&lÉveil psychique"
+sound = "minecraft:ui.toast.challenge_complete"

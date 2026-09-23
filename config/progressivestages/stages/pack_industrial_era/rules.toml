@@ -1,0 +1,131 @@
+# Généré automatiquement — modids lus dans les jars du dossier mods/.
+
+[items]
+locked = [
+    "mod:tfmg",   # Create: The Factory Must Grow (sa partie électrique est aussi verrouillée par pack_electric_era)
+    "mod:createcasing",   # Create Encased
+    "mod:createoreexcavation",   # Create Ore Excavation
+    "mod:create_ore_excavation_plus",   # Create ore excavation Plus
+    "mod:create_mechanical_extruder",   # Create Mechanical Extruder
+    "mod:create_hypertube",   # Create Hypertube
+    "mod:createmetalogistics",   # Create: Meta Logistics
+    "mod:bigcontraptions",   # Create: Big Contraptions
+    "mod:create_pattern_schematics",   # Create: Pattern Schematics
+    "mod:create_enchantment_industry",   # Create: Enchantment Industry
+    "mod:ccbr",   # Create: CC Better Recipes
+    "mod:escalated",   # Create: Escalated
+    "mod:betteritemvaults",   # Better Item Vaults
+    "mod:sliceanddice",   # Create Slice & Dice
+    "mod:create_central_kitchen",   # Create: Central Kitchen
+    "mod:create_dragons_plus",   # Create: Dragons Plus
+    "mod:create_connected",   # Create: Connected
+    "mod:bellsandwhistles",   # Create: Bells & Whistles
+    "mod:copycats",   # Create: Copycats+
+    "mod:createframed",   # Create: Framed
+    "mod:interiors",   # Create: Interiors
+    "mod:createclothes",   # Create Clothes
+    "mod:creategoggles",   # Create Goggles
+    "mod:create_bic_bit",   # Create: Bitterballen
+    "mod:rechiseledcreate",   # Rechiseled: Create
+    "mod:create_bb",   # Create: Blocks & Bogies
+    "mod:create_train_parts",   # Create Train Parts
+]
+
+[blocks]
+locked = [
+    "mod:tfmg",   # Create: The Factory Must Grow (sa partie électrique est aussi verrouillée par pack_electric_era)
+    "mod:createcasing",   # Create Encased
+    "mod:createoreexcavation",   # Create Ore Excavation
+    "mod:create_ore_excavation_plus",   # Create ore excavation Plus
+    "mod:create_mechanical_extruder",   # Create Mechanical Extruder
+    "mod:create_hypertube",   # Create Hypertube
+    "mod:createmetalogistics",   # Create: Meta Logistics
+    "mod:bigcontraptions",   # Create: Big Contraptions
+    "mod:create_pattern_schematics",   # Create: Pattern Schematics
+    "mod:create_enchantment_industry",   # Create: Enchantment Industry
+    "mod:ccbr",   # Create: CC Better Recipes
+    "mod:escalated",   # Create: Escalated
+    "mod:betteritemvaults",   # Better Item Vaults
+    "mod:sliceanddice",   # Create Slice & Dice
+    "mod:create_central_kitchen",   # Create: Central Kitchen
+    "mod:create_dragons_plus",   # Create: Dragons Plus
+    "mod:create_connected",   # Create: Connected
+    "mod:bellsandwhistles",   # Create: Bells & Whistles
+    "mod:copycats",   # Create: Copycats+
+    "mod:createframed",   # Create: Framed
+    "mod:interiors",   # Create: Interiors
+    "mod:createclothes",   # Create Clothes
+    "mod:creategoggles",   # Create Goggles
+    "mod:create_bic_bit",   # Create: Bitterballen
+    "mod:rechiseledcreate",   # Rechiseled: Create
+    "mod:create_bb",   # Create: Blocks & Bogies
+    "mod:create_train_parts",   # Create Train Parts
+]
+
+[fluids]
+locked = [
+    "mod:tfmg",
+    "mod:create_enchantment_industry",
+]
+
+[recipes]
+# recettes appartenant au mod (même si la sortie est vanilla)
+locked_ids = [
+    "mod:tfmg",
+    "mod:createcasing",
+    "mod:createoreexcavation",
+    "mod:create_ore_excavation_plus",
+    "mod:create_mechanical_extruder",
+    "mod:create_hypertube",
+    "mod:createmetalogistics",
+    "mod:bigcontraptions",
+    "mod:create_pattern_schematics",
+    "mod:create_enchantment_industry",
+    "mod:ccbr",
+    "mod:escalated",
+    "mod:betteritemvaults",
+    "mod:sliceanddice",
+    "mod:create_central_kitchen",
+    "mod:create_dragons_plus",
+    "mod:create_connected",
+    "mod:bellsandwhistles",
+    "mod:copycats",
+    "mod:createframed",
+    "mod:interiors",
+    "mod:createclothes",
+    "mod:creategoggles",
+    "mod:create_bic_bit",
+    "mod:rechiseledcreate",
+    "mod:create_bb",
+    "mod:create_train_parts",
+]
+# toute recette qui produit un item verrouillé
+locked_items = [
+    "mod:tfmg",   # Create: The Factory Must Grow (sa partie électrique est aussi verrouillée par pack_electric_era)
+    "mod:createcasing",   # Create Encased
+    "mod:createoreexcavation",   # Create Ore Excavation
+    "mod:create_ore_excavation_plus",   # Create ore excavation Plus
+    "mod:create_mechanical_extruder",   # Create Mechanical Extruder
+    "mod:create_hypertube",   # Create Hypertube
+    "mod:createmetalogistics",   # Create: Meta Logistics
+    "mod:bigcontraptions",   # Create: Big Contraptions
+    "mod:create_pattern_schematics",   # Create: Pattern Schematics
+    "mod:create_enchantment_industry",   # Create: Enchantment Industry
+    "mod:ccbr",   # Create: CC Better Recipes
+    "mod:escalated",   # Create: Escalated
+    "mod:betteritemvaults",   # Better Item Vaults
+    "mod:sliceanddice",   # Create Slice & Dice
+    "mod:create_central_kitchen",   # Create: Central Kitchen
+    "mod:create_dragons_plus",   # Create: Dragons Plus
+    "mod:create_connected",   # Create: Connected
+    "mod:bellsandwhistles",   # Create: Bells & Whistles
+    "mod:copycats",   # Create: Copycats+
+    "mod:createframed",   # Create: Framed
+    "mod:interiors",   # Create: Interiors
+    "mod:createclothes",   # Create Clothes
+    "mod:creategoggles",   # Create Goggles
+    "mod:create_bic_bit",   # Create: Bitterballen
+    "mod:rechiseledcreate",   # Rechiseled: Create
+    "mod:create_bb",   # Create: Blocks & Bogies
+    "mod:create_train_parts",   # Create Train Parts
+]

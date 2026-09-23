@@ -1,0 +1,37 @@
+# Généré automatiquement — modids lus dans les jars du dossier mods/.
+
+[items]
+locked = [
+    "mod:cbc_equally_opposite",   # Create Big Cannons: Equally Opposite
+    "mod:cbc_going_ballistic",   # Create Big Cannons: Going Ballistic
+    "mod:cbc_at",   # CBC Advanced Technology
+    "mod:cbcperipheral",   # CBC Peripheral
+    "mod:cc_cbc",   # CC:CBC
+]
+
+[blocks]
+locked = [
+    "mod:cbc_equally_opposite",   # Create Big Cannons: Equally Opposite
+    "mod:cbc_going_ballistic",   # Create Big Cannons: Going Ballistic
+    "mod:cbc_at",   # CBC Advanced Technology
+    "mod:cbcperipheral",   # CBC Peripheral
+    "mod:cc_cbc",   # CC:CBC
+]
+
+[recipes]
+# recettes appartenant au mod (même si la sortie est vanilla)
+locked_ids = [
+    "mod:cbc_equally_opposite",
+    "mod:cbc_going_ballistic",
+    "mod:cbc_at",
+    "mod:cbcperipheral",
+    "mod:cc_cbc",
+]
+# toute recette qui produit un item verrouillé
+locked_items = [
+    "mod:cbc_equally_opposite",   # Create Big Cannons: Equally Opposite
+    "mod:cbc_going_ballistic",   # Create Big Cannons: Going Ballistic
+    "mod:cbc_at",   # CBC Advanced Technology
+    "mod:cbcperipheral",   # CBC Peripheral
+    "mod:cc_cbc",   # CC:CBC
+]

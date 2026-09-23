@@ -1,0 +1,6 @@
+# Accordé par une quête FTB : Stage Reward -> "pack_sky_era"
+
+[unlock]
+toast = "Ère Aérienne débloquée !"
+title = "&6&lÈre Aérienne débloquée !"
+sound = "minecraft:ui.toast.challenge_complete"

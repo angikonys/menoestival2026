@@ -1,0 +1,167 @@
+{
+	chapter.19E9BDE6D10B9A5E.title: "Introduction à create"
+	chapter_group.03F9E40C3DF35108.title: "Technologia"
+	chapter_group.1C04136890F85D41.title: "Magie"
+	chapter_group.43FA552E6CFF540A.title: "Exploration"
+	file.0000000000000001.title: "Menoestival 2026"
+	task.6E46B0BE31B9819A.title: "test stage"
+	chapter.21A2A5D39A76708D.title: "Ère Industrielle"
+	chapter.21A2A5D39A76708D.chapter_subtitle: ["La maîtrise du laiton"]
+	quest.25BBC4746B9B2003.title: "Alliage en série"
+	quest.25BBC4746B9B2003.quest_desc: ["Une usine commence par des milliers de petites pièces." "Produis 256 alliages d'andésite."]
+	quest.1F72E6B3EC4D96FB.title: "L'âge du laiton"
+	quest.1F72E6B3EC4D96FB.quest_desc: ["Mixage chauffé : cuivre + zinc."]
+	quest.757A32242EFCE882.title: "Le cœur des machines"
+	quest.757A32242EFCE882.quest_desc: ["Ton premier assemblage séquencé."]
+	quest.422CCC65D074B5D7.title: "La vapeur"
+	quest.422CCC65D074B5D7.quest_desc: ["Construis un moteur à vapeur complet et fais-le tourner."]
+	task.32A6E26ADE4F36E9.title: "Mon moteur à vapeur tourne"
+	quest.6B3CF0A186795ED4.title: "Le rail (optionnel)"
+	quest.6B3CF0A186795ED4.quest_desc: ["Relie deux gares par un train."]
+	task.443480B531F10B1D.title: "Un train relie deux gares"
+	quest.2AFD6E9FACCA8D73.title: "Ouvrir l'Ère Industrielle"
+	quest.2AFD6E9FACCA8D73.quest_desc: ["Fabrique les Plans de l'Ère Industrielle à l'établi mécanique et rends-les." "Débloque TFMG et les addons industriels."]
+	chapter.15B7AFBB3DDBA17A.title: "Ère Électrique"
+	chapter.15B7AFBB3DDBA17A.chapter_subtitle: ["L'or noir"]
+	quest.5565B8BB461EB632.title: "Prérequis"
+	quest.5565B8BB461EB632.quest_desc: ["Se valide automatiquement quand tu as l'Ère Industrielle."]
+	task.4CC61D3D1F5E1152.title: "Avoir l'Ère Industrielle"
+	quest.1099823B5B768616.title: "Le four à coke"
+	quest.64A34091F0ED69E6.title: "L'acier"
+	quest.64A34091F0ED69E6.quest_desc: ["Haut fourneau TFMG : minerai de fer broyé + fondant."]
+	quest.40AB4A9E3E6C1B91.title: "Premier forage"
+	quest.7C4F2B36EDEE660D.title: "Raffiner"
+	quest.7C4F2B36EDEE660D.quest_desc: ["Construis une colonne de distillation et sépare le pétrole brut."]
+	quest.2E444E3D7647121C.title: "Le moteur"
+	quest.2E444E3D7647121C.quest_desc: ["Fais tourner une usine avec un moteur alimenté au diesel."]
+	task.31419D7E065D4213.title: "Mon usine tourne au diesel"
+	quest.43F145D55BED0BBF.title: "Ouvrir l'Ère Électrique"
+	quest.43F145D55BED0BBF.quest_desc: ["Fabrique les Plans de l'Ère Électrique à l'établi mécanique et rends-les." "Débloque l'électricité TFMG et les ordinateurs."]
+	chapter.4AC61BF2C076CC76.title: "Ère Nucléaire"
+	chapter.4AC61BF2C076CC76.chapter_subtitle: ["Au-delà du charbon"]
+	quest.38113B47E12D6638.title: "Prérequis"
+	quest.38113B47E12D6638.quest_desc: ["Se valide automatiquement quand tu as l'Ère Électrique."]
+	task.6211202A2463937C.title: "Avoir l'Ère Électrique"
+	quest.4339D6DBED22B749.title: "Le réseau"
+	quest.4339D6DBED22B749.quest_desc: ["Un générateur qui alimente plusieurs moteurs électriques."]
+	quest.2CD08436EA981076.title: "L'électronique"
+	quest.124C6058BA3D969E.title: "La chimie"
+	quest.124C6058BA3D969E.quest_desc: ["L'acide sulfurique servira à extraire l'uranium."]
+	quest.4A02EE1D9A488353.title: "Le contrôle"
+	quest.4A02EE1D9A488353.quest_desc: ["Un ordinateur qui affiche la tension d'un voltmètre sur un moniteur."]
+	task.79EE30F5EC96DCB9.title: "Mon ordinateur surveille le réseau"
+	quest.376D459538E944F5.title: "Ouvrir l'Ère Nucléaire"
+	quest.376D459538E944F5.quest_desc: ["Fabrique les Plans de l'Ère Nucléaire à l'établi mécanique et rends-les." "Débloque Create Nuclear."]
+	chapter.171E50263E977FFE.title: "Ère Aérienne"
+	chapter.171E50263E977FFE.chapter_subtitle: ["Toucher le ciel"]
+	quest.657ACD86F0784945.title: "Prérequis"
+	quest.657ACD86F0784945.quest_desc: ["Se valide automatiquement quand tu as l'Ère Industrielle."]
+	task.290BBB18B7F975F5.title: "Avoir l'Ère Industrielle"
+	quest.3FE60ED389A6FA3B.title: "Les maîtres du ciel"
+	quest.4BFB6410C40B4106.title: "Les hauteurs"
+	quest.4BFB6410C40B4106.quest_desc: ["Monte au-dessus de Y 250."]
+	task.3A30A0C352F0271E.title: "Atteindre Y 250"
+	quest.343BC4988BEC243C.title: "Matériaux légers"
+	quest.7F8B2D88DAB71F5C.title: "Grande contraption"
+	quest.7F8B2D88DAB71F5C.quest_desc: ["Fais bouger une contraption d'au moins 100 blocs."]
+	task.31A991C706505D06.title: "Ma contraption de 100 blocs bouge"
+	quest.3E4D0945C787D707.title: "Ouvrir l'Ère Aérienne"
+	quest.3E4D0945C787D707.quest_desc: ["Fabrique les Plans de l'Ère Aérienne à l'établi mécanique et rends-les." "Débloque Create Aeronautics et ses addons."]
+	chapter.6A1F3EEBDB2C5F86.title: "Conquête Spatiale"
+	chapter.6A1F3EEBDB2C5F86.chapter_subtitle: ["Préparer le lancement, puis décoller"]
+	quest.748AC595154D8BBE.title: "Prérequis"
+	quest.748AC595154D8BBE.quest_desc: ["Se valide automatiquement quand tu as l'Ère Électrique."]
+	task.3637E6BE5EDEBCD7.title: "Avoir l'Ère Électrique"
+	quest.126FD7D8F793C68D.title: "Carburants"
+	quest.62529AC9320EEFCC.title: "Calculer la trajectoire"
+	quest.62529AC9320EEFCC.quest_desc: ["Écris un programme sur un ordinateur CC."]
+	task.4230AA44EDB2D6D0.title: "Mon programme de trajectoire fonctionne"
+	quest.7A5913F90CABB132.title: "Structure de fusée"
+	quest.41AA3B545AF0F8C2.title: "Voir la Lune"
+	quest.41AA3B545AF0F8C2.quest_desc: ["Monte au sommet du monde une nuit de pleine lune."]
+	task.138A7BDCBCF383D5.title: "Atteindre Y 300"
+	quest.3B73BED3C6EB92A8.title: "Fin de l'acte 1 : prêt au lancement"
+	quest.3B73BED3C6EB92A8.quest_desc: ["Fabrique les Plans de la Conquête Spatiale à l'établi mécanique et rends-les." "Débloque Creating Space."]
+	quest.5FCA99C083C64354.title: "Le moteur-fusée"
+	quest.31AA69C4619FD9B2.title: "Les commandes"
+	quest.1625DB9672E5B0D4.title: "En orbite"
+	quest.1625DB9672E5B0D4.quest_desc: ["Décolle et atteins l'orbite terrestre."]
+	quest.680D4390ADC1C7AA.title: "Sur la Lune"
+	quest.569353F2C868EBFD.title: "Fin de l'acte 2 : retour sur Terre"
+	quest.569353F2C868EBFD.quest_desc: ["La technologie spatiale revient sur Terre." "Fabrique les Plans de l'Ère Aérienne Avancée (il faut du régolithe lunaire)." "Débloque l'Ère Aérienne Avancée." "Il faut aussi avoir l'Ère Aérienne."]
+	task.3E86653123AB2920.title: "Avoir l'Ère Aérienne"
+	chapter.3E4FFE7114AEEAEF.title: "Ère Militaire"
+	chapter.3E4FFE7114AEEAEF.chapter_subtitle: ["L'arsenal"]
+	quest.1DEAD525B4B29FBA.title: "Prérequis"
+	quest.1DEAD525B4B29FBA.quest_desc: ["Se valide automatiquement quand tu as l'Ère Industrielle."]
+	task.2830C8D2F2D3183B.title: "Avoir l'Ère Industrielle"
+	quest.446F3F32C42DE5A1.title: "La poudre"
+	quest.3B0B1C982151A1CF.title: "Fonte"
+	quest.3ACD5D54947BE454.title: "La menace"
+	quest.3ACD5D54947BE454.quest_desc: ["Trouve un avant-poste pillard et nettoie-le."]
+	quest.162C1A818C708207.title: "Fortifier"
+	quest.676DE7CF593BC042.title: "Ouvrir l'Ère Militaire"
+	quest.676DE7CF593BC042.quest_desc: ["Fabrique les Plans de l'Ère Militaire à l'établi mécanique et rends-les." "Débloque Create Big Cannons."]
+	chapter.4ED72FD3E2BE3792.title: "Ère Militaire Avancée"
+	chapter.4ED72FD3E2BE3792.chapter_subtitle: ["Artillerie moderne"]
+	quest.7599EF18593E496B.title: "Prérequis"
+	quest.7599EF18593E496B.quest_desc: ["Se valide automatiquement quand tu as l'Ère Militaire."]
+	task.7FD95C49F5B031F4.title: "Avoir l'Ère Militaire"
+	quest.747C6C07351D0048.title: "Le premier tir"
+	quest.747C6C07351D0048.quest_desc: ["Construis un canon et tire un obus explosif."]
+	task.4878A8AA54B81F12.title: "J'ai tiré un obus"
+	quest.12A37ACE8F84283D.title: "Ciblage électronique"
+	quest.12A37ACE8F84283D.quest_desc: ["Il faut l'Ère Électrique."]
+	task.7035046B3EF6B39E.title: "Avoir l'Ère Électrique"
+	quest.673E165FE6C44F9D.title: "L'épreuve"
+	quest.303FC3DC160A3FE6.title: "Ouvrir l'Ère Militaire Avancée"
+	quest.303FC3DC160A3FE6.quest_desc: ["Fabrique les Plans de l'Ère Militaire Avancée à l'établi mécanique et rends-les." "Débloque les addons de Create Big Cannons."]
+	chapter.21AC26ACD481B1F2.title: "Découverte des psions"
+	chapter.21AC26ACD481B1F2.chapter_subtitle: ["Une particule que la physique ne sait pas expliquer"]
+	quest.2052A4F93A4D0370.title: "Prérequis"
+	quest.2052A4F93A4D0370.quest_desc: ["Se valide automatiquement quand tu as l'Ère Électrique."]
+	task.445951CAD24EBE32.title: "Avoir l'Ère Électrique"
+	quest.2EF8E2981A914F8B.title: "Une anomalie"
+	quest.2EF8E2981A914F8B.quest_desc: ["Tes instruments électriques captent un bruit de fond inexpliqué." "Il devient plus fort quand quelqu'un se concentre à proximité." "Mesure-le et affiche-le."]
+	task.5CC1A97515FD04B4.title: "J'ai enregistré l'anomalie"
+	quest.2AE189E6F110566B.title: "Isoler le signal"
+	quest.2AE189E6F110566B.quest_desc: ["Le bruit ne vient d'aucune source électrique connue." "Un ordinateur et une antenne permettent de le filtrer."]
+	quest.66E5F61397008F9E.title: "Le détecteur de psions"
+	quest.66E5F61397008F9E.quest_desc: ["Un champ électromagnétique intense réagit au signal." "Construis un détecteur : bobine, aimants et transformateur."]
+	quest.2400A7EE430F2AE8.title: "Le psion"
+	quest.2400A7EE430F2AE8.quest_desc: ["Le signal est porté par une particule non physique : le psion." "Il ne se propage pas dans l'espace, mais dans la pensée." "Chaque objet possède une « information » que les psions peuvent lire et modifier."]
+	task.584271A3C5561107.title: "J'ai compris la nature du psion"
+	quest.1A239A127869D0C8.title: "La séquence d'activation"
+	quest.1A239A127869D0C8.quest_desc: ["Un esprit seul émet des psions sans les contrôler." "Il faut un appareil qui les ordonne en séquence : un assistant de lancement."]
+	quest.2DD8CA7325004EFD.title: "Éveil psychique"
+	quest.2DD8CA7325004EFD.quest_desc: ["Tu sais détecter, comprendre et ordonner les psions." "Débloque Psi et le Casting Assistant Device (CAD)."]
+	task.6A8C05FCC20C1446.title: "Je suis prêt à éveiller mon esprit"
+	chapter.695FE49D3F9B1221.title: "Maîtrise psionique"
+	chapter.695FE49D3F9B1221.chapter_subtitle: ["Du premier CAD au CAD de fin de jeu"]
+	quest.2060BCF14FCFDEAA.title: "Prérequis"
+	quest.2060BCF14FCFDEAA.quest_desc: ["Se valide automatiquement quand tu as l'Éveil psychique."]
+	task.655BE6D1BEEA1FB4.title: "Avoir l'Éveil psychique"
+	quest.707A4B3736110A5A.title: "L'atelier"
+	quest.707A4B3736110A5A.quest_desc: ["L'assembleur de CAD permet de monter ton appareil pièce par pièce."]
+	quest.6A73942B9B27EEC0.title: "Premier CAD"
+	quest.6A73942B9B27EEC0.quest_desc: ["Un assemblage, un noyau qui calcule, un emplacement pour les sorts et une batterie de psions."]
+	quest.185AD83EB8F54475.title: "Matérialiser les psions"
+	quest.185AD83EB8F54475.quest_desc: ["Le sort d'Infusion condense les psions dans la matière." "Programme-le et fabrique de la poudre psychique."]
+	quest.726E05C10E4F412D.title: "La zone de calcul"
+	quest.726E05C10E4F412D.quest_desc: ["Le programmeur de sorts te permet d'écrire tes propres séquences."]
+	quest.64CEF488EBF554FD.title: "Le psimétal"
+	quest.64CEF488EBF554FD.quest_desc: ["Un métal qui conduit les psions."]
+	quest.5A2B78B88816FB6B.title: "Outils psioniques (optionnel)"
+	quest.6C1AB3A07DF1BD6B.title: "Formes de lancement"
+	quest.6C1AB3A07DF1BD6B.quest_desc: ["Un même sort peut partir en projectile, en cercle ou en boucle."]
+	quest.309750E957C2F466.title: "L'exosquelette"
+	quest.309750E957C2F466.quest_desc: ["Il déclenche tes sorts tout seul selon ce qu'il détecte."]
+	quest.500529D1C1E430D6.title: "La voie de l'ébène"
+	quest.500529D1C1E430D6.quest_desc: ["Un psimétal sombre, tourné vers la puissance." "Au choix avec la voie de l'ivoire."]
+	quest.652164FC12C13BB9.title: "La voie de l'ivoire"
+	quest.652164FC12C13BB9.quest_desc: ["Un psimétal clair, tourné vers l'efficacité." "Au choix avec la voie de l'ébène."]
+	quest.6934EE1D733E2874.title: "CAD avancé"
+	quest.6934EE1D733E2874.quest_desc: ["Termine la voie de l'ébène ou celle de l'ivoire."]
+	quest.3302A9C87FB9357B.title: "Maître psionique"
+	quest.3302A9C87FB9357B.quest_desc: ["Un CAD de fin de jeu : calcul hypercadencé et réserve de psions immense."]
+}

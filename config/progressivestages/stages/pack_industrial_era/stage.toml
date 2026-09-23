@@ -1,0 +1,20 @@
+[schema]
+version = 4
+
+[stage]
+id = "pack_industrial_era"
+display_name = "Ère Industrielle"
+description = "Industrialisation lourde, pétrole (TFMG) et addons de production Create."
+icon = "tfmg:pumpjack_base"
+dependencies = []
+dependency_mode = "all"
+dependency_count = 1
+category = "Industrie"
+color = "#c8962d"
+hidden = false
+scope = "team"
+tags = ["create_progression"]
+
+[display]
+frame = "goal"
+reveal = "always"

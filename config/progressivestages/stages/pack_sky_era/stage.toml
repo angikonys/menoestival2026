@@ -1,0 +1,20 @@
+[schema]
+version = 4
+
+[stage]
+id = "pack_sky_era"
+display_name = "Ère Aérienne"
+description = "Aéronautique de base."
+icon = "aeronautics:andesite_propeller"
+dependencies = ["pack_industrial_era"]
+dependency_mode = "all"
+dependency_count = 1
+category = "Ciel"
+color = "#7ec8f0"
+hidden = false
+scope = "team"
+tags = ["create_progression"]
+
+[display]
+frame = "goal"
+reveal = "dependencies"

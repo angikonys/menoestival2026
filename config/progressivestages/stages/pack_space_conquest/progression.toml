@@ -1,0 +1,6 @@
+# Accordé par une quête FTB : Stage Reward -> "pack_space_conquest"
+
+[unlock]
+toast = "Conquête Spatiale débloquée !"
+title = "&6&lConquête Spatiale débloquée !"
+sound = "minecraft:ui.toast.challenge_complete"

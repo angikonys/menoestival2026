@@ -1,0 +1,6 @@
+# Accordé par une quête FTB : Stage Reward -> "pack_electric_era"
+
+[unlock]
+toast = "Ère Électrique débloquée !"
+title = "&6&lÈre Électrique débloquée !"
+sound = "minecraft:ui.toast.challenge_complete"

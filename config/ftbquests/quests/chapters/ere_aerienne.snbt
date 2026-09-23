@@ -1,0 +1,113 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ere_aerienne"
+	group: "03F9E40C3DF35108"
+	id: "171E50263E977FFE"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [{
+		id: "657ACD86F0784945"
+		rewards: []
+		tasks: [{
+			id: "290BBB18B7F975F5"
+			stage: "pack_industrial_era"
+			type: "gamestage"
+		}]
+		x: -2.0d
+		y: 0.0d
+	}{
+		dependencies: ["657ACD86F0784945"]
+		id: "3FE60ED389A6FA3B"
+		rewards: [{
+			id: "4C35945620FAAE50"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "6BEB7DFCDD4B2F08"
+			entity: "minecraft:phantom"
+			type: "kill"
+			value: 10L
+		}]
+		x: 0.0d
+		y: 0.0d
+	}{
+		dependencies: ["3FE60ED389A6FA3B"]
+		id: "4BFB6410C40B4106"
+		rewards: [{
+			id: "4D46A248DA15FCE7"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "3A30A0C352F0271E"
+			dimension: "minecraft:overworld"
+			ignore_dimension: false
+			position: [I; -30000000, 250, -30000000]
+			size: [I; 60000000, 70, 60000000]
+			type: "location"
+		}]
+		x: 2.0d
+		y: 0.0d
+	}{
+		dependencies: ["4BFB6410C40B4106"]
+		id: "343BC4988BEC243C"
+		rewards: [{
+			id: "4C96FAB5769CCE82"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "7620FD551BB4B053"
+			item: { count: 1, id: "tfmg:aluminum_sheet" }
+			type: "item"
+			count: 32L
+		}{
+			id: "54F55807A9C06BF4"
+			item: { count: 1, id: "tfmg:rubber_sheet" }
+			type: "item"
+			count: 16L
+		}]
+		x: 4.0d
+		y: 0.0d
+	}{
+		dependencies: ["343BC4988BEC243C"]
+		id: "7F8B2D88DAB71F5C"
+		rewards: [{
+			id: "148D7D3EA4DBC39B"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "31A991C706505D06"
+			type: "checkmark"
+		}]
+		x: 6.0d
+		y: 0.0d
+	}{
+		dependencies: ["7F8B2D88DAB71F5C"]
+		id: "3E4D0945C787D707"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			auto: "enabled"
+			id: "35D59192B8CBD3E9"
+			stage: "pack_sky_era"
+			type: "gamestage"
+		}{
+			id: "5BB895E8472CE2A6"
+			type: "xp_levels"
+			xp_levels: 20
+		}]
+		tasks: [{
+			id: "70B63018D544C6CC"
+			consume_items: true
+			item: { count: 1, id: "kubejs:plan_sky_era" }
+			type: "item"
+		}]
+		x: 8.0d
+		y: 0.0d
+	}]
+}

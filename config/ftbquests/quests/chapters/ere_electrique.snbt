@@ -1,0 +1,143 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ere_electrique"
+	group: "03F9E40C3DF35108"
+	id: "15B7AFBB3DDBA17A"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "5565B8BB461EB632"
+		rewards: []
+		tasks: [{
+			id: "4CC61D3D1F5E1152"
+			stage: "pack_industrial_era"
+			type: "gamestage"
+		}]
+		x: -2.0d
+		y: 0.0d
+	}{
+		dependencies: ["5565B8BB461EB632"]
+		id: "1099823B5B768616"
+		rewards: [{
+			id: "415090CC49086432"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "676AACA3E8DF3F5C"
+			item: { count: 1, id: "tfmg:coke_oven" }
+			type: "item"
+		}{
+			id: "2191CA10A86A41EA"
+			item: { count: 1, id: "tfmg:coal_coke" }
+			type: "item"
+			count: 64L
+		}]
+		x: 0.0d
+		y: 0.0d
+	}{
+		dependencies: ["1099823B5B768616"]
+		id: "64A34091F0ED69E6"
+		rewards: [{
+			id: "42E67C6120A32411"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "7BD47DB3CFEB4DAA"
+			item: { count: 1, id: "tfmg:steel_ingot" }
+			type: "item"
+			count: 64L
+		}{
+			id: "36ACD5D16199E8E0"
+			item: { count: 1, id: "tfmg:heavy_plate" }
+			type: "item"
+			count: 16L
+		}]
+		x: 2.0d
+		y: 0.0d
+	}{
+		dependencies: ["64A34091F0ED69E6"]
+		id: "40AB4A9E3E6C1B91"
+		rewards: [{
+			id: "634F6A21D7D03EBD"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "129345E6FDF75275"
+			item: { count: 1, id: "tfmg:pumpjack_base" }
+			type: "item"
+		}{
+			id: "785F7604B7B5EDA7"
+			amount: 1000L
+			fluid: "tfmg:crude_oil"
+			type: "fluid"
+		}]
+		x: 4.0d
+		y: 0.0d
+	}{
+		dependencies: ["40AB4A9E3E6C1B91"]
+		id: "7C4F2B36EDEE660D"
+		rewards: [{
+			id: "4EC15E86F5F25CFB"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "7A38A9E22752EEDA"
+			item: { count: 1, id: "tfmg:steel_distillation_controller" }
+			type: "item"
+		}{
+			id: "63CDD8CA2913EA42"
+			amount: 4000L
+			fluid: "tfmg:diesel"
+			type: "fluid"
+		}]
+		x: 6.0d
+		y: 0.0d
+	}{
+		dependencies: ["7C4F2B36EDEE660D"]
+		id: "2E444E3D7647121C"
+		rewards: [{
+			id: "370CB35BD183943B"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "3370C34ABB103D74"
+			item: { count: 1, id: "tfmg:regular_engine" }
+			type: "item"
+		}{
+			id: "31419D7E065D4213"
+			type: "checkmark"
+		}]
+		x: 8.0d
+		y: 0.0d
+	}{
+		dependencies: ["2E444E3D7647121C"]
+		id: "43F145D55BED0BBF"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			auto: "enabled"
+			id: "1232B9F802F07F34"
+			stage: "pack_electric_era"
+			type: "gamestage"
+		}{
+			id: "1E473DC89EB0E92E"
+			type: "xp_levels"
+			xp_levels: 20
+		}]
+		tasks: [{
+			id: "13421DCFD2C7DD6C"
+			consume_items: true
+			item: { count: 1, id: "kubejs:plan_electric_era" }
+			type: "item"
+		}]
+		x: 10.0d
+		y: 0.0d
+	}]
+}

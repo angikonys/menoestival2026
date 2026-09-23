@@ -1,0 +1,26 @@
+# Généré automatiquement — modids lus dans les jars du dossier mods/.
+
+[items]
+locked = [
+    "mod:creatingspace",   # Creating Space
+]
+
+[blocks]
+locked = [
+    "mod:creatingspace",   # Creating Space
+]
+
+[fluids]
+locked = [
+    "mod:creatingspace",
+]
+
+[recipes]
+# recettes appartenant au mod (même si la sortie est vanilla)
+locked_ids = [
+    "mod:creatingspace",
+]
+# toute recette qui produit un item verrouillé
+locked_items = [
+    "mod:creatingspace",   # Creating Space
+]

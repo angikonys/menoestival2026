@@ -1,0 +1,23 @@
+# Psi et Psi Tweaks (Psi Tweaks ajoute aussi des objets dans l'espace de noms psi)
+
+[items]
+locked = [
+    "mod:psi",
+    "mod:psitweaks",
+]
+
+[blocks]
+locked = [
+    "mod:psi",
+    "mod:psitweaks",
+]
+
+[recipes]
+locked_ids = [
+    "mod:psi",
+    "mod:psitweaks",
+]
+locked_items = [
+    "mod:psi",
+    "mod:psitweaks",
+]

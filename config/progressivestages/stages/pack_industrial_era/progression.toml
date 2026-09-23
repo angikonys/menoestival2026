@@ -1,0 +1,6 @@
+# Accordé par une quête FTB : Stage Reward -> "pack_industrial_era"
+
+[unlock]
+toast = "Ère Industrielle débloquée !"
+title = "&6&lÈre Industrielle débloquée !"
+sound = "minecraft:ui.toast.challenge_complete"
