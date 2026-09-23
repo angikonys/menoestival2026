@@ -21,9 +21,10 @@
 		dependencies: ["7599EF18593E496B"]
 		id: "747C6C07351D0048"
 		rewards: [{
+			count: 1
 			id: "57222FD159D04FF7"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "createclothes:officer_tunic" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "10B1E6D84FF55702"
@@ -44,9 +45,10 @@
 		dependencies: ["747C6C07351D0048"]
 		id: "12A37ACE8F84283D"
 		rewards: [{
+			count: 4
 			id: "6B6A1D99F58DAB22"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "createbigcannons:proximity_fuze" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "7035046B3EF6B39E"
@@ -64,9 +66,10 @@
 		dependencies: ["12A37ACE8F84283D"]
 		id: "673E165FE6C44F9D"
 		rewards: [{
+			count: 1
 			id: "3887C07498EA23A8"
-			type: "xp_levels"
-			xp_levels: 20
+			item: { count: 1, id: "minecraft:wither_skeleton_skull" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "3D47C899554BFE1E"
@@ -87,9 +90,25 @@
 			stage: "pack_military_advanced_era"
 			type: "gamestage"
 		}{
+			count: 4
 			id: "1E176E41A3C97DFA"
-			type: "xp_levels"
-			xp_levels: 30
+			item: { count: 1, id: "createbigcannons:steel_autocannon_barrel" }
+			type: "item"
+		}{
+			count: 1
+			id: "6801CE6968AA4621"
+			item: { count: 1, id: "createbigcannons:steel_autocannon_breech" }
+			type: "item"
+		}{
+			count: 1
+			id: "776B40C57AE8E523"
+			item: { count: 1, id: "createbigcannons:autocannon_ammo_container" }
+			type: "item"
+		}{
+			count: 32
+			id: "157DBC3440834DDC"
+			item: { count: 1, id: "createbigcannons:ap_autocannon_round" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "4DC8C7A55F32FAB0"

@@ -10,9 +10,10 @@
 	quests: [{
 		id: "439ACBC56486EE73"
 		rewards: [{
+			count: 1
 			id: "251E48D35E4C3846"
-			type: "xp_levels"
-			xp_levels: 3
+			item: { count: 1, id: "ars_nouveau:worn_notebook" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "50F94D643E039A4E"
@@ -25,9 +26,10 @@
 		dependencies: ["439ACBC56486EE73"]
 		id: "4A6E04A40C7A9A44"
 		rewards: [{
+			count: 1
 			id: "5271DCEB0103D10A"
-			type: "xp_levels"
-			xp_levels: 3
+			item: { count: 1, id: "ars_nouveau:jar_of_light" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "2023D248B0FE3136"
@@ -40,9 +42,15 @@
 		dependencies: ["4A6E04A40C7A9A44"]
 		id: "4941C03F19C35701"
 		rewards: [{
+			count: 1
 			id: "54FE225B4514635F"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "ars_nouveau:dowsing_rod" }
+			type: "item"
+		}{
+			count: 8
+			id: "3C7443E5467268DB"
+			item: { count: 1, id: "ars_nouveau:magelight_torch" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "535660249428E411"
@@ -60,9 +68,10 @@
 		dependencies: ["4941C03F19C35701"]
 		id: "16504A3B6231C173"
 		rewards: [{
+			count: 1
 			id: "5DAE75996CD08382"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "ars_nouveau:wixie_hat" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "2EEA327F3214D0DC"
@@ -75,9 +84,20 @@
 		dependencies: ["16504A3B6231C173"]
 		id: "6688779C3EAC792D"
 		rewards: [{
+			count: 1
 			id: "4BCF265D3914A6A1"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "ars_nouveau:sorcerer_robes" }
+			type: "item"
+		}{
+			count: 1
+			id: "674015557C063779"
+			item: { count: 1, id: "ars_nouveau:sorcerer_leggings" }
+			type: "item"
+		}{
+			count: 1
+			id: "24963C5E059EEA9A"
+			item: { count: 1, id: "ars_nouveau:sorcerer_boots" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "713F5F6D534E30E9"
@@ -97,9 +117,15 @@
 			stage: "magic_ars_adept"
 			type: "gamestage"
 		}{
+			count: 1
 			id: "567612AE5FCE6EB3"
-			type: "xp_levels"
-			xp_levels: 15
+			item: { count: 1, id: "ars_nouveau:ring_of_lesser_discount" }
+			type: "item"
+		}{
+			count: 1
+			id: "5736CDE9DC7CABC6"
+			item: { count: 1, id: "ars_nouveau:whirlisprig_charm" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "7DDD2993485B0970"
@@ -141,9 +167,10 @@
 		dependencies: ["5DE1DE7528C5BFEB"]
 		id: "3F5DA404A278518E"
 		rewards: [{
+			count: 4
 			id: "6DFDE9A052417449"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "ars_nouveau:source_berry_pie" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "3B6A7822127C0AA1"
@@ -156,9 +183,20 @@
 		dependencies: ["3F5DA404A278518E"]
 		id: "72ADBE4F655E20D0"
 		rewards: [{
+			count: 1
 			id: "546E9A296E57764E"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "ars_nouveau:ritual_brazier" }
+			type: "item"
+		}{
+			count: 1
+			id: "50DAC5D7B8FC5F9F"
+			item: { count: 1, id: "ars_nouveau:ritual_sunrise" }
+			type: "item"
+		}{
+			count: 1
+			id: "1F91EC97BC6C60E6"
+			item: { count: 1, id: "ars_nouveau:ritual_cloudshaping" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "1085B2A08750A915"
@@ -175,9 +213,20 @@
 		dependencies: ["72ADBE4F655E20D0"]
 		id: "612F3B28E8D78F16"
 		rewards: [{
+			count: 1
 			id: "5E68546C34AEB7FC"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "ars_nouveau:arcanist_hood" }
+			type: "item"
+		}{
+			count: 1
+			id: "41FEC777043C5F93"
+			item: { count: 1, id: "ars_nouveau:arcanist_leggings" }
+			type: "item"
+		}{
+			count: 1
+			id: "12DBB878E8E639A5"
+			item: { count: 1, id: "ars_nouveau:arcanist_boots" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "3D08D314409BEC02"
@@ -190,9 +239,15 @@
 		dependencies: ["612F3B28E8D78F16"]
 		id: "1A9DA7C7818C7745"
 		rewards: [{
+			count: 1
 			id: "292974BA748AD738"
-			type: "xp_levels"
-			xp_levels: 20
+			item: { count: 1, id: "ars_nouveau:amulet_of_mana_regen" }
+			type: "item"
+		}{
+			count: 1
+			id: "1704637736D838ED"
+			item: { count: 1, id: "arsdelight:honey_glazed_chimera" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "35931941EC9CA639"
@@ -217,9 +272,15 @@
 			stage: "magic_ars_master"
 			type: "gamestage"
 		}{
+			count: 3
 			id: "4BA207584F040A82"
-			type: "xp_levels"
-			xp_levels: 30
+			item: { count: 1, id: "ars_nouveau:blank_thread" }
+			type: "item"
+		}{
+			count: 1
+			id: "788D735DF9692906"
+			item: { count: 1, id: "ars_nouveau:stable_warp_scroll" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "760BF640EEB4555D"
@@ -245,9 +306,15 @@
 		dependencies: ["6EDE0D754081B95D"]
 		id: "71372A545B655E79"
 		rewards: [{
+			count: 1
 			id: "330D3A133534CA5A"
-			type: "xp_levels"
-			xp_levels: 20
+			item: { count: 1, id: "ars_nouveau:ritual_flight" }
+			type: "item"
+		}{
+			count: 1
+			id: "576618AF049CE302"
+			item: { count: 1, id: "ars_nouveau:thread_spellpower" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "657A3CE2E8F5463F"
@@ -262,9 +329,25 @@
 		shape: "gear"
 		size: 1.5d
 		rewards: [{
+			count: 1
 			id: "5C35A411D3551426"
-			type: "xp_levels"
-			xp_levels: 20
+			item: { count: 1, id: "ars_nouveau:battlemage_hood" }
+			type: "item"
+		}{
+			count: 1
+			id: "59699F3E831227C3"
+			item: { count: 1, id: "ars_nouveau:battlemage_leggings" }
+			type: "item"
+		}{
+			count: 1
+			id: "625BDD03CCBD416D"
+			item: { count: 1, id: "ars_nouveau:battlemage_boots" }
+			type: "item"
+		}{
+			count: 1
+			id: "1D966C097B4DD92B"
+			item: { count: 1, id: "ars_nouveau:starbuncle_plush" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "5751417629F57EED"

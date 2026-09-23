@@ -21,9 +21,10 @@
 		dependencies: ["38113B47E12D6638"]
 		id: "4339D6DBED22B749"
 		rewards: [{
+			count: 8
 			id: "6900FFAEAE858629"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "tfmg:modern_light" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "5D77D7F2C68B93AF"
@@ -41,9 +42,10 @@
 		dependencies: ["4339D6DBED22B749"]
 		id: "2CD08436EA981076"
 		rewards: [{
+			count: 1
 			id: "1885FB3E4DA4F3ED"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "advancedperipherals:chat_box" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "3DAE50BA0535D7D0"
@@ -57,9 +59,10 @@
 		dependencies: ["2CD08436EA981076"]
 		id: "124C6058BA3D969E"
 		rewards: [{
+			count: 1
 			id: "4E2A2C6B73F24178"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "tfmg:fire_extinguisher" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "2F05FF56A20DB25B"
@@ -73,9 +76,10 @@
 		dependencies: ["124C6058BA3D969E"]
 		id: "4A02EE1D9A488353"
 		rewards: [{
+			count: 1
 			id: "5F352FEC0232B61C"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "advancedperipherals:geo_scanner" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "1B41952C35BCEFA2"
@@ -102,9 +106,25 @@
 			stage: "pack_nuclear_era"
 			type: "gamestage"
 		}{
+			count: 1
 			id: "6492A3A2EA17A3C8"
-			type: "xp_levels"
-			xp_levels: 30
+			item: { count: 1, id: "createnuclear:yellow_anti_radiation_helmet" }
+			type: "item"
+		}{
+			count: 1
+			id: "1499B1FFEE9C4E7C"
+			item: { count: 1, id: "createnuclear:yellow_anti_radiation_chestplate" }
+			type: "item"
+		}{
+			count: 1
+			id: "3CCFA6EC35B4E4F4"
+			item: { count: 1, id: "createnuclear:yellow_anti_radiation_leggings" }
+			type: "item"
+		}{
+			count: 1
+			id: "7FC79EFC4BE42E2E"
+			item: { count: 1, id: "createnuclear:anti_radiation_boots" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "2E0CB9542165814F"

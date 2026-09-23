@@ -21,9 +21,10 @@
 		dependencies: ["4B33B1F2D0D9CB8D"]
 		id: "4C70EE1114F79BBA"
 		rewards: [{
+			count: 1
 			id: "7390639101950ABC"
-			type: "xp_levels"
-			xp_levels: 15
+			item: { count: 1, id: "ars_nouveau:scryers_oculus" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "38AA48CC48C78C4A"
@@ -49,9 +50,10 @@
 		dependencies: ["6C4E78F2F708C984"]
 		id: "2F72EF9944F049D8"
 		rewards: [{
+			count: 1
 			id: "4F484B161E2D845D"
-			type: "xp_levels"
-			xp_levels: 15
+			item: { count: 1, id: "eidolon_repraised:angels_sight" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "54001E887F6E53A2"
@@ -77,9 +79,10 @@
 		dependencies: ["72F52B7738FA0C01"]
 		id: "4F212830BAD215BF"
 		rewards: [{
+			count: 1
 			id: "7655D38D98C2D61F"
-			type: "xp_levels"
-			xp_levels: 15
+			item: { count: 1, id: "mahoutsukai:scroll_fay_sight" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "4E58F5BCEE816B41"
@@ -103,9 +106,15 @@
 			stage: "pack_psi"
 			type: "gamestage"
 		}{
+			count: 1
 			id: "1218E23CFD3A9231"
-			type: "xp_levels"
-			xp_levels: 20
+			item: { count: 1, id: "psi:encyclopaedia_psionica" }
+			type: "item"
+		}{
+			count: 1
+			id: "7EF90341D3358F01"
+			item: { count: 1, id: "psi:cad_colorizer_psi" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "62084A1B7EC187B3"

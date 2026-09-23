@@ -10,9 +10,10 @@
 	quests: [{
 		id: "43535B7C6C58359F"
 		rewards: [{
+			count: 1
 			id: "3E8E886F34E1356C"
-			type: "xp_levels"
-			xp_levels: 3
+			item: { count: 1, id: "eidolon_repraised:notetaking_tools" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "35B06EED4801F820"
@@ -25,9 +26,10 @@
 		dependencies: ["43535B7C6C58359F"]
 		id: "785094A92AB27EF1"
 		rewards: [{
+			count: 4
 			id: "7E5C42D3D687963A"
-			type: "xp_levels"
-			xp_levels: 3
+			item: { count: 1, id: "eidolon_repraised:magic_candle" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "14C54D394508177A"
@@ -40,9 +42,10 @@
 		dependencies: ["785094A92AB27EF1"]
 		id: "2829C979D6DF3466"
 		rewards: [{
+			count: 1
 			id: "3662CA7B9980C755"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "eidolon_repraised:alchemists_tongs" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "753437E77ABB7156"
@@ -55,9 +58,10 @@
 		dependencies: ["2829C979D6DF3466"]
 		id: "441F61D521CB017F"
 		rewards: [{
+			count: 2
 			id: "3F4BE6FCFDFAB128"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "eidolon_repraised:candlestick" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "60670E9CA99F56C9"
@@ -75,9 +79,10 @@
 		dependencies: ["441F61D521CB017F"]
 		id: "198912A3B8F7D20E"
 		rewards: [{
+			count: 1
 			id: "382C5B58654709D6"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "eidolon_repraised:straw_effigy" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "303BB0F24FC32F5E"
@@ -91,9 +96,20 @@
 		dependencies: ["198912A3B8F7D20E"]
 		id: "2D151AFE66A9DBC6"
 		rewards: [{
+			count: 1
 			id: "5DF80514550C0CA0"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "eidolon_repraised:goblet" }
+			type: "item"
+		}{
+			count: 1
+			id: "44B9064312DB4822"
+			item: { count: 1, id: "eidolon_repraised:censer" }
+			type: "item"
+		}{
+			count: 4
+			id: "763A3A3F42E333CA"
+			item: { count: 1, id: "eidolon_repraised:offering_incense" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "71CCBC61671A7E7B"
@@ -113,9 +129,20 @@
 			stage: "magic_eidolon_adept"
 			type: "gamestage"
 		}{
+			count: 2
 			id: "11F68827F4611FD9"
-			type: "xp_levels"
-			xp_levels: 15
+			item: { count: 1, id: "eidolon_repraised:wraith_heart" }
+			type: "item"
+		}{
+			count: 1
+			id: "4DD5117743C5DC6A"
+			item: { count: 1, id: "eidolon_repraised:holy_symbol" }
+			type: "item"
+		}{
+			count: 1
+			id: "68BB6F976FBC1E06"
+			item: { count: 1, id: "eidolon_repraised:unholy_symbol" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "605205584F14CABE"
@@ -134,9 +161,10 @@
 		dependencies: ["2118E725E8B9B188"]
 		id: "24240BA90FD394DA"
 		rewards: [{
+			count: 1
 			id: "1D0F8ED7D6AE33B1"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "eidolon_repraised:music_disc_parousia" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "451232E6B1888A8B"
@@ -150,9 +178,10 @@
 		dependencies: ["24240BA90FD394DA"]
 		id: "2633D3DFC4B7C0E5"
 		rewards: [{
+			count: 1
 			id: "1FA64A99DD64D2AE"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "eidolon_repraised:basic_ring" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "74B187D4B1D09586"
@@ -166,9 +195,15 @@
 		dependencies: ["2633D3DFC4B7C0E5"]
 		id: "541BA3DC5B573716"
 		rewards: [{
+			count: 1
 			id: "4A3547970137743B"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "eidolon_repraised:basic_amulet" }
+			type: "item"
+		}{
+			count: 1
+			id: "7116818BF9C0816E"
+			item: { count: 1, id: "eidolon_repraised:basic_belt" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "2FBA5B740FD55B75"
@@ -181,9 +216,10 @@
 		dependencies: ["541BA3DC5B573716"]
 		id: "205151C8719C7658"
 		rewards: [{
+			count: 1
 			id: "67800470A7F065B4"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "eidolon_repraised:void_amulet" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "1E97B3E3E7FFF704"
@@ -203,9 +239,15 @@
 			stage: "magic_eidolon_master"
 			type: "gamestage"
 		}{
+			count: 2
 			id: "4B834BF8349691AE"
-			type: "xp_levels"
-			xp_levels: 30
+			item: { count: 1, id: "eidolon_repraised:withered_heart" }
+			type: "item"
+		}{
+			count: 1
+			id: "1041F0F5DABBBD70"
+			item: { count: 1, id: "eidolon_repraised:summoning_staff" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "544CC47F43EAE08E"
@@ -229,9 +271,10 @@
 		dependencies: ["24CE6D9108861EB9"]
 		id: "37037129A30748D0"
 		rewards: [{
+			count: 1
 			id: "1EA2BA030BAD4793"
-			type: "xp_levels"
-			xp_levels: 15
+			item: { count: 1, id: "eidolon_repraised:warlock_hat" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "2BA724A3987C3C44"
@@ -244,9 +287,15 @@
 		dependencies: ["37037129A30748D0"]
 		id: "192CB7469F30F3C7"
 		rewards: [{
+			count: 1
 			id: "3BA852EAE9AC767E"
-			type: "xp_levels"
-			xp_levels: 15
+			item: { count: 1, id: "eidolon_repraised:top_hat" }
+			type: "item"
+		}{
+			count: 1
+			id: "42F3B0AC4210F34A"
+			item: { count: 1, id: "eidolon_repraised:warlock_boots" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "3548901494744269"
@@ -261,9 +310,20 @@
 		shape: "gear"
 		size: 1.5d
 		rewards: [{
+			count: 1
 			id: "442D5AE8EB983AB9"
-			type: "xp_levels"
-			xp_levels: 20
+			item: { count: 1, id: "eidolon_repraised:bonelord_helm" }
+			type: "item"
+		}{
+			count: 1
+			id: "7FEA17AE5D539C07"
+			item: { count: 1, id: "eidolon_repraised:bonelord_greaves" }
+			type: "item"
+		}{
+			count: 1
+			id: "4E091314FEE0DBD0"
+			item: { count: 1, id: "eidolon_repraised:soulbone_amulet" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "67D1E70098CEE54E"

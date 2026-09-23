@@ -21,9 +21,10 @@
 		dependencies: ["748AC595154D8BBE"]
 		id: "126FD7D8F793C68D"
 		rewards: [{
+			count: 1
 			id: "73EFC4A7548F6D77"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "advancedperipherals:environment_detector" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "6DD40FC507E2B2F3"
@@ -42,9 +43,15 @@
 		dependencies: ["126FD7D8F793C68D"]
 		id: "62529AC9320EEFCC"
 		rewards: [{
+			count: 1
 			id: "38DBE8A7D7B72362"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "advancedperipherals:player_detector" }
+			type: "item"
+		}{
+			count: 1
+			id: "584B5705309D5855"
+			item: { count: 1, id: "computercraft:speaker" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "54394C89F791573E"
@@ -60,9 +67,10 @@
 		dependencies: ["62529AC9320EEFCC"]
 		id: "7A5913F90CABB132"
 		rewards: [{
+			count: 8
 			id: "2752138158A33A75"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "create:nixie_tube" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "79FACACC0953FF48"
@@ -81,9 +89,15 @@
 		dependencies: ["7A5913F90CABB132"]
 		id: "41AA3B545AF0F8C2"
 		rewards: [{
+			count: 1
 			id: "3CB3D1CD2A6324D4"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "minecraft:clock" }
+			type: "item"
+		}{
+			count: 16
+			id: "5722DDE8C6CAAF05"
+			item: { count: 1, id: "minecraft:golden_carrot" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "138A7BDCBCF383D5"
@@ -106,9 +120,25 @@
 			stage: "pack_space_conquest"
 			type: "gamestage"
 		}{
+			count: 1
 			id: "72A025D46F47627A"
-			type: "xp_levels"
-			xp_levels: 20
+			item: { count: 1, id: "creatingspace:rocket_engineer_table" }
+			type: "item"
+		}{
+			count: 1
+			id: "19F76A75FE86116D"
+			item: { count: 1, id: "creatingspace:basic_spacesuit_helmet" }
+			type: "item"
+		}{
+			count: 8
+			id: "17BBC6E8FEA5C076"
+			item: { count: 1, id: "creatingspace:basic_spacesuit_fabric" }
+			type: "item"
+		}{
+			count: 1
+			id: "74B7A08DDF43DFB0"
+			item: { count: 1, id: "creatingspace:copper_oxygen_backtank" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "170A93C0AA013F0F"
@@ -122,9 +152,10 @@
 		dependencies: ["3B73BED3C6EB92A8"]
 		id: "5FCA99C083C64354"
 		rewards: [{
+			count: 8
 			id: "53E41381EF261586"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "creatingspace:space_food" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "204178AEDD34FD91"
@@ -137,9 +168,10 @@
 		dependencies: ["5FCA99C083C64354"]
 		id: "31AA69C4619FD9B2"
 		rewards: [{
+			count: 1
 			id: "345B35547E59B64E"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "creatingspace:flight_recorder" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "1E7A95806D6B4C20"
@@ -152,9 +184,15 @@
 		dependencies: ["31AA69C4619FD9B2"]
 		id: "1625DB9672E5B0D4"
 		rewards: [{
+			count: 1
 			id: "12E7D8743837E59D"
-			type: "xp_levels"
-			xp_levels: 15
+			item: { count: 1, id: "creatingspace:basic_spacesuit_leggings" }
+			type: "item"
+		}{
+			count: 1
+			id: "45AD5AFAD3286D2F"
+			item: { count: 1, id: "creatingspace:basic_spacesuit_boots" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "7849CDA74B7D3285"
@@ -167,9 +205,25 @@
 		dependencies: ["1625DB9672E5B0D4"]
 		id: "680D4390ADC1C7AA"
 		rewards: [{
+			count: 1
 			id: "6FFBDA2A0D679D98"
-			type: "xp_levels"
-			xp_levels: 20
+			item: { count: 1, id: "creatingspace:advanced_spacesuit_helmet" }
+			type: "item"
+		}{
+			count: 1
+			id: "774AAC78786576BD"
+			item: { count: 1, id: "creatingspace:advanced_spacesuit_leggings" }
+			type: "item"
+		}{
+			count: 1
+			id: "2CB91C38627DC398"
+			item: { count: 1, id: "creatingspace:advanced_spacesuit_boots" }
+			type: "item"
+		}{
+			count: 1
+			id: "18288CFBC96623E4"
+			item: { count: 1, id: "creatingspace:netherite_oxygen_backtank" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "5A2C0CA685842FE4"
@@ -189,9 +243,20 @@
 			stage: "pack_sky_advanced_era"
 			type: "gamestage"
 		}{
+			count: 1
 			id: "584D527D6D38CDE1"
-			type: "xp_levels"
-			xp_levels: 30
+			item: { count: 1, id: "create_radar:binoculars" }
+			type: "item"
+		}{
+			count: 1
+			id: "75EE5612B891F401"
+			item: { count: 1, id: "aeroworks:joystick" }
+			type: "item"
+		}{
+			count: 1
+			id: "37016EEE18840714"
+			item: { count: 1, id: "aeroworks:gyroscope" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "3E86653123AB2920"

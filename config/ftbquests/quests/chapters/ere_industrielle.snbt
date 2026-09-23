@@ -10,9 +10,15 @@
 	quests: [{
 		id: "25BBC4746B9B2003"
 		rewards: [{
+			count: 1
 			id: "29CC11726E50E942"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "create:wrench" }
+			type: "item"
+		}{
+			count: 1
+			id: "257F487E9275872E"
+			item: { count: 1, id: "create:clipboard" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "4D7743F1962EF8F1"
@@ -26,9 +32,15 @@
 		dependencies: ["25BBC4746B9B2003"]
 		id: "1F72E6B3EC4D96FB"
 		rewards: [{
+			count: 1
 			id: "6CF604E77E50E0BE"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "create:cuckoo_clock" }
+			type: "item"
+		}{
+			count: 1
+			id: "242B24E18220422B"
+			item: { count: 1, id: "create:desk_bell" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "397D5E26BD91DAC8"
@@ -42,9 +54,10 @@
 		dependencies: ["1F72E6B3EC4D96FB"]
 		id: "757A32242EFCE882"
 		rewards: [{
+			count: 1
 			id: "44602367F1788903"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "create:potato_cannon" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "74F4448FC9301E06"
@@ -58,9 +71,15 @@
 		dependencies: ["757A32242EFCE882"]
 		id: "422CCC65D074B5D7"
 		rewards: [{
+			count: 1
 			id: "1D723F7A9D9864C3"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "create:goggles" }
+			type: "item"
+		}{
+			count: 1
+			id: "12AC50707C3A1E63"
+			item: { count: 1, id: "create:extendo_grip" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "65104A94D13820DA"
@@ -77,9 +96,15 @@
 		id: "6B3CF0A186795ED4"
 		optional: true
 		rewards: [{
+			count: 1
 			id: "7E7C0C2DEA562BB9"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "railways:conductor_whistle" }
+			type: "item"
+		}{
+			count: 1
+			id: "5A8530A8AEF60082"
+			item: { count: 1, id: "railways:conductor_cap" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "443480B531F10B1D"
@@ -98,9 +123,20 @@
 			stage: "pack_industrial_era"
 			type: "gamestage"
 		}{
+			count: 1
 			id: "2DD8A10B5E751F95"
-			type: "xp_levels"
-			xp_levels: 15
+			item: { count: 1, id: "createoreexcavation:vein_finder" }
+			type: "item"
+		}{
+			count: 1
+			id: "4E1E35A7EBBFCC62"
+			item: { count: 1, id: "createoreexcavation:vein_atlas" }
+			type: "item"
+		}{
+			count: 1
+			id: "2C969AC78D71D278"
+			item: { count: 1, id: "creategoggles:goggle_iron_helmet" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "466A24F7E24F1CF1"

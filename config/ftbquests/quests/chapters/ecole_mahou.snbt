@@ -10,9 +10,10 @@
 	quests: [{
 		id: "599E2308587DD269"
 		rewards: [{
+			count: 4
 			id: "5E00B0B7BF520AE4"
-			type: "xp_levels"
-			xp_levels: 3
+			item: { count: 1, id: "mahoutsukai:faecake" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "6D61C8773643AA14"
@@ -25,9 +26,10 @@
 		dependencies: ["599E2308587DD269"]
 		id: "3827EECD3EDA3D33"
 		rewards: [{
+			count: 1
 			id: "5F40307EDA62C5CC"
-			type: "xp_levels"
-			xp_levels: 3
+			item: { count: 1, id: "mahoutsukai:scroll_strengthening" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "4366F7505DE05778"
@@ -44,9 +46,10 @@
 		dependencies: ["3827EECD3EDA3D33"]
 		id: "6F1B8FB6CB0A0C5F"
 		rewards: [{
+			count: 1
 			id: "70AACFF9CD8858CD"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "mahoutsukai:scroll_gandr" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "272E8A5450921200"
@@ -59,9 +62,10 @@
 		dependencies: ["6F1B8FB6CB0A0C5F"]
 		id: "69AFD9931C2CC93C"
 		rewards: [{
+			count: 1
 			id: "26D7318D14FAC2C1"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "mahoutsukai:scroll_summon_familiar" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "1415C1549E16FE1D"
@@ -78,9 +82,10 @@
 		dependencies: ["69AFD9931C2CC93C"]
 		id: "6318C8896FBC5DBA"
 		rewards: [{
+			count: 1
 			id: "14E4817A19F83DB5"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "mahoutsukai:scroll_recall_familiar" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "6E765BC84B8BE010"
@@ -93,9 +98,10 @@
 		dependencies: ["6318C8896FBC5DBA"]
 		id: "745CA841BD2BF3CC"
 		rewards: [{
+			count: 1
 			id: "4F0017799D46B69B"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "mahoutsukai:scroll_boundary_displacement" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "498F0D5FAD629C7B"
@@ -119,9 +125,15 @@
 			stage: "magic_mahou_adept"
 			type: "gamestage"
 		}{
+			count: 1
 			id: "16E3EFB3285B7421"
-			type: "xp_levels"
-			xp_levels: 15
+			item: { count: 1, id: "mahoutsukai:mystic_staff" }
+			type: "item"
+		}{
+			count: 1
+			id: "6E998F5B1FC86F6D"
+			item: { count: 1, id: "mahoutsukai:scroll_presence_concealment" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "5086FC25933A3CC7"
@@ -164,11 +176,11 @@
 			type: "item"
 		}{
 			id: "70EC3F3982EFA06A"
-			item: { count: 1, id: "mahoutsukai:scroll_tangible" }
+			item: { count: 1, id: "mahoutsukai:scroll_boundary_tangible" }
 			type: "item"
 		}{
 			id: "39AADEE70EB6F2B6"
-			item: { count: 1, id: "mahoutsukai:scroll_gravity" }
+			item: { count: 1, id: "mahoutsukai:scroll_boundary_gravity" }
 			type: "item"
 		}]
 		x: 12.0d
@@ -177,9 +189,10 @@
 		dependencies: ["63C28ED36A21754C"]
 		id: "11A94C3D68E11740"
 		rewards: [{
+			count: 1
 			id: "4BFFBB3C080E7354"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "mahoutsukai:scroll_protective_displacement" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "54DB64B7D425716F"
@@ -192,9 +205,10 @@
 		dependencies: ["11A94C3D68E11740"]
 		id: "1D670DC066666D28"
 		rewards: [{
+			count: 1
 			id: "7A2BC5FA209B41ED"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "mahoutsukai:scroll_probability_alter" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "5C10A004A58CFAD4"
@@ -207,9 +221,10 @@
 		dependencies: ["1D670DC066666D28"]
 		id: "4616C915C7EFE7C2"
 		rewards: [{
+			count: 1
 			id: "134471FB7AAF0656"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "mahoutsukai:fog_projector" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "79CAD5198043D65E"
@@ -229,9 +244,15 @@
 			stage: "magic_mahou_master"
 			type: "gamestage"
 		}{
+			count: 1
 			id: "6B6B1F8CB4301987"
-			type: "xp_levels"
-			xp_levels: 30
+			item: { count: 1, id: "mahoutsukai:scroll_mystic_eyes" }
+			type: "item"
+		}{
+			count: 1
+			id: "28EEDBC8C3AB278A"
+			item: { count: 1, id: "mahoutsukai:scroll_prediction" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "3401C7DBF34009BC"
@@ -256,9 +277,10 @@
 		dependencies: ["4A0B4EE005E833AD"]
 		id: "46076168270DA745"
 		rewards: [{
+			count: 1
 			id: "2E864CECCDEA9AE7"
-			type: "xp_levels"
-			xp_levels: 15
+			item: { count: 1, id: "mahoutsukai:scroll_rho_aias" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "7AFC50209FA8F2B5"
@@ -273,9 +295,15 @@
 		shape: "gear"
 		size: 1.5d
 		rewards: [{
+			count: 1
 			id: "5133D929DFC61960"
-			type: "xp_levels"
-			xp_levels: 20
+			item: { count: 1, id: "mahoutsukai:treasury_projection_gauntlet" }
+			type: "item"
+		}{
+			count: 1
+			id: "7CB04C1CDC4EB404"
+			item: { count: 1, id: "mahoutsukai:scroll_projection" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "1C5CE7E57676DBB0"

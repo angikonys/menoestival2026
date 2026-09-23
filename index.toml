@@ -10,55 +10,55 @@ hash = "80e2e5e9ea913c85dfa5a4dbf74e04249f2021faf803957932a2cc6c62655d2c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/archimage.snbt"
-hash = "3523c67489fb7c5e975521542b472e7e1add99154724a4020ec9e00e6dda5c1c"
+hash = "0d1c5b4d682ebbd094f9d2b5f10921dd1f88c91840741bf2f77b2515a336867b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ascension_esoterique.snbt"
-hash = "a99fd541165f6b8b62c4f6a87e7d0d3aec155df513b2770b9379ad9945dabc53"
+hash = "5b5fc42dc9dee4b0ec9d1d7843958d2ecde39f87ffd230a780a0d337ef376447"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/conquete_spatiale.snbt"
-hash = "29c3f941c09e1630a67b99959a0b1e45f9ce2e279c2915fc6ee2eb40fa708445"
+hash = "501f57d53c8cdc355300a9a6b2675b25f3359945005a0a81dde7cb9f5dbcb1f5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ecole_ars.snbt"
-hash = "9815aff7f5d37ecbace1409fbb8d2129987c750e1f77607675387476da9c05e5"
+hash = "ae88f30395da0124dbdd230ff9dd7f09057d2e8795bb003c6e1ac8bc16ffd74b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ecole_eidolon.snbt"
-hash = "0139d35998c2327b64fceedb87973c4fe267c834b6d55fb72b757b6c73c08176"
+hash = "faca432c32f6899a358b2f4c5b3c8907cc06a8a07affbd352a436a643ce44c69"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ecole_mahou.snbt"
-hash = "c042136df00ddbc510237791a0c2ec358e63a41de1cfd3fc7fc71cf01894eede"
+hash = "fe5177e88edabebe58a7d4315202bf4976aa4ea62e1f761f76c5148da09b53f4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ere_aerienne.snbt"
-hash = "332116d908e84a61ae79170e19f4a019ac19eeeec1615b0d2c450e2c19fe6f13"
+hash = "6d556b99169a380d7314ab93a3379eff590becc32a8f76139d4b9f166c867e79"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ere_electrique.snbt"
-hash = "4ecf4902f1a9d99c9befa42d097f02bc20d3095b694c55a42c580fd812507805"
+hash = "cf7a7c54f69376e6d5e8f9b442f6e5b5982c59ebd48c7b424fd8bcad5fcb026c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ere_industrielle.snbt"
-hash = "4adeb0e6ee2869d99448c34c8f4264b9b959238c76bad0221ad719fc7a32bcb7"
+hash = "08da088e150cc825f85c4fcd8684d2ebc9969ccc3a17894a09d89c2cbe42f50f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ere_militaire.snbt"
-hash = "c26eb88669645108f62a7cbf15533ff5a2d6422939efc8f7a85971a8d9ed9f98"
+hash = "2cad1733b359b0351d2303c40148a4f7fc9773e4a2912ebb0928709c4dda8bf9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ere_militaire_avancee.snbt"
-hash = "4b3144f8f75d54d0f40a2f32a711f5b57b26be52bf710036f21e7496aad34a61"
+hash = "52932dd5fc5a28a9e79d2efa3088c8274e79423ea0c16e4b065d0d7ca66cffe6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ere_nucleaire.snbt"
-hash = "a542a873e99911ab8c5d1bdd771e2be3dadb9f7584317e3638828e3a00ae9f3a"
+hash = "a1ab99d5f63980478a32fb17bfc5470b8370597525e6041207f460adb62db96d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/eveil_psychique.snbt"
-hash = "6f97ab484a9e7b1c7551795e1255db54d96e935b7cee7b799d3d5a9bd95b3a16"
+hash = "e0b7072ab4856136815920774a1c40ebbfe7d6700e6e4d9429cc30226639ede9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/introduction_a_create.snbt"
@@ -66,11 +66,11 @@ hash = "414e1dea64a6b6b0994ccaafa2a3708f69d162eb7d2a7485f8c7686f809d39a0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/maitrise_psionique.snbt"
-hash = "7d887774e78dc8fd7585656c16f12e15a1ca2fcff14b967e49debded04d6bb71"
+hash = "c2e4394cf6ba4446fcd051c12b6b534c41b79d84307f2c2512f479301ec56fa8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/perception_psions.snbt"
-hash = "e3102231d64eedfb822ec04bd56b1344c8e33115fc799769e0e8bc46404be32c"
+hash = "bf0a1c1aff91ff5ea88112175b37118ab429eceefc6f7e273e1f5e1d8505805d"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"

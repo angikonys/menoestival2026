@@ -21,9 +21,10 @@
 		dependencies: ["2060BCF14FCFDEAA"]
 		id: "707A4B3736110A5A"
 		rewards: [{
+			count: 1
 			id: "35A3BF80FC6E5AB7"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "psi:cad_colorizer_purple" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "4D621F2E14CBBE5F"
@@ -36,13 +37,14 @@
 		dependencies: ["707A4B3736110A5A"]
 		id: "6A73942B9B27EEC0"
 		rewards: [{
-			id: "721B453FB21EF56B"
-			type: "xp_levels"
-			xp_levels: 10
-		}{
 			count: 16
-			id: "40BD42C6C24F74C3"
+			id: "721B453FB21EF56B"
 			item: { count: 1, id: "psi:psidust" }
+			type: "item"
+		}{
+			count: 1
+			id: "40BD42C6C24F74C3"
+			item: { count: 1, id: "psi:vector_ruler" }
 			type: "item"
 		}]
 		tasks: [{
@@ -68,9 +70,10 @@
 		dependencies: ["6A73942B9B27EEC0"]
 		id: "185AD83EB8F54475"
 		rewards: [{
+			count: 1
 			id: "4B2252CA970D502B"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "psi:cad_colorizer_cyan" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "1B0D3F764B3D9E80"
@@ -84,9 +87,10 @@
 		dependencies: ["185AD83EB8F54475"]
 		id: "726E05C10E4F412D"
 		rewards: [{
+			count: 1
 			id: "27E1A36DF1DEA543"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "psi:spell_drive" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "16DDC2C426EF3CD1"
@@ -104,9 +108,10 @@
 		dependencies: ["726E05C10E4F412D"]
 		id: "64CEF488EBF554FD"
 		rewards: [{
+			count: 1
 			id: "711D10315CA99256"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "psi:psimetal_shovel" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "6509D00770355CE5"
@@ -126,9 +131,10 @@
 		id: "5A2B78B88816FB6B"
 		optional: true
 		rewards: [{
+			count: 1
 			id: "6214D52535009850"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "psi:psimetal_axe" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "27CD9413C832E738"
@@ -145,9 +151,20 @@
 		dependencies: ["64CEF488EBF554FD"]
 		id: "6C1AB3A07DF1BD6B"
 		rewards: [{
+			count: 2
 			id: "506392DD7B8C81CE"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "psi:spell_bullet_grenade" }
+			type: "item"
+		}{
+			count: 2
+			id: "7C494E9B86416518"
+			item: { count: 1, id: "psi:spell_bullet_mine" }
+			type: "item"
+		}{
+			count: 2
+			id: "4D57540C861EF6BC"
+			item: { count: 1, id: "psi:spell_bullet_charge" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "21DEB796FEED2EBA"
@@ -168,9 +185,25 @@
 		dependencies: ["6C1AB3A07DF1BD6B"]
 		id: "309750E957C2F466"
 		rewards: [{
+			count: 1
 			id: "15680AC89433DDCE"
-			type: "xp_levels"
-			xp_levels: 15
+			item: { count: 1, id: "psi:exosuit_sensor_light" }
+			type: "item"
+		}{
+			count: 1
+			id: "18A4AC52E98B0946"
+			item: { count: 1, id: "psi:exosuit_sensor_heat" }
+			type: "item"
+		}{
+			count: 1
+			id: "5D844FA9C47DF020"
+			item: { count: 1, id: "psi:exosuit_sensor_stress" }
+			type: "item"
+		}{
+			count: 1
+			id: "15FB479EE5D77246"
+			item: { count: 1, id: "psi:exosuit_sensor_water" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "3ECD7888A3E9EF69"
@@ -199,9 +232,10 @@
 		dependencies: ["309750E957C2F466"]
 		id: "500529D1C1E430D6"
 		rewards: [{
+			count: 1
 			id: "2ACF5D5C98775C3B"
-			type: "xp_levels"
-			xp_levels: 15
+			item: { count: 1, id: "psi:cad_colorizer_black" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "1C352B7D4FED8E66"
@@ -219,9 +253,10 @@
 		dependencies: ["309750E957C2F466"]
 		id: "652164FC12C13BB9"
 		rewards: [{
+			count: 1
 			id: "69BA2EACA866073C"
-			type: "xp_levels"
-			xp_levels: 15
+			item: { count: 1, id: "psi:cad_colorizer_white" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "3A42CEAD72F9D6D4"
@@ -240,9 +275,15 @@
 		id: "6934EE1D733E2874"
 		dependency_requirement: "one_completed"
 		rewards: [{
+			count: 1
 			id: "68B6E3AF60C6567E"
-			type: "xp_levels"
-			xp_levels: 20
+			item: { count: 1, id: "psi:flash_ring" }
+			type: "item"
+		}{
+			count: 1
+			id: "3918B1768F7179FB"
+			item: { count: 1, id: "psi:cad_colorizer_rainbow" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "5C543478A1877544"
@@ -265,9 +306,10 @@
 		shape: "gear"
 		size: 1.5d
 		rewards: [{
+			count: 1
 			id: "6B340159613CCBAA"
-			type: "xp_levels"
-			xp_levels: 30
+			item: { count: 1, id: "psi:detonator" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "798CD05C1F30C339"

@@ -21,9 +21,10 @@
 		dependencies: ["1DEAD525B4B29FBA"]
 		id: "446F3F32C42DE5A1"
 		rewards: [{
+			count: 8
 			id: "36565ED2381DDE6E"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "tfmg:copper_grenade" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "3FA031444FB0AFFB"
@@ -37,9 +38,10 @@
 		dependencies: ["446F3F32C42DE5A1"]
 		id: "3B0B1C982151A1CF"
 		rewards: [{
+			count: 1
 			id: "2258B073707E5E3D"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "createclothes:officer_cap" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "20575AFF54CE3006"
@@ -53,9 +55,25 @@
 		dependencies: ["3B0B1C982151A1CF"]
 		id: "3ACD5D54947BE454"
 		rewards: [{
+			count: 1
 			id: "3C613FB9DF08E3EF"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "createclothes:plains_helmet" }
+			type: "item"
+		}{
+			count: 1
+			id: "3B7E9C2B736B0BF2"
+			item: { count: 1, id: "createclothes:plains_tunic" }
+			type: "item"
+		}{
+			count: 1
+			id: "5660C2D975A79848"
+			item: { count: 1, id: "createclothes:plains_pants" }
+			type: "item"
+		}{
+			count: 1
+			id: "7678A79ECBDC6CB8"
+			item: { count: 1, id: "createclothes:plains_boots" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "59E5A9E650A5041D"
@@ -73,9 +91,10 @@
 		dependencies: ["3ACD5D54947BE454"]
 		id: "162C1A818C708207"
 		rewards: [{
+			count: 4
 			id: "14B2AE192269AE09"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "tfmg:pipe_bomb" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "5B32F1826CDDA84D"
@@ -96,9 +115,30 @@
 			stage: "pack_military_era"
 			type: "gamestage"
 		}{
+			count: 2
 			id: "5FD5886D1D814824"
-			type: "xp_levels"
-			xp_levels: 20
+			item: { count: 1, id: "createbigcannons:cast_iron_cannon_barrel" }
+			type: "item"
+		}{
+			count: 1
+			id: "13B898444E7E6559"
+			item: { count: 1, id: "createbigcannons:cast_iron_cannon_chamber" }
+			type: "item"
+		}{
+			count: 8
+			id: "29A575F15C36644E"
+			item: { count: 1, id: "createbigcannons:solid_shot" }
+			type: "item"
+		}{
+			count: 16
+			id: "6C5D79955A9FF4FF"
+			item: { count: 1, id: "createbigcannons:powder_charge" }
+			type: "item"
+		}{
+			count: 1
+			id: "2CD7D938E9E842CF"
+			item: { count: 1, id: "createbigcannons:gas_mask" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "5D54B92888EB4999"

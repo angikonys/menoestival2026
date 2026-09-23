@@ -21,9 +21,10 @@
 		dependencies: ["657ACD86F0784945"]
 		id: "3FE60ED389A6FA3B"
 		rewards: [{
+			count: 1
 			id: "4C35945620FAAE50"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "createclothes:parachute" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "6BEB7DFCDD4B2F08"
@@ -37,9 +38,10 @@
 		dependencies: ["3FE60ED389A6FA3B"]
 		id: "4BFB6410C40B4106"
 		rewards: [{
+			count: 1
 			id: "4D46A248DA15FCE7"
-			type: "xp_levels"
-			xp_levels: 5
+			item: { count: 1, id: "minecraft:spyglass" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "3A30A0C352F0271E"
@@ -55,9 +57,10 @@
 		dependencies: ["4BFB6410C40B4106"]
 		id: "343BC4988BEC243C"
 		rewards: [{
+			count: 4
 			id: "4C96FAB5769CCE82"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "tfmg:aluminum_lamp" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "7620FD551BB4B053"
@@ -76,9 +79,10 @@
 		dependencies: ["343BC4988BEC243C"]
 		id: "7F8B2D88DAB71F5C"
 		rewards: [{
+			count: 1
 			id: "148D7D3EA4DBC39B"
-			type: "xp_levels"
-			xp_levels: 10
+			item: { count: 1, id: "create:linked_controller" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "31A991C706505D06"
@@ -102,9 +106,20 @@
 			stage: "pack_sky_nav"
 			type: "gamestage"
 		}{
+			count: 1
 			id: "4E34F77D86CF1474"
-			type: "xp_levels"
-			xp_levels: 20
+			item: { count: 1, id: "aeronautics:aviators_goggles" }
+			type: "item"
+		}{
+			count: 2
+			id: "524DD8BABF04FA94"
+			item: { count: 1, id: "aeronautics:propeller_bearing" }
+			type: "item"
+		}{
+			count: 2
+			id: "6D0FE97A3B163716"
+			item: { count: 1, id: "aeronautics:andesite_propeller" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "70B63018D544C6CC"
