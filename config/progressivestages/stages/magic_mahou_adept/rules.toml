@@ -1,0 +1,57 @@
+# Mahou Tsukai — rang Adepte
+# Généré automatiquement — ids vérifiés dans les jars du pack.
+
+[items]
+locked = [
+    "mahoutsukai:fog_projector",
+    "mahoutsukai:mana_circuit_magitech",
+    "mahoutsukai:mystic_code_first_sorcery",
+    "mahoutsukai:mystic_staff",
+    "mahoutsukai:scroll_borrowed_authority",
+    "mahoutsukai:scroll_damage_exchange",
+    "mahoutsukai:scroll_damage_replication",
+    "mahoutsukai:scroll_geas",
+    "mahoutsukai:scroll_immunity_exchange",
+    "mahoutsukai:scroll_mental_displacement",
+    "mahoutsukai:scroll_mystic_staff",
+    "mahoutsukai:scroll_possess_entity",
+    "mahoutsukai:scroll_presence_concealment",
+    "mahoutsukai:scroll_probability_alter",
+    "mahoutsukai:scroll_projectile_displacement",
+    "mahoutsukai:scroll_protective_displacement",
+    "mahoutsukai:scroll_retribution",
+    "mahoutsukai:scroll_selective_displacement",
+    "mahoutsukai:scroll_spatial_disorientation",
+    "mahoutsukai:spatial_disorientation_staff",
+]
+
+[blocks]
+locked = [
+    "mahoutsukai:fog_projector",
+    "mahoutsukai:mana_circuit_magitech",
+]
+
+[recipes]
+# toute recette qui produit un objet verrouillé
+locked_items = [
+    "mahoutsukai:fog_projector",
+    "mahoutsukai:mana_circuit_magitech",
+    "mahoutsukai:mystic_code_first_sorcery",
+    "mahoutsukai:mystic_staff",
+    "mahoutsukai:scroll_borrowed_authority",
+    "mahoutsukai:scroll_damage_exchange",
+    "mahoutsukai:scroll_damage_replication",
+    "mahoutsukai:scroll_geas",
+    "mahoutsukai:scroll_immunity_exchange",
+    "mahoutsukai:scroll_mental_displacement",
+    "mahoutsukai:scroll_mystic_staff",
+    "mahoutsukai:scroll_possess_entity",
+    "mahoutsukai:scroll_presence_concealment",
+    "mahoutsukai:scroll_probability_alter",
+    "mahoutsukai:scroll_projectile_displacement",
+    "mahoutsukai:scroll_protective_displacement",
+    "mahoutsukai:scroll_retribution",
+    "mahoutsukai:scroll_selective_displacement",
+    "mahoutsukai:scroll_spatial_disorientation",
+    "mahoutsukai:spatial_disorientation_staff",
+]

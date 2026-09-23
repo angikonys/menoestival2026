@@ -1,12 +1,13 @@
 // =====================================================================
-//  Hauteur de construction liée à l'Ère Aérienne
+//  Hauteur de construction liée à la Navigation céleste
 //  Le monde va jusqu'à Y 1023 (Tectonic, global_terrain.max_y = 1024),
-//  mais sans l'Ère Aérienne on ne peut pas poser de bloc à partir de
-//  Y 320, la limite standard de Minecraft.
+//  mais sans la Navigation céleste on ne peut pas poser de bloc à partir de
+//  Y 320, la limite standard de Minecraft. Cette ère est accordée par la
+//  voie steampunk (Ère Aérienne) OU par l'Ascension ésotérique (magie).
 //  Recharger en jeu : /reload
 // =====================================================================
 
-const SKY_STAGE = 'pack_sky_era'
+const SKY_STAGE = 'pack_sky_nav'
 const STANDARD_LIMIT = 320 // premier Y interdit (vanilla : 319 max)
 
 BlockEvents.placed(event => {
@@ -20,6 +21,6 @@ BlockEvents.placed(event => {
   if (player.creative || player.spectator) return
   if (player.stages.has(SKY_STAGE)) return
 
-  player.setStatusMessage(Text.red("Il faut l'Ère Aérienne pour construire au-dessus de Y " + STANDARD_LIMIT))
+  player.setStatusMessage(Text.red("Il faut la Navigation céleste pour construire au-dessus de Y " + STANDARD_LIMIT))
   event.cancel()
 })

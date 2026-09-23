@@ -1,0 +1,20 @@
+[schema]
+version = 4
+
+[stage]
+id = "magic_ars_adept"
+display_name = "Adepte d'Ars Nouveau"
+description = "Grimoire de mage, glyphes de niveau 2, armure d'arcaniste et objets intermédiaires."
+icon = "ars_nouveau:apprentice_spell_book"
+dependencies = []
+dependency_mode = "all"
+dependency_count = 1
+category = "Magie"
+color = "#6e9cff"
+hidden = false
+scope = "team"
+tags = ["magic_progression"]
+
+[display]
+frame = "goal"
+reveal = "dependencies"

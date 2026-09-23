@@ -1,0 +1,45 @@
+# Commun aux deux civilisations : steampunk (Ère Aérienne) et ésotérique (Ascension)
+# Généré automatiquement — ids vérifiés dans les jars du pack.
+
+[items]
+locked = [
+    "mod:simulated",
+    "aeronautics:andesite_propeller",
+    "aeronautics:aviators_goggles",
+    "aeronautics:end_stone_powder",
+    "aeronautics:gyroscopic_propeller_bearing",
+    "aeronautics:levitite",
+    "aeronautics:levitite_blend_bucket",
+    "aeronautics:pearlescent_levitite",
+    "aeronautics:propeller_bearing",
+    "aeronautics:wooden_propeller",
+    "ars_creo:starbuncle_wheel",
+]
+
+[blocks]
+locked = [
+    "mod:simulated",
+    "aeronautics:andesite_propeller",
+    "aeronautics:gyroscopic_propeller_bearing",
+    "aeronautics:levitite",
+    "aeronautics:pearlescent_levitite",
+    "aeronautics:propeller_bearing",
+    "aeronautics:wooden_propeller",
+    "ars_creo:starbuncle_wheel",
+]
+
+[recipes]
+# toute recette qui produit un objet verrouillé
+locked_items = [
+    "mod:simulated",
+    "aeronautics:andesite_propeller",
+    "aeronautics:aviators_goggles",
+    "aeronautics:end_stone_powder",
+    "aeronautics:gyroscopic_propeller_bearing",
+    "aeronautics:levitite",
+    "aeronautics:levitite_blend_bucket",
+    "aeronautics:pearlescent_levitite",
+    "aeronautics:propeller_bearing",
+    "aeronautics:wooden_propeller",
+    "ars_creo:starbuncle_wheel",
+]

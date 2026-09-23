@@ -1,0 +1,6 @@
+# Accordé par une quête FTB : Stage Reward -> "magic_ars_adept"
+
+[unlock]
+toast = "Adepte d'Ars Nouveau débloqué !"
+title = "&d&lAdepte d'Ars Nouveau"
+sound = "minecraft:ui.toast.challenge_complete"

@@ -1,0 +1,52 @@
+# Eidolon — rang Maître
+# Généré automatiquement — ids vérifiés dans les jars du pack.
+
+[items]
+locked = [
+    "eidolon_repraised:angels_sight",
+    "eidolon_repraised:bonelord_chestplate",
+    "eidolon_repraised:bonelord_greaves",
+    "eidolon_repraised:bonelord_helm",
+    "eidolon_repraised:crimson_gem",
+    "eidolon_repraised:deathbringer_scythe",
+    "eidolon_repraised:enervating_ring",
+    "eidolon_repraised:prestigious_palm",
+    "eidolon_repraised:raven_cloak",
+    "eidolon_repraised:sapping_sword",
+    "eidolon_repraised:shadow_gem",
+    "eidolon_repraised:shadow_gem_block",
+    "eidolon_repraised:soulbone_amulet",
+    "eidolon_repraised:soulfire_wand",
+    "eidolon_repraised:warlock_boots",
+    "eidolon_repraised:warlock_cloak",
+    "eidolon_repraised:warlock_hat",
+    "eidolon_repraised:wicked_weave",
+]
+
+[blocks]
+locked = [
+    "eidolon_repraised:shadow_gem_block",
+]
+
+[recipes]
+# toute recette qui produit un objet verrouillé
+locked_items = [
+    "eidolon_repraised:angels_sight",
+    "eidolon_repraised:bonelord_chestplate",
+    "eidolon_repraised:bonelord_greaves",
+    "eidolon_repraised:bonelord_helm",
+    "eidolon_repraised:crimson_gem",
+    "eidolon_repraised:deathbringer_scythe",
+    "eidolon_repraised:enervating_ring",
+    "eidolon_repraised:prestigious_palm",
+    "eidolon_repraised:raven_cloak",
+    "eidolon_repraised:sapping_sword",
+    "eidolon_repraised:shadow_gem",
+    "eidolon_repraised:shadow_gem_block",
+    "eidolon_repraised:soulbone_amulet",
+    "eidolon_repraised:soulfire_wand",
+    "eidolon_repraised:warlock_boots",
+    "eidolon_repraised:warlock_cloak",
+    "eidolon_repraised:warlock_hat",
+    "eidolon_repraised:wicked_weave",
+]

@@ -1,0 +1,6 @@
+# Accordé par une quête FTB : Stage Reward -> "magic_eidolon_master"
+
+[unlock]
+toast = "Maître d'Eidolon débloqué !"
+title = "&d&lMaître d'Eidolon"
+sound = "minecraft:ui.toast.challenge_complete"

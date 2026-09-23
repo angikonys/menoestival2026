@@ -1,0 +1,20 @@
+[schema]
+version = 4
+
+[stage]
+id = "magic_eidolon_master"
+display_name = "Maître d'Eidolon"
+description = "Gemme d'ombre, tenue de sorcier, armure de paladin d'os, cape de corbeau et armes de fin de jeu."
+icon = "eidolon_repraised:shadow_gem"
+dependencies = ["magic_eidolon_adept"]
+dependency_mode = "all"
+dependency_count = 1
+category = "Magie"
+color = "#6b3aa0"
+hidden = false
+scope = "team"
+tags = ["magic_progression"]
+
+[display]
+frame = "challenge"
+reveal = "dependencies"

@@ -1,0 +1,20 @@
+[schema]
+version = 4
+
+[stage]
+id = "magic_mahou_adept"
+display_name = "Adepte de Mahou Tsukai"
+description = "Parchemins de Déplacement, d'Échange et d'Intelligence, code mystique « Première sorcellerie »."
+icon = "mahoutsukai:mystic_code_first_sorcery"
+dependencies = []
+dependency_mode = "all"
+dependency_count = 1
+category = "Magie"
+color = "#e06060"
+hidden = false
+scope = "team"
+tags = ["magic_progression"]
+
+[display]
+frame = "goal"
+reveal = "dependencies"

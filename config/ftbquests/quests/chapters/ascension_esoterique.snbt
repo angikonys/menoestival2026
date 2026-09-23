@@ -1,0 +1,180 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ascension_esoterique"
+	group: "1C04136890F85D41"
+	id: "356BC0080A584EF0"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [{
+		id: "6A90DC68083A4650"
+		rewards: []
+		tasks: [{
+			id: "267D7480042B50AE"
+			stage: "magic_ars_master"
+			type: "gamestage"
+		}]
+		x: 0.0d
+		y: -3.0d
+	}{
+		dependencies: ["6A90DC68083A4650"]
+		id: "673B279E5407C2FC"
+		rewards: [{
+			id: "52080392445BB531"
+			type: "xp_levels"
+			xp_levels: 15
+		}]
+		tasks: [{
+			id: "3F2C97B6E1C2BF8B"
+			item: { count: 1, id: "ars_nouveau:glyph_glide" }
+			type: "item"
+		}{
+			id: "6E5FD2CBA094DF58"
+			item: { count: 1, id: "ars_nouveau:belt_of_levitation" }
+			type: "item"
+		}{
+			id: "287ED61761314B9E"
+			item: { count: 1, id: "ars_nouveau:starbuncle_charm" }
+			type: "item"
+		}]
+		x: 2.0d
+		y: -3.0d
+	}{
+		id: "1DC23B95CD1E7EE9"
+		rewards: []
+		tasks: [{
+			id: "264F88BC801A8417"
+			stage: "magic_eidolon_master"
+			type: "gamestage"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}{
+		dependencies: ["1DC23B95CD1E7EE9"]
+		id: "325EBC4534D0DF21"
+		rewards: [{
+			id: "5173FEFAB52FE5B6"
+			type: "xp_levels"
+			xp_levels: 15
+		}]
+		tasks: [{
+			id: "4AD09BA668437F2D"
+			item: { count: 1, id: "eidolon_repraised:gravity_belt" }
+			type: "item"
+		}{
+			id: "5F16EAADA9272418"
+			item: { count: 1, id: "eidolon_repraised:raven_cloak" }
+			type: "item"
+		}]
+		x: 2.0d
+		y: 0.0d
+	}{
+		id: "5BEA167ED9CD0B6A"
+		rewards: []
+		tasks: [{
+			id: "713CE96361333612"
+			stage: "magic_mahou_master"
+			type: "gamestage"
+		}]
+		x: 0.0d
+		y: 3.0d
+	}{
+		dependencies: ["5BEA167ED9CD0B6A"]
+		id: "345CC8A1156E6146"
+		rewards: [{
+			id: "7011A28BE9EA92D6"
+			type: "xp_levels"
+			xp_levels: 15
+		}]
+		tasks: [{
+			id: "6D8E5DAEDEA3E284"
+			item: { count: 1, id: "mahoutsukai:scroll_ascension" }
+			type: "item"
+		}{
+			id: "5E96F9D2C678508E"
+			dimension: "minecraft:overworld"
+			ignore_dimension: false
+			position: [I; -30000000, 300, -30000000]
+			size: [I; 60000000, 20, 60000000]
+			type: "location"
+		}]
+		x: 2.0d
+		y: 3.0d
+	}{
+		dependencies: ["673B279E5407C2FC" "325EBC4534D0DF21" "345CC8A1156E6146"]
+		id: "6497EDD68AE7D1F3"
+		shape: "gear"
+		size: 1.5d
+		dependency_requirement: "one_completed"
+		rewards: [{
+			auto: "enabled"
+			id: "6FEE93E6F639B0BF"
+			stage: "pack_sky_nav"
+			type: "gamestage"
+		}{
+			id: "373866F531470C8F"
+			type: "xp_levels"
+			xp_levels: 30
+		}]
+		tasks: [{
+			id: "67B5E432BC4439BC"
+			type: "checkmark"
+		}]
+		x: 5.0d
+		y: 0.0d
+	}{
+		dependencies: ["6497EDD68AE7D1F3"]
+		id: "5936746B3F3F9074"
+		optional: true
+		rewards: [{
+			id: "120C71ECC9D9BD77"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "2CBC4212CB937099"
+			item: { count: 1, id: "aeronautics:levitite" }
+			type: "item"
+			count: 16L
+		}]
+		x: 7.0d
+		y: -1.5d
+	}{
+		dependencies: ["6497EDD68AE7D1F3"]
+		id: "6FB0519A89DF6B17"
+		optional: true
+		rewards: [{
+			id: "346EE642555CFA68"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "11682310D2FBF790"
+			item: { count: 1, id: "ars_creo:starbuncle_wheel" }
+			type: "item"
+		}]
+		x: 7.0d
+		y: 1.5d
+	}{
+		dependencies: ["5936746B3F3F9074" "6FB0519A89DF6B17"]
+		id: "352431711C8A6551"
+		dependency_requirement: "one_completed"
+		optional: true
+		rewards: [{
+			id: "49BC1A1B8A147615"
+			type: "xp_levels"
+			xp_levels: 15
+		}]
+		tasks: [{
+			id: "6915CAB9D6758FEE"
+			dimension: "minecraft:overworld"
+			ignore_dimension: false
+			position: [I; -30000000, 600, -30000000]
+			size: [I; 60000000, 424, 60000000]
+			type: "location"
+		}]
+		x: 9.0d
+		y: 0.0d
+	}]
+}

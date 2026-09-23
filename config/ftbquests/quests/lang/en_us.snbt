@@ -66,7 +66,7 @@
 	quest.7F8B2D88DAB71F5C.quest_desc: ["Fais bouger une contraption d'au moins 100 blocs."]
 	task.31A991C706505D06.title: "Ma contraption de 100 blocs bouge"
 	quest.3E4D0945C787D707.title: "Ouvrir l'Ère Aérienne"
-	quest.3E4D0945C787D707.quest_desc: ["Fabrique les Plans de l'Ère Aérienne à l'établi mécanique et rends-les." "Débloque Create Aeronautics et ses addons."]
+	quest.3E4D0945C787D707.quest_desc: ["Fabrique les Plans de l'Ère Aérienne à l'établi mécanique et rends-les." "Débloque la Navigation céleste (lévitite, pilotage, construction jusqu'à Y 1023), les machines steampunk d'Aeronautics et ses addons."]
 	chapter.6A1F3EEBDB2C5F86.title: "Conquête Spatiale"
 	chapter.6A1F3EEBDB2C5F86.chapter_subtitle: ["Préparer le lancement, puis décoller"]
 	quest.748AC595154D8BBE.title: "Prérequis"
@@ -164,4 +164,135 @@
 	quest.6934EE1D733E2874.quest_desc: ["Termine la voie de l'ébène ou celle de l'ivoire."]
 	quest.3302A9C87FB9357B.title: "Maître psionique"
 	quest.3302A9C87FB9357B.quest_desc: ["Un CAD de fin de jeu : calcul hypercadencé et réserve de psions immense."]
+	chapter.12971A9F1C23B19B.title: "École d'Ars Nouveau"
+	chapter.12971A9F1C23B19B.chapter_subtitle: ["Glyphes, source et familiers"]
+	quest.439ACBC56486EE73.title: "Le grimoire du novice"
+	quest.439ACBC56486EE73.quest_desc: ["Tout commence par un livre de sorts." "Combine des glyphes pour créer tes propres sorts."]
+	quest.4A6E04A40C7A9A44.title: "La table du scribe"
+	quest.4A6E04A40C7A9A44.quest_desc: ["Elle permet d'apprendre de nouveaux glyphes."]
+	quest.4941C03F19C35701.title: "La Source"
+	quest.4941C03F19C35701.quest_desc: ["La Source est l'énergie magique d'Ars Nouveau." "Stocke-la dans des jarres."]
+	quest.16504A3B6231C173.title: "La chambre d'imprégnation"
+	quest.16504A3B6231C173.quest_desc: ["Elle charge les objets en Source."]
+	quest.6688779C3EAC792D.title: "Tenue de sorcier"
+	quest.5DE1DE7528C5BFEB.title: "Rang : Adepte d'Ars"
+	quest.5DE1DE7528C5BFEB.quest_desc: ["Prouve ta maîtrise des essences élémentaires." "Débloque le grimoire d'apprenti, les glyphes de niveau 2, l'armure d'arcaniste, les anneaux, les amulettes et les tourelles."]
+	quest.3F5DA404A278518E.title: "Le grimoire d'apprenti"
+	quest.72ADBE4F655E20D0.title: "L'appareil d'enchantement"
+	quest.72ADBE4F655E20D0.quest_desc: ["Le cœur de la fabrication avancée d'Ars Nouveau."]
+	quest.612F3B28E8D78F16.title: "Robe d'arcaniste"
+	quest.1A9DA7C7818C7745.title: "La Chimère sauvage"
+	quest.1A9DA7C7818C7745.quest_desc: ["Invoque et vaincs la Chimère Wilden." "Garde son tribut."]
+	quest.6EDE0D754081B95D.title: "Rang : Maître d'Ars"
+	quest.6EDE0D754081B95D.quest_desc: ["Le tribut de la Chimère ouvre les secrets de niveau 3." "Débloque le grimoire d'archimage, les glyphes de niveau 3, l'armure de mage de bataille, les fils et les focus élémentaires."]
+	quest.71372A545B655E79.title: "Le grimoire d'archimage"
+	quest.2BD2D53F03587CA8.title: "Mage de bataille"
+	quest.2BD2D53F03587CA8.quest_desc: ["Tu maîtrises désormais Ars Nouveau."]
+	chapter.1F61BB0CE80E378D.title: "École d'Eidolon"
+	chapter.1F61BB0CE80E378D.chapter_subtitle: ["Nécromancie, âmes et divinités"]
+	quest.43535B7C6C58359F.title: "Le Codex"
+	quest.43535B7C6C58359F.quest_desc: ["Le savoir d'Eidolon, chapitre après chapitre."]
+	quest.785094A92AB27EF1.title: "L'établi du travailleur"
+	quest.2829C979D6DF3466.title: "Le creuset"
+	quest.2829C979D6DF3466.quest_desc: ["Les recettes du creuset se font étape par étape, en remuant."]
+	quest.441F61D521CB017F.title: "L'athamé"
+	quest.441F61D521CB017F.quest_desc: ["Une dague rituelle en étain."]
+	quest.198912A3B8F7D20E.title: "Éclats d'âme"
+	quest.198912A3B8F7D20E.quest_desc: ["Récolte des âmes sur les morts-vivants."]
+	quest.2D151AFE66A9DBC6.title: "L'autel"
+	quest.2D151AFE66A9DBC6.quest_desc: ["Un autel pour honorer une divinité."]
+	quest.2118E725E8B9B188.title: "Rang : Adepte d'Eidolon"
+	quest.2118E725E8B9B188.quest_desc: ["Chasse les spectres et amasse leurs âmes." "Débloque l'or arcanique, les gemmes d'âme, l'enchanteur d'âme, les baguettes, les faux et les amulettes."]
+	quest.24240BA90FD394DA.title: "L'or arcanique"
+	quest.2633D3DFC4B7C0E5.title: "Gemmes d'âme"
+	quest.541BA3DC5B573716.title: "L'enchanteur d'âme"
+	quest.205151C8719C7658.title: "La ceinture de gravité"
+	quest.24CE6D9108861EB9.title: "Rang : Maître d'Eidolon"
+	quest.24CE6D9108861EB9.quest_desc: ["Le Wither est l'offrande qui te fait maître." "Débloque la gemme d'ombre, la gemme cramoisie, l'armure du seigneur des os, du sorcier maléfique et la cape de corbeau."]
+	quest.37037129A30748D0.title: "La gemme d'ombre"
+	quest.192CB7469F30F3C7.title: "La cape de corbeau"
+	quest.19AD3B6F99519BA1.title: "Seigneur des os"
+	quest.19AD3B6F99519BA1.quest_desc: ["Tu maîtrises désormais Eidolon."]
+	chapter.1CFFE2F91C0DE712.title: "École de Mahou Tsukai"
+	chapter.1CFFE2F91C0DE712.chapter_subtitle: ["Circuits magiques et parchemins"]
+	quest.599E2308587DD269.title: "Le guide du mage"
+	quest.3827EECD3EDA3D33.title: "Broyer les catalyseurs"
+	quest.3827EECD3EDA3D33.quest_desc: ["Le marteau et le mortier réduisent les minerais en poudres magiques."]
+	quest.6F1B8FB6CB0A0C5F.title: "L'accordeur"
+	quest.6F1B8FB6CB0A0C5F.quest_desc: ["Il accorde les gemmes à ton mana."]
+	quest.69AFD9931C2CC93C.title: "Le tissu et la dague"
+	quest.69AFD9931C2CC93C.quest_desc: ["Les parchemins s'écrivent avec ton propre sang."]
+	quest.6318C8896FBC5DBA.title: "Le projecteur de cercle"
+	quest.745CA841BD2BF3CC.title: "Circuits magiques"
+	quest.745CA841BD2BF3CC.quest_desc: ["Ouvre tes circuits magiques et porte ton premier code mystique."]
+	quest.63C28ED36A21754C.title: "Rang : Adepte de Mahou"
+	quest.63C28ED36A21754C.quest_desc: ["Maîtrise les sept poudres et les parchemins de base." "Débloque les parchemins de déplacement et d'échange, le geas, les bâtons et le premier code de sorcellerie."]
+	quest.11A94C3D68E11740.title: "La première sorcellerie"
+	quest.1D670DC066666D28.title: "Déplacement de projectiles"
+	quest.4616C915C7EFE7C2.title: "Le geas"
+	quest.4616C915C7EFE7C2.quest_desc: ["Un contrat magique qui lie celui qui l'accepte."]
+	quest.4A0B4EE005E833AD.title: "Rang : Maître de Mahou"
+	quest.4A0B4EE005E833AD.quest_desc: ["Des gemmes parfaitement accordées et les parchemins d'échange." "Débloque les yeux mystiques, la projection, les armes légendaires et le parchemin d'ascension."]
+	quest.46076168270DA745.title: "Caliburn"
+	quest.46076168270DA745.quest_desc: ["L'épée de la sélection."]
+	quest.138492DE281C74C4.title: "Projection du trésor"
+	quest.138492DE281C74C4.quest_desc: ["Tu maîtrises désormais Mahou Tsukai."]
+	chapter.356BC0080A584EF0.title: "Ascension ésotérique"
+	chapter.356BC0080A584EF0.chapter_subtitle: ["Une civilisation qui atteint le ciel par la magie"]
+	quest.6A90DC68083A4650.title: "Voie d'Ars Nouveau"
+	quest.6A90DC68083A4650.quest_desc: ["Il faut être Maître d'Ars Nouveau."]
+	task.267D7480042B50AE.title: "Être maître"
+	quest.673B279E5407C2FC.title: "Élévation d'Ars Nouveau"
+	quest.673B279E5407C2FC.quest_desc: ["Planer, léviter et apprivoiser les Starbuncles."]
+	quest.1DC23B95CD1E7EE9.title: "Voie d'Eidolon"
+	quest.1DC23B95CD1E7EE9.quest_desc: ["Il faut être Maître d'Eidolon."]
+	task.264F88BC801A8417.title: "Être maître"
+	quest.325EBC4534D0DF21.title: "Élévation d'Eidolon"
+	quest.325EBC4534D0DF21.quest_desc: ["Défier la gravité avec la ceinture et la cape de corbeau."]
+	quest.5BEA167ED9CD0B6A.title: "Voie de Mahou Tsukai"
+	quest.5BEA167ED9CD0B6A.quest_desc: ["Il faut être Maître de Mahou Tsukai."]
+	task.713CE96361333612.title: "Être maître"
+	quest.345CC8A1156E6146.title: "Élévation de Mahou Tsukai"
+	quest.345CC8A1156E6146.quest_desc: ["Le parchemin d'ascension t'emporte vers le ciel." "Monte au-dessus de Y 300."]
+	task.5E96F9D2C678508E.title: "Atteindre Y 300"
+	quest.6497EDD68AE7D1F3.title: "Ascension ésotérique"
+	quest.6497EDD68AE7D1F3.quest_desc: ["Termine au moins une des trois voies." "Débloque la Navigation céleste : lévitite (recettes magiques pour chaque école), pilotage des vaisseaux, roue à Starbuncle et construction jusqu'à Y 1023."]
+	task.67B5E432BC4439BC.title: "Je suis prêt à rejoindre le ciel"
+	quest.5936746B3F3F9074.title: "Pierre qui flotte"
+	quest.5936746B3F3F9074.quest_desc: ["Produis de la lévitite par la magie de ton école."]
+	quest.6FB0519A89DF6B17.title: "La roue à Starbuncle"
+	quest.6FB0519A89DF6B17.quest_desc: ["Un Starbuncle qui court dans sa roue fournit de la force de rotation, sans Create avancé."]
+	quest.352431711C8A6551.title: "Au-dessus des nuages"
+	quest.352431711C8A6551.quest_desc: ["Monte au-dessus de Y 600."]
+	task.6915CAB9D6758FEE.title: "Atteindre Y 600"
+	chapter.1D933D789DB5AA1D.title: "Archimage"
+	chapter.1D933D789DB5AA1D.chapter_subtitle: ["Maîtriser les trois écoles"]
+	quest.50D3AE600EE25B1F.title: "L'Archimage"
+	quest.50D3AE600EE25B1F.quest_desc: ["Deviens maître des trois écoles de magie." "Reçois le Sceau de l'Archimage, preuve de ta maîtrise."]
+	task.627B35CA1B4902DD.title: "Maître d'Ars Nouveau"
+	task.2F59BC54205235F8.title: "Maître d'Eidolon"
+	task.7EAB4662C4D380AD.title: "Maître de Mahou Tsukai"
+	chapter.2391278D0990CFBE.title: "Perception des psions"
+	chapter.2391278D0990CFBE.chapter_subtitle: ["La voie magique vers Psi"]
+	quest.4B33B1F2D0D9CB8D.title: "Voie d'Ars Nouveau"
+	quest.4B33B1F2D0D9CB8D.quest_desc: ["Il faut être Maître d'Ars Nouveau."]
+	task.30D930A3BCB396C0.title: "Être maître"
+	quest.4C70EE1114F79BBA.title: "Perception d'Ars Nouveau"
+	quest.4C70EE1114F79BBA.quest_desc: ["Le glyphe Détection magique révèle un courant que la Source n'explique pas."]
+	task.6A8453F6A4AD4258.title: "J'ai senti les psions avec Détection magique"
+	quest.6C4E78F2F708C984.title: "Voie d'Eidolon"
+	quest.6C4E78F2F708C984.quest_desc: ["Il faut être Maître d'Eidolon."]
+	task.28BF718B3FA5D248.title: "Être maître"
+	quest.2F72EF9944F049D8.title: "Perception d'Eidolon"
+	quest.2F72EF9944F049D8.quest_desc: ["Les psions traversent l'esprit comme les âmes traversent la mort." "Protège ton esprit avant de les étudier."]
+	task.1D51CF9A894E5102.title: "J'ai protégé mon esprit des psions"
+	quest.72F52B7738FA0C01.title: "Voie de Mahou Tsukai"
+	quest.72F52B7738FA0C01.quest_desc: ["Il faut être Maître de Mahou Tsukai."]
+	task.22DD4038F7C941E3.title: "Être maître"
+	quest.4F212830BAD215BF.title: "Perception de Mahou Tsukai"
+	quest.4F212830BAD215BF.quest_desc: ["L'intuition révèle l'« information » cachée dans chaque objet." "Les psions la lisent et la modifient."]
+	task.310A5EDD55897EBA.title: "J'ai lu l'information d'un objet"
+	quest.12CFD501790EFA94.title: "Éveil psychique"
+	quest.12CFD501790EFA94.quest_desc: ["Termine au moins une des trois voies." "Débloque Psi et le Casting Assistant Device (CAD)." "La voie technologique est dans le chapitre « Découverte des psions »."]
+	task.62084A1B7EC187B3.title: "Je suis prêt à éveiller mon esprit"
 }

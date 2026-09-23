@@ -9,12 +9,32 @@ file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "80e2e5e9ea913c85dfa5a4dbf74e04249f2021faf803957932a2cc6c62655d2c"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/archimage.snbt"
+hash = "3523c67489fb7c5e975521542b472e7e1add99154724a4020ec9e00e6dda5c1c"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ascension_esoterique.snbt"
+hash = "a99fd541165f6b8b62c4f6a87e7d0d3aec155df513b2770b9379ad9945dabc53"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/conquete_spatiale.snbt"
 hash = "29c3f941c09e1630a67b99959a0b1e45f9ce2e279c2915fc6ee2eb40fa708445"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/ecole_ars.snbt"
+hash = "9815aff7f5d37ecbace1409fbb8d2129987c750e1f77607675387476da9c05e5"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ecole_eidolon.snbt"
+hash = "0139d35998c2327b64fceedb87973c4fe267c834b6d55fb72b757b6c73c08176"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ecole_mahou.snbt"
+hash = "c042136df00ddbc510237791a0c2ec358e63a41de1cfd3fc7fc71cf01894eede"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/ere_aerienne.snbt"
-hash = "ded8f37c98c601e355bbdbd35c6cf0e0c30784b5256cc9eb273c5ad9d67f41a8"
+hash = "332116d908e84a61ae79170e19f4a019ac19eeeec1615b0d2c450e2c19fe6f13"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ere_electrique.snbt"
@@ -38,7 +58,7 @@ hash = "a542a873e99911ab8c5d1bdd771e2be3dadb9f7584317e3638828e3a00ae9f3a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/eveil_psychique.snbt"
-hash = "7e572e75572f52694ea6eff33c46877ed1692e3417deb76d02eb30e682d57fc6"
+hash = "6f97ab484a9e7b1c7551795e1255db54d96e935b7cee7b799d3d5a9bd95b3a16"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/introduction_a_create.snbt"
@@ -46,7 +66,11 @@ hash = "414e1dea64a6b6b0994ccaafa2a3708f69d162eb7d2a7485f8c7686f809d39a0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/maitrise_psionique.snbt"
-hash = "49d5c1af1d5912c10a488530b0c86ca780c8a0459fb1708108c23c63ef49c7a3"
+hash = "7d887774e78dc8fd7585656c16f12e15a1ca2fcff14b967e49debded04d6bb71"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/perception_psions.snbt"
+hash = "e3102231d64eedfb822ec04bd56b1344c8e33115fc799769e0e8bc46404be32c"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -54,11 +78,83 @@ hash = "400de9a472395f49ccbb567298634855aa9f62713f742d22f53ba131b0991d2e"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "eb2d5b8078a9f80df6d089355b0e8cc251cd1ade843e693fbaec356644c3a2ff"
+hash = "ac48dd5956f5ae54debae5a1b1ddf170b4346a988f2157deabb3cb819e9da162"
 
 [[files]]
 file = "config/progressivestages/progressivestages.toml"
 hash = "2a4882b719aef50932676871c66d156a6452c19da719d52add0986f624245061"
+
+[[files]]
+file = "config/progressivestages/stages/magic_ars_adept/progression.toml"
+hash = "fbb7395e83caf989da5f50b36eb76226e53ef87c7c781e08c5532654c5b041a6"
+
+[[files]]
+file = "config/progressivestages/stages/magic_ars_adept/rules.toml"
+hash = "045bb5db2d26f04ea963a72d29c2d55020e67e345df56e968bb5e4ef3d6da4f8"
+
+[[files]]
+file = "config/progressivestages/stages/magic_ars_adept/stage.toml"
+hash = "a877d4271c469fe058c21c2007961ecc03e896b0694fc8ffa8c24700d3ddfb1d"
+
+[[files]]
+file = "config/progressivestages/stages/magic_ars_master/progression.toml"
+hash = "17c643baade8581cee36bf1f3dbd02b30749a3818da818c0db148f963fc7b897"
+
+[[files]]
+file = "config/progressivestages/stages/magic_ars_master/rules.toml"
+hash = "0c4ce01b42b433d2dc09a9e08cec5da451641d9d28cd3a14760ecf75c68cc55c"
+
+[[files]]
+file = "config/progressivestages/stages/magic_ars_master/stage.toml"
+hash = "22f49ce1f3ea7373ed2d2ac6b0bef08962550f8d87c75dee78b47b3d9f0389b0"
+
+[[files]]
+file = "config/progressivestages/stages/magic_eidolon_adept/progression.toml"
+hash = "290bcd5925668410a3523a32b4519e3525c3540fca9983ad98e837119b3b73cb"
+
+[[files]]
+file = "config/progressivestages/stages/magic_eidolon_adept/rules.toml"
+hash = "2541c373d972eb8a241a09f62038202fa55708e89a3a5dfd82435daa1a363994"
+
+[[files]]
+file = "config/progressivestages/stages/magic_eidolon_adept/stage.toml"
+hash = "60ea47aabfa1c2befd028c7f11ddcdecd920900adcbf887b992f80874973ce3b"
+
+[[files]]
+file = "config/progressivestages/stages/magic_eidolon_master/progression.toml"
+hash = "cf8126be602b5d0d5606e32608579abef32745bcc496702407d7409e6ddf684f"
+
+[[files]]
+file = "config/progressivestages/stages/magic_eidolon_master/rules.toml"
+hash = "697e10c3f30e1e0dd484d5065f3fba528a9179a1faebd9a8d641656b54b9d8a4"
+
+[[files]]
+file = "config/progressivestages/stages/magic_eidolon_master/stage.toml"
+hash = "1bfaa3e5c0a091c72b6d33ac4450340406ecb78c27c7143fa5ca92e93989ec98"
+
+[[files]]
+file = "config/progressivestages/stages/magic_mahou_adept/progression.toml"
+hash = "79dae1d25c4141ae7ddf6fd771f3b3ea571731c9845c4f1b676b37b142829078"
+
+[[files]]
+file = "config/progressivestages/stages/magic_mahou_adept/rules.toml"
+hash = "6f3a40d359fb3f7c45bff39b994d522c3048e0a2486dec46819ff1a17b1aab25"
+
+[[files]]
+file = "config/progressivestages/stages/magic_mahou_adept/stage.toml"
+hash = "9d9b244dfdd2aaa44ab18f9363de44a295e8fbc04d3f789831a2daecbd02e674"
+
+[[files]]
+file = "config/progressivestages/stages/magic_mahou_master/progression.toml"
+hash = "224b397f6c1f3d892e03b1c4a97bf9e0c45dfdb0be7ff5aec9166656ce7cbce9"
+
+[[files]]
+file = "config/progressivestages/stages/magic_mahou_master/rules.toml"
+hash = "922cddffe565be1ad3859e4b1ab7d4bb15d261d2f6b851aa53ef25f312021bf1"
+
+[[files]]
+file = "config/progressivestages/stages/magic_mahou_master/stage.toml"
+hash = "dd39211545bd0f416953e34fd8a8c0d205d6df870c58cbcc32550e97c23c3f17"
 
 [[files]]
 file = "config/progressivestages/stages/pack_electric_era/progression.toml"
@@ -150,11 +246,23 @@ hash = "ee5ea46fd4763af4dd3b1548ae8db8fcabe58705c87eb3bb361ce88824c8c18f"
 
 [[files]]
 file = "config/progressivestages/stages/pack_sky_era/rules.toml"
-hash = "a47484b0787bfcea8c36a53f81bedfa77b1ca8e354361a840615c685fdfa4d19"
+hash = "147125d168512fcdb7d703a7f6aed81f74cf8ab1f8e3cfe66cbe5031a1734bbe"
 
 [[files]]
 file = "config/progressivestages/stages/pack_sky_era/stage.toml"
 hash = "059a783df08bca2b3d65269d683c852ade7b2619a5fa457ec0626c4eb7a4011b"
+
+[[files]]
+file = "config/progressivestages/stages/pack_sky_nav/progression.toml"
+hash = "6ce09a83beac7ef4d8b474473ffc5437fc7fda4357badf584d2ce8a26aff6eb9"
+
+[[files]]
+file = "config/progressivestages/stages/pack_sky_nav/rules.toml"
+hash = "46e430e3157126f0142338a1dc8fd93f5f86934a60cb957319ffb33d3da628d5"
+
+[[files]]
+file = "config/progressivestages/stages/pack_sky_nav/stage.toml"
+hash = "edacdd52eaea49a053cf3a436602f2c937b3bc9c5f06e7f604ee30555b036917"
 
 [[files]]
 file = "config/progressivestages/stages/pack_space_conquest/progression.toml"
@@ -171,6 +279,10 @@ hash = "e6024581801e634e7bcd33ca4d5a738392f6d2ca7875e5f29681c3971e5ce5f3"
 [[files]]
 file = "config/tectonic.json"
 hash = "b9103ea3b7f70cc466e60edee3306209d3920b1b8c17e6e8e80337ad74bc4528"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/archmage_seal.png"
+hash = "f8d07797aee43eca228994bddb2b817a19a35494ce9a9a48652058698579ef67"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/plan_electric_era.png"
@@ -221,6 +333,10 @@ file = "kubejs/server_scripts/era_plans.js"
 hash = "7a6bf3855c9c16a234a2f501a7208230db8b31c9bf5fc00ec25d2f3f56c77178"
 
 [[files]]
+file = "kubejs/server_scripts/magic_sky.js"
+hash = "e6a61c02f921fd77c457827916fc63b18ba14793487dfa5a9971eec459f60b36"
+
+[[files]]
 file = "kubejs/server_scripts/ore_excavation.js"
 hash = "55adea7534e67bb43b1e117e332dfc3f86a4b4803ada3a4dffdba34cea804572"
 
@@ -230,7 +346,7 @@ hash = "a0f9d3607f2e401d7e6d6c56c9a9908764bdeaf3dd3d5311db71c0f13a678fa2"
 
 [[files]]
 file = "kubejs/server_scripts/sky_build_limit.js"
-hash = "a38c6e654494cf1be85561f56212542c479a76bcd35b34c6551caa8240847728"
+hash = "41a56b45c2f5c4d4b8865fe60176fef5ab674c469248ec3823e9b3eacffacf6f"
 
 [[files]]
 file = "kubejs/server_scripts/stage_lock.js"
@@ -239,6 +355,10 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "kubejs/startup_scripts/era_plans.js"
 hash = "8f7b78dad9973504aedad24160f9a7d08002b74e30b6e712d82de2a7784bec71"
+
+[[files]]
+file = "kubejs/startup_scripts/magic_items.js"
+hash = "f7dc017cf67e4158408d18ca0257f2deeca9a92b0e7ba58ac735debf8ad930e8"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"

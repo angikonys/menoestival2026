@@ -1,0 +1,276 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ecole_eidolon"
+	group: "1C04136890F85D41"
+	id: "1F61BB0CE80E378D"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "43535B7C6C58359F"
+		rewards: [{
+			id: "3E8E886F34E1356C"
+			type: "xp_levels"
+			xp_levels: 3
+		}]
+		tasks: [{
+			id: "35B06EED4801F820"
+			item: { count: 1, id: "eidolon_repraised:codex" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}{
+		dependencies: ["43535B7C6C58359F"]
+		id: "785094A92AB27EF1"
+		rewards: [{
+			id: "7E5C42D3D687963A"
+			type: "xp_levels"
+			xp_levels: 3
+		}]
+		tasks: [{
+			id: "14C54D394508177A"
+			item: { count: 1, id: "eidolon_repraised:worktable" }
+			type: "item"
+		}]
+		x: 2.0d
+		y: 0.0d
+	}{
+		dependencies: ["785094A92AB27EF1"]
+		id: "2829C979D6DF3466"
+		rewards: [{
+			id: "3662CA7B9980C755"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "753437E77ABB7156"
+			item: { count: 1, id: "eidolon_repraised:crucible" }
+			type: "item"
+		}]
+		x: 4.0d
+		y: 0.0d
+	}{
+		dependencies: ["2829C979D6DF3466"]
+		id: "441F61D521CB017F"
+		rewards: [{
+			id: "3F4BE6FCFDFAB128"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "60670E9CA99F56C9"
+			item: { count: 1, id: "eidolon_repraised:pewter_ingot" }
+			type: "item"
+			count: 8L
+		}{
+			id: "33A0F422BD621DE5"
+			item: { count: 1, id: "eidolon_repraised:athame" }
+			type: "item"
+		}]
+		x: 6.0d
+		y: 0.0d
+	}{
+		dependencies: ["441F61D521CB017F"]
+		id: "198912A3B8F7D20E"
+		rewards: [{
+			id: "382C5B58654709D6"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "303BB0F24FC32F5E"
+			item: { count: 1, id: "eidolon_repraised:soul_shard" }
+			type: "item"
+			count: 8L
+		}]
+		x: 8.0d
+		y: 0.0d
+	}{
+		dependencies: ["198912A3B8F7D20E"]
+		id: "2D151AFE66A9DBC6"
+		rewards: [{
+			id: "5DF80514550C0CA0"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "71CCBC61671A7E7B"
+			item: { count: 1, id: "eidolon_repraised:stone_altar" }
+			type: "item"
+		}]
+		x: 10.0d
+		y: 0.0d
+	}{
+		dependencies: ["2D151AFE66A9DBC6"]
+		id: "2118E725E8B9B188"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			auto: "enabled"
+			id: "7C5926FD4354B5A8"
+			stage: "magic_eidolon_adept"
+			type: "gamestage"
+		}{
+			id: "11F68827F4611FD9"
+			type: "xp_levels"
+			xp_levels: 15
+		}]
+		tasks: [{
+			id: "605205584F14CABE"
+			item: { count: 1, id: "eidolon_repraised:soul_shard" }
+			type: "item"
+			count: 32L
+		}{
+			id: "1AB8F6B08D4A10EC"
+			entity: "eidolon_repraised:wraith"
+			type: "kill"
+			value: 5L
+		}]
+		x: 12.0d
+		y: 0.0d
+	}{
+		dependencies: ["2118E725E8B9B188"]
+		id: "24240BA90FD394DA"
+		rewards: [{
+			id: "1D0F8ED7D6AE33B1"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "451232E6B1888A8B"
+			item: { count: 1, id: "eidolon_repraised:arcane_gold_ingot" }
+			type: "item"
+			count: 8L
+		}]
+		x: 0.0d
+		y: 2.5d
+	}{
+		dependencies: ["24240BA90FD394DA"]
+		id: "2633D3DFC4B7C0E5"
+		rewards: [{
+			id: "1FA64A99DD64D2AE"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "74B187D4B1D09586"
+			item: { count: 1, id: "eidolon_repraised:lesser_soul_gem" }
+			type: "item"
+			count: 2L
+		}]
+		x: 2.0d
+		y: 2.5d
+	}{
+		dependencies: ["2633D3DFC4B7C0E5"]
+		id: "541BA3DC5B573716"
+		rewards: [{
+			id: "4A3547970137743B"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "2FBA5B740FD55B75"
+			item: { count: 1, id: "eidolon_repraised:soul_enchanter" }
+			type: "item"
+		}]
+		x: 4.0d
+		y: 2.5d
+	}{
+		dependencies: ["541BA3DC5B573716"]
+		id: "205151C8719C7658"
+		rewards: [{
+			id: "67800470A7F065B4"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "1E97B3E3E7FFF704"
+			item: { count: 1, id: "eidolon_repraised:gravity_belt" }
+			type: "item"
+		}]
+		x: 6.0d
+		y: 2.5d
+	}{
+		dependencies: ["205151C8719C7658"]
+		id: "24CE6D9108861EB9"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			auto: "enabled"
+			id: "2579A72D30CA2731"
+			stage: "magic_eidolon_master"
+			type: "gamestage"
+		}{
+			id: "4B834BF8349691AE"
+			type: "xp_levels"
+			xp_levels: 30
+		}]
+		tasks: [{
+			id: "544CC47F43EAE08E"
+			item: { count: 1, id: "eidolon_repraised:arcane_gold_ingot" }
+			type: "item"
+			count: 16L
+		}{
+			id: "6E2AD1C3D599AB86"
+			item: { count: 1, id: "eidolon_repraised:lesser_soul_gem" }
+			type: "item"
+			count: 4L
+		}{
+			id: "5FC19962A3875F70"
+			entity: "minecraft:wither"
+			type: "kill"
+			value: 1L
+		}]
+		x: 8.0d
+		y: 2.5d
+	}{
+		dependencies: ["24CE6D9108861EB9"]
+		id: "37037129A30748D0"
+		rewards: [{
+			id: "1EA2BA030BAD4793"
+			type: "xp_levels"
+			xp_levels: 15
+		}]
+		tasks: [{
+			id: "2BA724A3987C3C44"
+			item: { count: 1, id: "eidolon_repraised:shadow_gem" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 5.0d
+	}{
+		dependencies: ["37037129A30748D0"]
+		id: "192CB7469F30F3C7"
+		rewards: [{
+			id: "3BA852EAE9AC767E"
+			type: "xp_levels"
+			xp_levels: 15
+		}]
+		tasks: [{
+			id: "3548901494744269"
+			item: { count: 1, id: "eidolon_repraised:raven_cloak" }
+			type: "item"
+		}]
+		x: 2.0d
+		y: 5.0d
+	}{
+		dependencies: ["192CB7469F30F3C7"]
+		id: "19AD3B6F99519BA1"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			id: "442D5AE8EB983AB9"
+			type: "xp_levels"
+			xp_levels: 20
+		}]
+		tasks: [{
+			id: "67D1E70098CEE54E"
+			item: { count: 1, id: "eidolon_repraised:bonelord_chestplate" }
+			type: "item"
+		}]
+		x: 4.0d
+		y: 5.0d
+	}]
+}

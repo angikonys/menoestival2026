@@ -1,0 +1,6 @@
+# Accordé par une quête FTB : Stage Reward -> "magic_mahou_adept"
+
+[unlock]
+toast = "Adepte de Mahou Tsukai débloqué !"
+title = "&d&lAdepte de Mahou Tsukai"
+sound = "minecraft:ui.toast.challenge_complete"

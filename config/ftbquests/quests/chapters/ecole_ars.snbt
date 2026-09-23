@@ -1,0 +1,277 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ecole_ars"
+	group: "1C04136890F85D41"
+	id: "12971A9F1C23B19B"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "439ACBC56486EE73"
+		rewards: [{
+			id: "251E48D35E4C3846"
+			type: "xp_levels"
+			xp_levels: 3
+		}]
+		tasks: [{
+			id: "50F94D643E039A4E"
+			item: { count: 1, id: "ars_nouveau:novice_spell_book" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}{
+		dependencies: ["439ACBC56486EE73"]
+		id: "4A6E04A40C7A9A44"
+		rewards: [{
+			id: "5271DCEB0103D10A"
+			type: "xp_levels"
+			xp_levels: 3
+		}]
+		tasks: [{
+			id: "2023D248B0FE3136"
+			item: { count: 1, id: "ars_nouveau:scribes_table" }
+			type: "item"
+		}]
+		x: 2.0d
+		y: 0.0d
+	}{
+		dependencies: ["4A6E04A40C7A9A44"]
+		id: "4941C03F19C35701"
+		rewards: [{
+			id: "54FE225B4514635F"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "535660249428E411"
+			item: { count: 1, id: "ars_nouveau:source_jar" }
+			type: "item"
+		}{
+			id: "48FAF80E5C4775AB"
+			item: { count: 1, id: "ars_nouveau:source_gem" }
+			type: "item"
+			count: 16L
+		}]
+		x: 4.0d
+		y: 0.0d
+	}{
+		dependencies: ["4941C03F19C35701"]
+		id: "16504A3B6231C173"
+		rewards: [{
+			id: "5DAE75996CD08382"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "2EEA327F3214D0DC"
+			item: { count: 1, id: "ars_nouveau:imbuement_chamber" }
+			type: "item"
+		}]
+		x: 6.0d
+		y: 0.0d
+	}{
+		dependencies: ["16504A3B6231C173"]
+		id: "6688779C3EAC792D"
+		rewards: [{
+			id: "4BCF265D3914A6A1"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "713F5F6D534E30E9"
+			item: { count: 1, id: "ars_nouveau:sorcerer_hood" }
+			type: "item"
+		}]
+		x: 8.0d
+		y: 0.0d
+	}{
+		dependencies: ["6688779C3EAC792D"]
+		id: "5DE1DE7528C5BFEB"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			auto: "enabled"
+			id: "5ABEF0EB916071ED"
+			stage: "magic_ars_adept"
+			type: "gamestage"
+		}{
+			id: "567612AE5FCE6EB3"
+			type: "xp_levels"
+			xp_levels: 15
+		}]
+		tasks: [{
+			id: "7DDD2993485B0970"
+			item: { count: 1, id: "ars_nouveau:source_gem" }
+			type: "item"
+			count: 64L
+		}{
+			id: "1A74A2A5F08BDCD7"
+			item: { count: 1, id: "ars_nouveau:abjuration_essence" }
+			type: "item"
+		}{
+			id: "1B80752F08CA1943"
+			item: { count: 1, id: "ars_nouveau:air_essence" }
+			type: "item"
+		}{
+			id: "3E916DE19C6FFA71"
+			item: { count: 1, id: "ars_nouveau:conjuration_essence" }
+			type: "item"
+		}{
+			id: "46BCB3B62F747BBF"
+			item: { count: 1, id: "ars_nouveau:earth_essence" }
+			type: "item"
+		}{
+			id: "41C631168C91D071"
+			item: { count: 1, id: "ars_nouveau:fire_essence" }
+			type: "item"
+		}{
+			id: "47DACD1136CE2284"
+			item: { count: 1, id: "ars_nouveau:manipulation_essence" }
+			type: "item"
+		}{
+			id: "68CAB9D924F54577"
+			item: { count: 1, id: "ars_nouveau:water_essence" }
+			type: "item"
+		}]
+		x: 10.0d
+		y: 0.0d
+	}{
+		dependencies: ["5DE1DE7528C5BFEB"]
+		id: "3F5DA404A278518E"
+		rewards: [{
+			id: "6DFDE9A052417449"
+			type: "xp_levels"
+			xp_levels: 5
+		}]
+		tasks: [{
+			id: "3B6A7822127C0AA1"
+			item: { count: 1, id: "ars_nouveau:apprentice_spell_book" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 2.5d
+	}{
+		dependencies: ["3F5DA404A278518E"]
+		id: "72ADBE4F655E20D0"
+		rewards: [{
+			id: "546E9A296E57764E"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "1085B2A08750A915"
+			item: { count: 1, id: "ars_nouveau:enchanting_apparatus" }
+			type: "item"
+		}{
+			id: "706EBDF9B89E0283"
+			item: { count: 1, id: "ars_nouveau:arcane_core" }
+			type: "item"
+		}]
+		x: 2.0d
+		y: 2.5d
+	}{
+		dependencies: ["72ADBE4F655E20D0"]
+		id: "612F3B28E8D78F16"
+		rewards: [{
+			id: "5E68546C34AEB7FC"
+			type: "xp_levels"
+			xp_levels: 10
+		}]
+		tasks: [{
+			id: "3D08D314409BEC02"
+			item: { count: 1, id: "ars_nouveau:arcanist_robes" }
+			type: "item"
+		}]
+		x: 4.0d
+		y: 2.5d
+	}{
+		dependencies: ["612F3B28E8D78F16"]
+		id: "1A9DA7C7818C7745"
+		rewards: [{
+			id: "292974BA748AD738"
+			type: "xp_levels"
+			xp_levels: 20
+		}]
+		tasks: [{
+			id: "35931941EC9CA639"
+			entity: "ars_nouveau:wilden_boss"
+			type: "kill"
+			value: 1L
+		}{
+			id: "3823C090B2924D78"
+			item: { count: 1, id: "ars_nouveau:wilden_tribute" }
+			type: "item"
+		}]
+		x: 6.0d
+		y: 2.5d
+	}{
+		dependencies: ["1A9DA7C7818C7745"]
+		id: "6EDE0D754081B95D"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			auto: "enabled"
+			id: "3193C25CF0318EE0"
+			stage: "magic_ars_master"
+			type: "gamestage"
+		}{
+			id: "4BA207584F040A82"
+			type: "xp_levels"
+			xp_levels: 30
+		}]
+		tasks: [{
+			id: "760BF640EEB4555D"
+			item: { count: 1, id: "ars_nouveau:wilden_tribute" }
+			type: "item"
+		}{
+			id: "69C13B5691639FC5"
+			item: { count: 1, id: "ars_nouveau:apprentice_spell_book" }
+			type: "item"
+		}{
+			id: "72AB54DD2ED15D63"
+			item: { count: 1, id: "ars_nouveau:arcanist_robes" }
+			type: "item"
+		}{
+			id: "6C826CA1191F6E5E"
+			item: { count: 1, id: "ars_nouveau:source_gem" }
+			type: "item"
+			count: 128L
+		}]
+		x: 8.0d
+		y: 2.5d
+	}{
+		dependencies: ["6EDE0D754081B95D"]
+		id: "71372A545B655E79"
+		rewards: [{
+			id: "330D3A133534CA5A"
+			type: "xp_levels"
+			xp_levels: 20
+		}]
+		tasks: [{
+			id: "657A3CE2E8F5463F"
+			item: { count: 1, id: "ars_nouveau:archmage_spell_book" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 5.0d
+	}{
+		dependencies: ["71372A545B655E79"]
+		id: "2BD2D53F03587CA8"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			id: "5C35A411D3551426"
+			type: "xp_levels"
+			xp_levels: 20
+		}]
+		tasks: [{
+			id: "5751417629F57EED"
+			item: { count: 1, id: "ars_nouveau:battlemage_robes" }
+			type: "item"
+		}]
+		x: 2.0d
+		y: 5.0d
+	}]
+}

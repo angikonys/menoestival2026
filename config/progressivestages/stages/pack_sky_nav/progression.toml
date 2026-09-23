@@ -1,0 +1,6 @@
+# Accordé par une quête FTB : Stage Reward -> "pack_sky_nav"
+
+[unlock]
+toast = "Navigation céleste débloquée !"
+title = "&d&lNavigation céleste"
+sound = "minecraft:ui.toast.challenge_complete"

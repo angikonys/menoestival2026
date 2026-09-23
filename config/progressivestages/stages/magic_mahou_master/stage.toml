@@ -1,0 +1,20 @@
+[schema]
+version = 4
+
+[stage]
+id = "magic_mahou_master"
+display_name = "Maître de Mahou Tsukai"
+description = "Yeux mystiques, Projection, sorts secrets, armes légendaires et parchemin d'Ascension."
+icon = "mahoutsukai:caliburn"
+dependencies = ["magic_mahou_adept"]
+dependency_mode = "all"
+dependency_count = 1
+category = "Magie"
+color = "#b02020"
+hidden = false
+scope = "team"
+tags = ["magic_progression"]
+
+[display]
+frame = "challenge"
+reveal = "dependencies"

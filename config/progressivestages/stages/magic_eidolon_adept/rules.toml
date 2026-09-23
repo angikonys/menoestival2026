@@ -1,0 +1,50 @@
+# Eidolon — rang Adepte
+# Généré automatiquement — ids vérifiés dans les jars du pack.
+
+[items]
+locked = [
+    "eidolon_repraised:arcane_gold_block",
+    "eidolon_repraised:arcane_gold_ingot",
+    "eidolon_repraised:arcane_gold_nugget",
+    "eidolon_repraised:bonechill_wand",
+    "eidolon_repraised:cleaving_axe",
+    "eidolon_repraised:glass_hand",
+    "eidolon_repraised:gravity_belt",
+    "eidolon_repraised:lesser_soul_gem",
+    "eidolon_repraised:planter",
+    "eidolon_repraised:reaper_scythe",
+    "eidolon_repraised:resolute_belt",
+    "eidolon_repraised:reversal_pick",
+    "eidolon_repraised:sanguine_amulet",
+    "eidolon_repraised:soul_enchanter",
+    "eidolon_repraised:void_amulet",
+    "eidolon_repraised:warded_mail",
+]
+
+[blocks]
+locked = [
+    "eidolon_repraised:arcane_gold_block",
+    "eidolon_repraised:planter",
+    "eidolon_repraised:soul_enchanter",
+]
+
+[recipes]
+# toute recette qui produit un objet verrouillé
+locked_items = [
+    "eidolon_repraised:arcane_gold_block",
+    "eidolon_repraised:arcane_gold_ingot",
+    "eidolon_repraised:arcane_gold_nugget",
+    "eidolon_repraised:bonechill_wand",
+    "eidolon_repraised:cleaving_axe",
+    "eidolon_repraised:glass_hand",
+    "eidolon_repraised:gravity_belt",
+    "eidolon_repraised:lesser_soul_gem",
+    "eidolon_repraised:planter",
+    "eidolon_repraised:reaper_scythe",
+    "eidolon_repraised:resolute_belt",
+    "eidolon_repraised:reversal_pick",
+    "eidolon_repraised:sanguine_amulet",
+    "eidolon_repraised:soul_enchanter",
+    "eidolon_repraised:void_amulet",
+    "eidolon_repraised:warded_mail",
+]

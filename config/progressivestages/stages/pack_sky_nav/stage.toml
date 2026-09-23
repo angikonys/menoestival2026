@@ -1,0 +1,20 @@
+[schema]
+version = 4
+
+[stage]
+id = "pack_sky_nav"
+display_name = "Navigation céleste"
+description = "Lévitite, châssis et pilotage des vaisseaux, roue à Starbuncle, construction au-dessus de Y 320. Accordée par la voie steampunk ou par l'Ascension ésotérique."
+icon = "aeronautics:levitite"
+dependencies = []
+dependency_mode = "all"
+dependency_count = 1
+category = "Ciel"
+color = "#bfe8ff"
+hidden = false
+scope = "team"
+tags = ["sky"]
+
+[display]
+frame = "goal"
+reveal = "always"

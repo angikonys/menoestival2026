@@ -1,0 +1,20 @@
+[schema]
+version = 4
+
+[stage]
+id = "magic_eidolon_adept"
+display_name = "Adepte d'Eidolon"
+description = "Or arcanique, gemmes d'âme mineures, enchanteur d'âme et reliques intermédiaires."
+icon = "eidolon_repraised:lesser_soul_gem"
+dependencies = []
+dependency_mode = "all"
+dependency_count = 1
+category = "Magie"
+color = "#b07ad6"
+hidden = false
+scope = "team"
+tags = ["magic_progression"]
+
+[display]
+frame = "goal"
+reveal = "dependencies"

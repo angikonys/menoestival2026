@@ -1,9 +1,46 @@
+# Ère Aérienne = civilisation steampunk. Donne aussi pack_sky_nav via la quête.
 # Généré automatiquement — modids lus dans les jars du dossier mods/.
 
 [items]
 locked = [
-    "mod:aeronautics",   # Create Aeronautics
-    "mod:simulated",   # Create Simulated (noyau physique inclus dans le jar Aeronautics)
+    # Aéronautique steampunk (le châssis et la lévitite sont dans pack_sky_nav)
+    "aeronautics:adjustable_burner",
+    "aeronautics:black_envelope",
+    "aeronautics:black_envelope_encased_shaft",
+    "aeronautics:blue_envelope",
+    "aeronautics:blue_envelope_encased_shaft",
+    "aeronautics:brown_envelope",
+    "aeronautics:brown_envelope_encased_shaft",
+    "aeronautics:cyan_envelope",
+    "aeronautics:cyan_envelope_encased_shaft",
+    "aeronautics:gray_envelope",
+    "aeronautics:gray_envelope_encased_shaft",
+    "aeronautics:green_envelope",
+    "aeronautics:green_envelope_encased_shaft",
+    "aeronautics:light_blue_envelope",
+    "aeronautics:light_blue_envelope_encased_shaft",
+    "aeronautics:light_gray_envelope",
+    "aeronautics:light_gray_envelope_encased_shaft",
+    "aeronautics:lime_envelope",
+    "aeronautics:lime_envelope_encased_shaft",
+    "aeronautics:magenta_envelope",
+    "aeronautics:magenta_envelope_encased_shaft",
+    "aeronautics:mounted_potato_cannon",
+    "aeronautics:music_disc_cloud_skipper",
+    "aeronautics:orange_envelope",
+    "aeronautics:orange_envelope_encased_shaft",
+    "aeronautics:pink_envelope",
+    "aeronautics:pink_envelope_encased_shaft",
+    "aeronautics:purple_envelope",
+    "aeronautics:purple_envelope_encased_shaft",
+    "aeronautics:red_envelope",
+    "aeronautics:red_envelope_encased_shaft",
+    "aeronautics:smart_propeller",
+    "aeronautics:steam_vent",
+    "aeronautics:white_envelope",
+    "aeronautics:white_envelope_encased_shaft",
+    "aeronautics:yellow_envelope",
+    "aeronautics:yellow_envelope_encased_shaft",
     "mod:offroad",   # Offroad (inclus dans le jar Aeronautics)
     "mod:create_aeronautics_automated_logistics",   # Create Aeronautics: Automated Logistics
     "mod:create_aeronautics_throwable_rope_connector",   # Create Aeronautics: Throwable Rope Connector
@@ -15,8 +52,43 @@ locked = [
 
 [blocks]
 locked = [
-    "mod:aeronautics",   # Create Aeronautics
-    "mod:simulated",   # Create Simulated (noyau physique inclus dans le jar Aeronautics)
+    # Aéronautique steampunk (blocs)
+    "aeronautics:adjustable_burner",
+    "aeronautics:black_envelope",
+    "aeronautics:black_envelope_encased_shaft",
+    "aeronautics:blue_envelope",
+    "aeronautics:blue_envelope_encased_shaft",
+    "aeronautics:brown_envelope",
+    "aeronautics:brown_envelope_encased_shaft",
+    "aeronautics:cyan_envelope",
+    "aeronautics:cyan_envelope_encased_shaft",
+    "aeronautics:gray_envelope",
+    "aeronautics:gray_envelope_encased_shaft",
+    "aeronautics:green_envelope",
+    "aeronautics:green_envelope_encased_shaft",
+    "aeronautics:light_blue_envelope",
+    "aeronautics:light_blue_envelope_encased_shaft",
+    "aeronautics:light_gray_envelope",
+    "aeronautics:light_gray_envelope_encased_shaft",
+    "aeronautics:lime_envelope",
+    "aeronautics:lime_envelope_encased_shaft",
+    "aeronautics:magenta_envelope",
+    "aeronautics:magenta_envelope_encased_shaft",
+    "aeronautics:mounted_potato_cannon",
+    "aeronautics:orange_envelope",
+    "aeronautics:orange_envelope_encased_shaft",
+    "aeronautics:pink_envelope",
+    "aeronautics:pink_envelope_encased_shaft",
+    "aeronautics:purple_envelope",
+    "aeronautics:purple_envelope_encased_shaft",
+    "aeronautics:red_envelope",
+    "aeronautics:red_envelope_encased_shaft",
+    "aeronautics:smart_propeller",
+    "aeronautics:steam_vent",
+    "aeronautics:white_envelope",
+    "aeronautics:white_envelope_encased_shaft",
+    "aeronautics:yellow_envelope",
+    "aeronautics:yellow_envelope_encased_shaft",
     "mod:offroad",   # Offroad (inclus dans le jar Aeronautics)
     "mod:create_aeronautics_automated_logistics",   # Create Aeronautics: Automated Logistics
     "mod:create_aeronautics_throwable_rope_connector",   # Create Aeronautics: Throwable Rope Connector
@@ -29,8 +101,6 @@ locked = [
 [recipes]
 # recettes appartenant au mod (même si la sortie est vanilla)
 locked_ids = [
-    "mod:aeronautics",
-    "mod:simulated",
     "mod:offroad",
     "mod:create_aeronautics_automated_logistics",
     "mod:create_aeronautics_throwable_rope_connector",
@@ -41,8 +111,44 @@ locked_ids = [
 ]
 # toute recette qui produit un item verrouillé
 locked_items = [
-    "mod:aeronautics",   # Create Aeronautics
-    "mod:simulated",   # Create Simulated (noyau physique inclus dans le jar Aeronautics)
+    # Aéronautique steampunk
+    "aeronautics:adjustable_burner",
+    "aeronautics:black_envelope",
+    "aeronautics:black_envelope_encased_shaft",
+    "aeronautics:blue_envelope",
+    "aeronautics:blue_envelope_encased_shaft",
+    "aeronautics:brown_envelope",
+    "aeronautics:brown_envelope_encased_shaft",
+    "aeronautics:cyan_envelope",
+    "aeronautics:cyan_envelope_encased_shaft",
+    "aeronautics:gray_envelope",
+    "aeronautics:gray_envelope_encased_shaft",
+    "aeronautics:green_envelope",
+    "aeronautics:green_envelope_encased_shaft",
+    "aeronautics:light_blue_envelope",
+    "aeronautics:light_blue_envelope_encased_shaft",
+    "aeronautics:light_gray_envelope",
+    "aeronautics:light_gray_envelope_encased_shaft",
+    "aeronautics:lime_envelope",
+    "aeronautics:lime_envelope_encased_shaft",
+    "aeronautics:magenta_envelope",
+    "aeronautics:magenta_envelope_encased_shaft",
+    "aeronautics:mounted_potato_cannon",
+    "aeronautics:music_disc_cloud_skipper",
+    "aeronautics:orange_envelope",
+    "aeronautics:orange_envelope_encased_shaft",
+    "aeronautics:pink_envelope",
+    "aeronautics:pink_envelope_encased_shaft",
+    "aeronautics:purple_envelope",
+    "aeronautics:purple_envelope_encased_shaft",
+    "aeronautics:red_envelope",
+    "aeronautics:red_envelope_encased_shaft",
+    "aeronautics:smart_propeller",
+    "aeronautics:steam_vent",
+    "aeronautics:white_envelope",
+    "aeronautics:white_envelope_encased_shaft",
+    "aeronautics:yellow_envelope",
+    "aeronautics:yellow_envelope_encased_shaft",
     "mod:offroad",   # Offroad (inclus dans le jar Aeronautics)
     "mod:create_aeronautics_automated_logistics",   # Create Aeronautics: Automated Logistics
     "mod:create_aeronautics_throwable_rope_connector",   # Create Aeronautics: Throwable Rope Connector

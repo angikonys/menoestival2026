@@ -1,0 +1,78 @@
+# Mahou Tsukai — rang Maître
+# Généré automatiquement — ids vérifiés dans les jars du pack.
+
+[items]
+locked = [
+    "mahoutsukai:black_fire",
+    "mahoutsukai:caliburn",
+    "mahoutsukai:clarent",
+    "mahoutsukai:morgan",
+    "mahoutsukai:nobu",
+    "mahoutsukai:proximity_projection_keys",
+    "mahoutsukai:replica",
+    "mahoutsukai:rhongomyniad",
+    "mahoutsukai:rule_breaker",
+    "mahoutsukai:scroll_ascension",
+    "mahoutsukai:scroll_black_flame",
+    "mahoutsukai:scroll_butterfly_effect",
+    "mahoutsukai:scroll_cup_of_heaven",
+    "mahoutsukai:scroll_death_collection",
+    "mahoutsukai:scroll_fallen_down",
+    "mahoutsukai:scroll_fay_sight",
+    "mahoutsukai:scroll_insight",
+    "mahoutsukai:scroll_mystic_eyes",
+    "mahoutsukai:scroll_prediction",
+    "mahoutsukai:scroll_projection",
+    "mahoutsukai:scroll_proximity_projection",
+    "mahoutsukai:scroll_reality_marble",
+    "mahoutsukai:scroll_reversion_eyes",
+    "mahoutsukai:scroll_rho_aias",
+    "mahoutsukai:scroll_treasury_projection",
+    "mahoutsukai:scroll_weapon_shooter",
+    "mahoutsukai:staff_emrys",
+    "mahoutsukai:theripper",
+    "mahoutsukai:treasury_projection_gauntlet",
+    "mahoutsukai:weapon_projectile_bow",
+    "mahoutsukai:william",
+]
+
+[blocks]
+locked = [
+    "mahoutsukai:black_fire",
+]
+
+[recipes]
+# toute recette qui produit un objet verrouillé
+locked_items = [
+    "mahoutsukai:black_fire",
+    "mahoutsukai:caliburn",
+    "mahoutsukai:clarent",
+    "mahoutsukai:morgan",
+    "mahoutsukai:nobu",
+    "mahoutsukai:proximity_projection_keys",
+    "mahoutsukai:replica",
+    "mahoutsukai:rhongomyniad",
+    "mahoutsukai:rule_breaker",
+    "mahoutsukai:scroll_ascension",
+    "mahoutsukai:scroll_black_flame",
+    "mahoutsukai:scroll_butterfly_effect",
+    "mahoutsukai:scroll_cup_of_heaven",
+    "mahoutsukai:scroll_death_collection",
+    "mahoutsukai:scroll_fallen_down",
+    "mahoutsukai:scroll_fay_sight",
+    "mahoutsukai:scroll_insight",
+    "mahoutsukai:scroll_mystic_eyes",
+    "mahoutsukai:scroll_prediction",
+    "mahoutsukai:scroll_projection",
+    "mahoutsukai:scroll_proximity_projection",
+    "mahoutsukai:scroll_reality_marble",
+    "mahoutsukai:scroll_reversion_eyes",
+    "mahoutsukai:scroll_rho_aias",
+    "mahoutsukai:scroll_treasury_projection",
+    "mahoutsukai:scroll_weapon_shooter",
+    "mahoutsukai:staff_emrys",
+    "mahoutsukai:theripper",
+    "mahoutsukai:treasury_projection_gauntlet",
+    "mahoutsukai:weapon_projectile_bow",
+    "mahoutsukai:william",
+]

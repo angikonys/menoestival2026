@@ -1,0 +1,40 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "archimage"
+	group: "1C04136890F85D41"
+	id: "1D933D789DB5AA1D"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [{
+		id: "50D3AE600EE25B1F"
+		shape: "gear"
+		size: 1.5d
+		rewards: [{
+			count: 1
+			id: "4305E85F58264533"
+			item: { count: 1, id: "kubejs:archmage_seal" }
+			type: "item"
+		}{
+			id: "391F9027A0A1F1B9"
+			type: "xp_levels"
+			xp_levels: 50
+		}]
+		tasks: [{
+			id: "627B35CA1B4902DD"
+			stage: "magic_ars_master"
+			type: "gamestage"
+		}{
+			id: "2F59BC54205235F8"
+			stage: "magic_eidolon_master"
+			type: "gamestage"
+		}{
+			id: "7EAB4662C4D380AD"
+			stage: "magic_mahou_master"
+			type: "gamestage"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

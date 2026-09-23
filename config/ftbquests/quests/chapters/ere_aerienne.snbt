@@ -97,7 +97,12 @@
 			stage: "pack_sky_era"
 			type: "gamestage"
 		}{
+			auto: "enabled"
 			id: "5BB895E8472CE2A6"
+			stage: "pack_sky_nav"
+			type: "gamestage"
+		}{
+			id: "4E34F77D86CF1474"
 			type: "xp_levels"
 			xp_levels: 20
 		}]

@@ -1,0 +1,20 @@
+[schema]
+version = 4
+
+[stage]
+id = "magic_ars_master"
+display_name = "Maître d'Ars Nouveau"
+description = "Grimoire d'archimage, glyphes de niveau 3, armure de mage de bataille et focus élémentaires."
+icon = "ars_nouveau:archmage_spell_book"
+dependencies = ["magic_ars_adept"]
+dependency_mode = "all"
+dependency_count = 1
+category = "Magie"
+color = "#3f6ee0"
+hidden = false
+scope = "team"
+tags = ["magic_progression"]
+
+[display]
+frame = "challenge"
+reveal = "dependencies"
