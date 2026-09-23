@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/create_oxidized.pw.toml"
-hash = "8f7641c2627c926306068f968495927e407016ed72c374d8bf811b710dd04592"
+hash = "4055d989b565c289e4d1209e6af71fd62160080e78a09f63574e16e5c88ec0e9"
 metafile = true
 
 [[files]]
@@ -1018,11 +1018,6 @@ metafile = true
 [[files]]
 file = "mods/wunderlib-neoforge.pw.toml"
 hash = "7fc1d9c484e21dae070b9b28b997f9764310414db70f5526718730c673614c53"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "f9bed0d9bfdd04fa3debfe2aab1757fca448201e5b95944815924513801bf56a"
 metafile = true
 
 [[files]]
