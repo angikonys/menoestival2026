@@ -65,11 +65,11 @@ show_inventory_button = true
 	#When false, players can freely move locked items between inventory and chests
 	#This allows players to store locked items for later use once they unlock the stage
 	#Ignored if block_item_inventory is true (which blocks all interaction)
-	block_item_mouse_pickup = true
+	block_item_mouse_pickup = false
 	#Block item holding in inventory (auto-drop locked items)
 	#This is the strictest option — locked items are dropped on the ground
 	#If false, see block_item_hotbar and block_item_mouse_pickup for softer alternatives
-	block_item_inventory = true
+	block_item_inventory = false
 	#Frequency (in ticks; 20 = 1 second) to scan inventories and drop locked items.
 	#Default 0 = disabled. Pickup blocking still prevents NEW locked items from
 	#entering inventories. Periodic scanning is only useful when stages get
@@ -87,13 +87,13 @@ show_inventory_button = true
 	#Block placement of locked blocks
 	block_block_placement = true
 	#Block right-clicking locked blocks
-	block_block_interaction = true
+	block_block_interaction = false
 	#Block travel to locked dimensions
 	block_dimension_travel = true
 	#Block items from locked mods
 	block_locked_mods = true
 	#Block Create-style item-on-block interactions
-	block_interactions = true
+	block_interactions = false
 	#Block attacking locked entities
 	#If true, players cannot attack entity types locked behind a stage
 	block_entity_attack = true
@@ -116,7 +116,7 @@ show_inventory_button = true
 	#Sanitizes generated loot and inventories, and blocks locked anvil applications.
 	block_enchants = true
 	#Block opening locked containers/GUIs (screens category)
-	block_screen_open = true
+	block_screen_open = false
 	#Hide AND block villager / wandering-trader offers whose result item is locked
 	#(trades category, plus item/enchant-locked results). Server-authoritative: a
 	#modified client still can't complete a hidden trade. Set false to disable all

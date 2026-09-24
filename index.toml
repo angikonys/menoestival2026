@@ -78,7 +78,7 @@ hash = "a646bdcb10355efb8038327ccbce8bea18fb94cd2b48d727b72a62d73c28e40d"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "400de9a472395f49ccbb567298634855aa9f62713f742d22f53ba131b0991d2e"
+hash = "3b885ff5142c63d71852c58d97805ff99b9df8fea65bbed2e5b1d6c5d941564f"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
@@ -86,7 +86,7 @@ hash = "4321f45e176e9b7a07ca65b35f92f3978dd0c48af6790b2697d3aa07c5e29658"
 
 [[files]]
 file = "config/progressivestages/progressivestages.toml"
-hash = "2a4882b719aef50932676871c66d156a6452c19da719d52add0986f624245061"
+hash = "e523c37269090d96d2cdd5d4abfc1f6a6da0c526225be6455ec7f5c9e462f168"
 
 [[files]]
 file = "config/progressivestages/stages/magic_ars_adept/progression.toml"
@@ -1038,3 +1038,16 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "a77ad8415551594d437c8a700131028fe6ec870dd524d3c966cd8042d0d30171"
 metafile = true
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "f687ca7972827d4d1adc94582baef9400e7d344dc231fd11c33a39587504fe50"
+preserve = true
+
+[[files]]
+file = "config/c2me.toml"
+hash = "f139850cdbb014d6271ea8470acc528e29570233ddba07e0ab1492e1e34f6c48"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "72187c78d0569172c8c41b02bc862eac6c264b7d12aaa9979d018cbcf5993ba7"
