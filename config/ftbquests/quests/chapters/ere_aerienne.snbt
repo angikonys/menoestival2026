@@ -57,9 +57,9 @@
 		dependencies: ["4BFB6410C40B4106"]
 		id: "343BC4988BEC243C"
 		rewards: [{
-			count: 4
+			count: 1
 			id: "4C96FAB5769CCE82"
-			item: { count: 1, id: "tfmg:aluminum_lamp" }
+			item: { count: 1, id: "creategoggles:goggle_leather_helmet" }
 			type: "item"
 		}]
 		tasks: [{
