@@ -46,6 +46,16 @@
 			id: "42E67C6120A32411"
 			item: { count: 1, id: "tfmg:flamethrower" }
 			type: "item"
+		}{
+			count: 2
+			id: "58FAA4505AF3894F"
+			item: { count: 1, id: "ftbquests:screen_1" }
+			type: "item"
+		}{
+			count: 1
+			id: "21B378404A7898A4"
+			item: { count: 1, id: "ftbquests:task_screen_configurator" }
+			type: "item"
 		}]
 		tasks: [{
 			id: "7BD47DB3CFEB4DAA"

@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Advancedperipherals/world.toml"
+hash = "315d02058feceb0f98b57d9a019977ce9dd411aecc03fc34851e328b99a5a2a1"
+
+[[files]]
 file = "config/almostunified/unification/materials.json"
 hash = "94b0e91c5a04f45a4090e11a29537169420dc49057b7f311fc891fd87a53747f"
+
+[[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "97b9b2314b196f3bf665622d7f28c506594038ac0b3944d3f96441eeadf46089"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -38,11 +46,11 @@ hash = "79a637d3a749acf480dc756136a9ec4ff06946a9c75601d2dcbd3e907afbc5c1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ere_electrique.snbt"
-hash = "c3c9d37dc76a61b6083af0a2421abc026b5ef0df600b12b66c786ff41f2c2930"
+hash = "d567b8821b2bc396cc4751c19dbaea32d671af9aa0dbbc154266c65eeee3cbb6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ere_industrielle.snbt"
-hash = "7f0396e3e72dff6bdba5aed36ae923adcfb1ec5d3163468ef4d7bccffb751af9"
+hash = "bee32434b3a04fbd1cac3c27ba9f04bbdf68c2cd93bf3342f9df8df10f84ee7f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ere_militaire.snbt"
@@ -58,11 +66,7 @@ hash = "5ae1b218fd9edd3aa0a7a037f9e295521b7e86cf51560fdaf80b557aa5938531"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/eveil_psychique.snbt"
-hash = "6189811158cad1e110c62af07ab41ccc187166238d8c7bfd559cf77e9beeb7dc"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/introduction_a_create.snbt"
-hash = "414e1dea64a6b6b0994ccaafa2a3708f69d162eb7d2a7485f8c7686f809d39a0"
+hash = "8e1213db37bbd288e75dd419a101340a7d1fffbf1dc9c8936588add0dc454973"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/maitrise_psionique.snbt"
@@ -70,7 +74,7 @@ hash = "c2e4394cf6ba4446fcd051c12b6b534c41b79d84307f2c2512f479301ec56fa8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/perception_psions.snbt"
-hash = "7d445e3e5259bd4bb168a6d5ebc0445d7704f98a5242bced9b3e0b878c80511c"
+hash = "a646bdcb10355efb8038327ccbce8bea18fb94cd2b48d727b72a62d73c28e40d"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -78,7 +82,7 @@ hash = "400de9a472395f49ccbb567298634855aa9f62713f742d22f53ba131b0991d2e"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "671b53baee5e3411c259883c5e498bdff00969041f88b04bc7d943e1c2d82993"
+hash = "4321f45e176e9b7a07ca65b35f92f3978dd0c48af6790b2697d3aa07c5e29658"
 
 [[files]]
 file = "config/progressivestages/progressivestages.toml"
@@ -341,16 +345,16 @@ file = "kubejs/server_scripts/ore_excavation.js"
 hash = "55adea7534e67bb43b1e117e332dfc3f86a4b4803ada3a4dffdba34cea804572"
 
 [[files]]
+file = "kubejs/server_scripts/quest_book.js"
+hash = "48c7b45da8f3db8e47270ec85b837561f1fe39891af2931e351d61c0b81e77bd"
+
+[[files]]
 file = "kubejs/server_scripts/resource_unification.js"
 hash = "a0f9d3607f2e401d7e6d6c56c9a9908764bdeaf3dd3d5311db71c0f13a678fa2"
 
 [[files]]
 file = "kubejs/server_scripts/sky_build_limit.js"
 hash = "41a56b45c2f5c4d4b8865fe60176fef5ab674c469248ec3823e9b3eacffacf6f"
-
-[[files]]
-file = "kubejs/server_scripts/stage_lock.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/startup_scripts/era_plans.js"
@@ -376,8 +380,8 @@ hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
 metafile = true
 
 [[files]]
-file = "mods/apple-skins.pw.toml"
-hash = "ae43513fa5d7eb4998d95ac3c8b9669a4c4a5bcff7e79756e968dce89339b2ea"
+file = "mods/appleskin.pw.toml"
+hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]

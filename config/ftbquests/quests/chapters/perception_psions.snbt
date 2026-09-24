@@ -99,7 +99,7 @@
 		}{
 			count: 1
 			id: "1218E23CFD3A9231"
-			item: { count: 1, id: "psi:encyclopaedia_psionica" }
+			item: { components: { "patchouli:book": "psi:encyclopaedia_psionica" }, count: 1, id: "patchouli:guide_book" }
 			type: "item"
 		}{
 			count: 1

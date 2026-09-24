@@ -1,10 +1,8 @@
 {
-	chapter.19E9BDE6D10B9A5E.title: "Introduction à create"
 	chapter_group.03F9E40C3DF35108.title: "Technologia"
 	chapter_group.1C04136890F85D41.title: "Magie"
 	chapter_group.43FA552E6CFF540A.title: "Exploration"
 	file.0000000000000001.title: "Menoestival 2026"
-	task.6E46B0BE31B9819A.title: "test stage"
 	chapter.21A2A5D39A76708D.title: "Ère Industrielle"
 	chapter.21A2A5D39A76708D.chapter_subtitle: ["La maîtrise du laiton"]
 	quest.25BBC4746B9B2003.title: "Alliage en série"
@@ -30,8 +28,9 @@
 	quest.64A34091F0ED69E6.title: "L'acier"
 	quest.64A34091F0ED69E6.quest_desc: ["Haut fourneau TFMG : minerai de fer broyé + fondant."]
 	quest.40AB4A9E3E6C1B91.title: "Premier forage"
+	quest.40AB4A9E3E6C1B91.quest_desc: ["Rends le fluide avec l'écran de quête reçu dans « L'acier » : pose-le, règle-le sur cette tâche avec le configurateur, puis pompe le fluide dedans."]
 	quest.7C4F2B36EDEE660D.title: "Raffiner"
-	quest.7C4F2B36EDEE660D.quest_desc: ["Construis une colonne de distillation et sépare le pétrole brut."]
+	quest.7C4F2B36EDEE660D.quest_desc: ["Construis une colonne de distillation et sépare le pétrole brut." "Rends le fluide avec l'écran de quête reçu dans « L'acier » : pose-le, règle-le sur cette tâche avec le configurateur, puis pompe le fluide dedans."]
 	quest.2E444E3D7647121C.title: "Le moteur"
 	quest.2E444E3D7647121C.quest_desc: ["Le moteur à explosion de TFMG, alimenté au diesel ou à l'essence."]
 	quest.43F145D55BED0BBF.title: "Ouvrir l'Ère Électrique"
@@ -45,7 +44,7 @@
 	quest.4339D6DBED22B749.quest_desc: ["Un générateur qui alimente plusieurs moteurs électriques."]
 	quest.2CD08436EA981076.title: "L'électronique"
 	quest.124C6058BA3D969E.title: "La chimie"
-	quest.124C6058BA3D969E.quest_desc: ["L'acide sulfurique servira à extraire l'uranium."]
+	quest.124C6058BA3D969E.quest_desc: ["L'acide sulfurique servira à extraire l'uranium." "Rends le fluide avec l'écran de quête reçu dans « L'acier » : pose-le, règle-le sur cette tâche avec le configurateur, puis pompe le fluide dedans."]
 	quest.4A02EE1D9A488353.title: "Le contrôle"
 	quest.4A02EE1D9A488353.quest_desc: ["Un ordinateur et un voltmètre : de quoi surveiller le réseau."]
 	quest.376D459538E944F5.title: "Ouvrir l'Ère Nucléaire"
@@ -71,6 +70,7 @@
 	quest.748AC595154D8BBE.quest_desc: ["Se valide automatiquement quand tu as l'Ère Électrique."]
 	task.3637E6BE5EDEBCD7.title: "Avoir l'Ère Électrique"
 	quest.126FD7D8F793C68D.title: "Carburants"
+	quest.126FD7D8F793C68D.quest_desc: ["Rends le fluide avec l'écran de quête reçu dans « L'acier » : pose-le, règle-le sur cette tâche avec le configurateur, puis pompe le fluide dedans."]
 	quest.62529AC9320EEFCC.title: "Calculer la trajectoire"
 	quest.62529AC9320EEFCC.quest_desc: ["Il faudra un ordinateur CC pour calculer les trajectoires."]
 	quest.7A5913F90CABB132.title: "Structure de fusée"

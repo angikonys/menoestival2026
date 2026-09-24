@@ -105,7 +105,7 @@
 		}{
 			count: 1
 			id: "5A8530A8AEF60082"
-			item: { count: 1, id: "railways:conductor_cap" }
+			item: { count: 1, id: "railways:red_conductor_cap" }
 			type: "item"
 		}]
 		tasks: [{
