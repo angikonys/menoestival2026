@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Advancedperipherals/world.toml"
-hash = "315d02058feceb0f98b57d9a019977ce9dd411aecc03fc34851e328b99a5a2a1"
+hash = "b9dcc5e7c2cbb453d11a4324b99341e6b08ad57e042151bf3e4b6c4336edd010"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
@@ -10,7 +10,7 @@ hash = "94b0e91c5a04f45a4090e11a29537169420dc49057b7f311fc891fd87a53747f"
 
 [[files]]
 file = "config/ars_nouveau-common.toml"
-hash = "97b9b2314b196f3bf665622d7f28c506594038ac0b3944d3f96441eeadf46089"
+hash = "b1a7e267eac38e5dab7a225798f854333eb45a405e1caee6e895af1cc51b006f"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
