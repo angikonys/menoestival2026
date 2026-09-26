@@ -1041,7 +1041,7 @@ metafile = true
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "5d6e4a48e2a8489bfbac205c24f0a20407ddd0b965f29ee0a89f324a816187e0"
+hash = "783264347b03380af9d2edc4394f3792012a64877ba1c47944b338d3cf133410"
 
 [[files]]
 file = "config/c2me.toml"
