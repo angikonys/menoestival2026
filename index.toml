@@ -5,12 +5,20 @@ file = "config/Advancedperipherals/world.toml"
 hash = "b9dcc5e7c2cbb453d11a4324b99341e6b08ad57e042151bf3e4b6c4336edd010"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "bdfa83892874aa3b3595fc3b6aa5b83a8769a3af1a85bf6405660903938c10a9"
+
+[[files]]
 file = "config/almostunified/unification/materials.json"
 hash = "94b0e91c5a04f45a4090e11a29537169420dc49057b7f311fc891fd87a53747f"
 
 [[files]]
 file = "config/ars_nouveau-common.toml"
 hash = "b1a7e267eac38e5dab7a225798f854333eb45a405e1caee6e895af1cc51b006f"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "f139850cdbb014d6271ea8470acc528e29570233ddba07e0ab1492e1e34f6c48"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -83,6 +91,10 @@ hash = "3b885ff5142c63d71852c58d97805ff99b9df8fea65bbed2e5b1d6c5d941564f"
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
 hash = "4321f45e176e9b7a07ca65b35f92f3978dd0c48af6790b2697d3aa07c5e29658"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "72187c78d0569172c8c41b02bc862eac6c264b7d12aaa9979d018cbcf5993ba7"
 
 [[files]]
 file = "config/progressivestages/progressivestages.toml"
@@ -1038,15 +1050,3 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "a77ad8415551594d437c8a700131028fe6ec870dd524d3c966cd8042d0d30171"
 metafile = true
-
-[[files]]
-file = "config/DistantHorizons.toml"
-hash = "783264347b03380af9d2edc4394f3792012a64877ba1c47944b338d3cf133410"
-
-[[files]]
-file = "config/c2me.toml"
-hash = "f139850cdbb014d6271ea8470acc528e29570233ddba07e0ab1492e1e34f6c48"
-
-[[files]]
-file = "config/modernfix-mixins.properties"
-hash = "72187c78d0569172c8c41b02bc862eac6c264b7d12aaa9979d018cbcf5993ba7"
