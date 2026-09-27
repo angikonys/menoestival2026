@@ -9,7 +9,7 @@
 	#If "solo", each player has independent progression
 	team_mode = "ftb_teams"
 	#Enable debug logging for stage checks, lock queries, and team operations
-	debug_logging = false
+	debug_logging = true
 	#Enable linear progression (auto-grant dependency stages)
 	#If true, granting a stage also auto-grants all missing dependencies recursively
 	#If false, stages require explicit dependency satisfaction (admin can bypass with double-confirm)

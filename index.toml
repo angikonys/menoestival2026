@@ -98,7 +98,7 @@ hash = "72187c78d0569172c8c41b02bc862eac6c264b7d12aaa9979d018cbcf5993ba7"
 
 [[files]]
 file = "config/progressivestages/progressivestages.toml"
-hash = "e523c37269090d96d2cdd5d4abfc1f6a6da0c526225be6455ec7f5c9e462f168"
+hash = "2a6db8008d856159ab9c4048a3e0e227458e7b71d1e6c467a4ec160f694504e9"
 
 [[files]]
 file = "config/progressivestages/stages/magic_ars_adept/progression.toml"
