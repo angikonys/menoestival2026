@@ -1,0 +1,13 @@
+name = "EMF Compat: WATUT"
+filename = "emf_compat_watut_1.21.1_1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PIxeWxJ0/versions/1EyHB6pM/emf_compat_watut_1.21.1_1.0.0.jar"
+hash-format = "sha512"
+hash = "774d4056f03563b58a5e55131df650cbd6c7d3b1e1a565ca4105f4580fdf2e1005eea34b837ac6e4534fb13354181346534a57a7507bcd081c8976452cd67212"
+
+[update]
+[update.modrinth]
+mod-id = "PIxeWxJ0"
+version = "1EyHB6pM"

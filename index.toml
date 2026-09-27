@@ -767,13 +767,33 @@ hash = "9928efdeb23d4ba1586d2d1a6c3d51703907181fa8990bf6891cec76ac3be556"
 metafile = true
 
 [[files]]
+file = "mods/emf-compat-core.pw.toml"
+hash = "a222eef673ac26f0ee746dffbf8b5b018864349cdbf673f5e4377e39ff3c96b1"
+metafile = true
+
+[[files]]
+file = "mods/emf-compat-watut.pw.toml"
+hash = "15f3eb07bdac891efeb718fb52d83ec9e340611fe8d172fb2c4887d11f76701c"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "342782adb93645be7966119166557a4c29d4ea51469cb57eeb12fd6af458fcce"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "0ae06c97bf858f3941fd7369e34a71967e7a5c26c26b1cb7371a5be0f1842ecd"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "8cae33b1efef3e002d97f8baf1f78b33b6d723cba76f8c9485bf98ec85416322"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "42731772f3bde6bc35c48ff39a0b16c24edfa245c42d2ca8c8abd11f57edf4e7"
 metafile = true
 
 [[files]]
@@ -1079,6 +1099,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "3f4585a08b3c6e5b703ed002e11494c6d17938f697a2b498f6da31592e7eb350"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]
