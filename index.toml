@@ -1160,3 +1160,7 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "a77ad8415551594d437c8a700131028fe6ec870dd524d3c966cd8042d0d30171"
 metafile = true
+
+[[files]]
+file = "config/aiimprovements-common.toml"
+hash = "d04efa96d7a916f2d3df0d64d90d57e25ad6343895a148fa7819cbcaeedf6661"

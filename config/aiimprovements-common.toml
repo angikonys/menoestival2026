@@ -1,0 +1,31 @@
+#Entity Settings
+[entity]
+
+	#General
+	[entity.general]
+		allow_remove_calls = true
+		enable_call_bubbling = true
+
+	#Entity Mob
+	[entity.mob]
+
+		#Remove Look Goal
+		[entity.mob.remove_look_goal]
+			#Remove the look at goal (player or attack target) AI task.
+			remove_look_goal = true
+			is_allowlist = false
+			filter_list = []
+
+		#Remove Look Random
+		[entity.mob.remove_look_random]
+			#Remove the look at random position AI task.
+			remove_look_random = true
+			is_allowlist = false
+			filter_list = []
+
+		#Replace Look Controller
+		[entity.mob.replace_look_controller]
+			#Replaces the default look controller with a cached-math version.
+			replace_look_controller = true
+			is_allowlist = false
+			filter_list = []
