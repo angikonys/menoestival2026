@@ -24,6 +24,7 @@
 			auto: "enabled"
 			id: "52080392445BB531"
 			stage: "pack_sky_nav"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1
@@ -63,6 +64,7 @@
 			auto: "enabled"
 			id: "5173FEFAB52FE5B6"
 			stage: "pack_sky_nav"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1
@@ -98,6 +100,7 @@
 			auto: "enabled"
 			id: "7011A28BE9EA92D6"
 			stage: "pack_sky_nav"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1

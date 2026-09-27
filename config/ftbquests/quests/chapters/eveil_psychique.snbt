@@ -112,6 +112,7 @@
 			auto: "enabled"
 			id: "322FC4188FE4833E"
 			stage: "pack_psi"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1

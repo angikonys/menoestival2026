@@ -127,6 +127,7 @@
 			auto: "enabled"
 			id: "7C5926FD4354B5A8"
 			stage: "magic_eidolon_adept"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1
@@ -232,6 +233,7 @@
 			auto: "enabled"
 			id: "2579A72D30CA2731"
 			stage: "magic_eidolon_master"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1

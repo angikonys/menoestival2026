@@ -24,6 +24,7 @@
 			auto: "enabled"
 			id: "7390639101950ABC"
 			stage: "pack_psi"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1
@@ -55,6 +56,7 @@
 			auto: "enabled"
 			id: "4F484B161E2D845D"
 			stage: "pack_psi"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1
@@ -86,6 +88,7 @@
 			auto: "enabled"
 			id: "7655D38D98C2D61F"
 			stage: "pack_psi"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1

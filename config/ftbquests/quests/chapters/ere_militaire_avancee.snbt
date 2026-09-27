@@ -85,6 +85,7 @@
 			auto: "enabled"
 			id: "23CBC84D7518DB00"
 			stage: "pack_military_advanced_era"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1

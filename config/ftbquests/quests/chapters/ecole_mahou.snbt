@@ -123,6 +123,7 @@
 			auto: "enabled"
 			id: "3CE23ADC0144EBFD"
 			stage: "magic_mahou_adept"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1
@@ -242,6 +243,7 @@
 			auto: "enabled"
 			id: "284AF22DEE872393"
 			stage: "magic_mahou_master"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1

@@ -110,6 +110,7 @@
 			auto: "enabled"
 			id: "5084E6D45D49A027"
 			stage: "pack_space_conquest"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1
@@ -233,6 +234,7 @@
 			auto: "enabled"
 			id: "735F27B0D8A9E0B8"
 			stage: "pack_sky_advanced_era"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1

@@ -101,6 +101,7 @@
 			auto: "enabled"
 			id: "3279DEC0E8A18932"
 			stage: "pack_nuclear_era"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1

@@ -137,6 +137,7 @@
 			auto: "enabled"
 			id: "1232B9F802F07F34"
 			stage: "pack_electric_era"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1

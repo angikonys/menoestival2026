@@ -115,6 +115,7 @@
 			auto: "enabled"
 			id: "5ABEF0EB916071ED"
 			stage: "magic_ars_adept"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1
@@ -270,6 +271,7 @@
 			auto: "enabled"
 			id: "3193C25CF0318EE0"
 			stage: "magic_ars_master"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 3

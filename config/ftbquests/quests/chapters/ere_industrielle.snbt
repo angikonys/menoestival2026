@@ -125,6 +125,7 @@
 			auto: "enabled"
 			id: "6610C26252AE4EA0"
 			stage: "pack_industrial_era"
+			team_reward: false
 			type: "gamestage"
 		}{
 			count: 1
