@@ -30,7 +30,7 @@ hash = "0d1c5b4d682ebbd094f9d2b5f10921dd1f88c91840741bf2f77b2515a336867b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ascension_esoterique.snbt"
-hash = "888bd3c9a8e28301b6a4a46a406a3ff544fe231df40107e6acdee927f6a27973"
+hash = "55b5af5447c9ccbacef85b2c05e689625e024016329a2042226014e5dfb898d0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/conquete_spatiale.snbt"
@@ -74,7 +74,7 @@ hash = "5ae1b218fd9edd3aa0a7a037f9e295521b7e86cf51560fdaf80b557aa5938531"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/eveil_psychique.snbt"
-hash = "8e1213db37bbd288e75dd419a101340a7d1fffbf1dc9c8936588add0dc454973"
+hash = "fb83a9c3eeae6b271898ad2eab60542b6a80f39a373badd5a3c3c82b849244bf"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/maitrise_psionique.snbt"
@@ -82,7 +82,7 @@ hash = "c2e4394cf6ba4446fcd051c12b6b534c41b79d84307f2c2512f479301ec56fa8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/perception_psions.snbt"
-hash = "a646bdcb10355efb8038327ccbce8bea18fb94cd2b48d727b72a62d73c28e40d"
+hash = "94fde35ac2d2986d9c84b1c2598b768139ab5e4b9b73fafda484cf27e41e5ae8"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -90,7 +90,7 @@ hash = "3b885ff5142c63d71852c58d97805ff99b9df8fea65bbed2e5b1d6c5d941564f"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "4321f45e176e9b7a07ca65b35f92f3978dd0c48af6790b2697d3aa07c5e29658"
+hash = "88e0195c127edef921fbba59f3d76547b258908467e352151419b9a5fc67380c"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -992,6 +992,11 @@ hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "8045c493b0eb0196880817b529417742bb65b250805cc14f7abe5ac5f1e4d4b1"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "83a7b840686a417dfe1161ee5cd918989dd2d901c9013bf85e93a30f597260f7"
 metafile = true
@@ -999,6 +1004,26 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "f16653008ac36e8f4a4bc2461b9c8b798534d558c4890e6acdee4d29e49cd305"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3eb86ece9a58af9bdac221c4ddfd1b49cdfc0b42bf73cb3f953bc509d9a5c305"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "5d4e493a74a7deb175d278274e6990f92d1a3910fae5d4866a1520bbca9acce2"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]

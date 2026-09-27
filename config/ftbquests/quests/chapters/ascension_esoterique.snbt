@@ -21,8 +21,13 @@
 		dependencies: ["6A90DC68083A4650"]
 		id: "673B279E5407C2FC"
 		rewards: [{
-			count: 1
+			auto: "enabled"
 			id: "52080392445BB531"
+			stage: "pack_sky_nav"
+			type: "gamestage"
+		}{
+			count: 1
+			id: "4B43802BFDC7DB8D"
 			item: { count: 1, id: "ars_nouveau:thread_gliding" }
 			type: "item"
 		}]
@@ -55,8 +60,13 @@
 		dependencies: ["1DC23B95CD1E7EE9"]
 		id: "325EBC4534D0DF21"
 		rewards: [{
-			count: 1
+			auto: "enabled"
 			id: "5173FEFAB52FE5B6"
+			stage: "pack_sky_nav"
+			type: "gamestage"
+		}{
+			count: 1
+			id: "751A9127C5B432ED"
 			item: { count: 1, id: "eidolon_repraised:spawn_raven" }
 			type: "item"
 		}]
@@ -85,8 +95,13 @@
 		dependencies: ["5BEA167ED9CD0B6A"]
 		id: "345CC8A1156E6146"
 		rewards: [{
-			count: 1
+			auto: "enabled"
 			id: "7011A28BE9EA92D6"
+			stage: "pack_sky_nav"
+			type: "gamestage"
+		}{
+			count: 1
+			id: "5F213F35C7DAC7DD"
 			item: { count: 1, id: "mahoutsukai:scroll_spatial_disorientation" }
 			type: "item"
 		}]
@@ -111,27 +126,26 @@
 		size: 1.5d
 		dependency_requirement: "one_completed"
 		rewards: [{
-			auto: "enabled"
-			id: "6FEE93E6F639B0BF"
-			stage: "pack_sky_nav"
-			type: "gamestage"
-		}{
 			count: 1
-			id: "373866F531470C8F"
+			id: "6FEE93E6F639B0BF"
 			item: { count: 1, id: "aeronautics:aviators_goggles" }
 			type: "item"
 		}{
 			count: 2
-			id: "2A752BEE3B57DBF0"
+			id: "373866F531470C8F"
 			item: { count: 1, id: "aeronautics:propeller_bearing" }
 			type: "item"
 		}{
 			count: 2
-			id: "23E9FEE831DC4B4E"
+			id: "2A752BEE3B57DBF0"
 			item: { count: 1, id: "aeronautics:wooden_propeller" }
 			type: "item"
 		}]
-		tasks: []
+		tasks: [{
+			id: "67B5E432BC4439BC"
+			stage: "pack_sky_nav"
+			type: "gamestage"
+		}]
 		x: 5.0d
 		y: 0.0d
 	}{

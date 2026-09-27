@@ -109,8 +109,13 @@
 		dependencies: ["2400A7EE430F2AE8"]
 		id: "1A239A127869D0C8"
 		rewards: [{
-			count: 1
+			auto: "enabled"
 			id: "322FC4188FE4833E"
+			stage: "pack_psi"
+			type: "gamestage"
+		}{
+			count: 1
+			id: "2FDB7B69CDAF8CF2"
 			item: { count: 1, id: "advancedperipherals:chat_box" }
 			type: "item"
 		}]
@@ -133,22 +138,21 @@
 		shape: "gear"
 		size: 1.5d
 		rewards: [{
-			auto: "enabled"
-			id: "5C1CB76501A375E0"
-			stage: "pack_psi"
-			type: "gamestage"
-		}{
 			count: 1
-			id: "243581FE15BE424F"
+			id: "5C1CB76501A375E0"
 			item: { components: { "patchouli:book": "psi:encyclopaedia_psionica" }, count: 1, id: "patchouli:guide_book" }
 			type: "item"
 		}{
 			count: 1
-			id: "71A5641074E1F750"
+			id: "243581FE15BE424F"
 			item: { count: 1, id: "psi:cad_colorizer_psi" }
 			type: "item"
 		}]
-		tasks: []
+		tasks: [{
+			id: "6A8C05FCC20C1446"
+			stage: "pack_psi"
+			type: "gamestage"
+		}]
 		x: 10.0d
 		y: 0.0d
 	}]
