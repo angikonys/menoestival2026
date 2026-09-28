@@ -9,7 +9,7 @@
 	#If "solo", each player has independent progression
 	team_mode = "ftb_teams"
 	#Enable debug logging for stage checks, lock queries, and team operations
-	debug_logging = true
+	debug_logging = false
 	#Enable linear progression (auto-grant dependency stages)
 	#If true, granting a stage also auto-grants all missing dependencies recursively
 	#If false, stages require explicit dependency satisfaction (admin can bypass with double-confirm)
@@ -96,13 +96,13 @@ show_inventory_button = true
 	block_interactions = false
 	#Block attacking locked entities
 	#If true, players cannot attack entity types locked behind a stage
-	block_entity_attack = true
+	block_entity_attack = false
 	#Gate mob spawns behind stages
 	#If true, mobs listed in spawn_entities / spawn_entity_tags / spawn_entity_mods
 	#are cancelled only when every player inside simulation distance is denied the mob.
 	#Mixed multiplayer access keeps the spawn and conceals it from denied players.
 	#Useful for 'world responds to progression' setups (e.g., Born In Chaos mobs only spawn after a quest).
-	block_mob_spawns = true
+	block_mob_spawns = false
 	#Legacy shared radius for nearest player ownership checks
 	#Mob spawn cancellation now uses the server simulation distance instead.
 	#This radius remains in use for crop, loot, fluid, replacement, and compatibility checks.
@@ -114,30 +114,30 @@ show_inventory_button = true
 	#Gate enchantment generation and retention behind stages.
 	#Filters enchanting table and player aware loot candidates.
 	#Sanitizes generated loot and inventories, and blocks locked anvil applications.
-	block_enchants = true
+	block_enchants = false
 	#Block opening locked containers/GUIs (screens category)
 	block_screen_open = false
 	#Hide AND block villager / wandering-trader offers whose result item is locked
 	#(trades category, plus item/enchant-locked results). Server-authoritative: a
 	#modified client still can't complete a hidden trade. Set false to disable all
 	#trade gating.
-	block_trades = true
+	block_trades = false
 	#Block planting, bonemealing, and random-tick growth of locked crops.
-	block_crop_growth = true
+	block_crop_growth = false
 	#Block taming and breeding interactions with locked pets.
-	block_pet_interact = true
+	block_pet_interact = false
 	#Filter locked loot from mob drops and block drops before the nearest player can pick them up.
-	block_loot_drops = true
+	block_loot_drops = false
 	#Apply [[mobs.replacements]] - swap locked mobs with a configured substitute on spawn.
-	block_mob_replacements = true
+	block_mob_replacements = false
 	#Enforce [[regions]] gating: push players back from locked regions, cancel locked block breaks/places, and clear explosions in locked regions.
-	block_region_entry = true
+	block_region_entry = false
 	#How often (in ticks) to run region/structure entry checks. 20 = once per second.
 	# Default: 20
 	# Range: 1 ~ 200
-	region_tick_frequency = 20
+	region_tick_frequency = 200
 	#Enforce [structures].locked_entry gating: push players out of locked structures, apply structures.rules flags.
-	block_structure_entry = true
+	block_structure_entry = false
 	#Allow creative mode players to bypass stage locks
 	#If true, players in creative mode can use/place locked items
 	#They will still be locked when switching to survival
@@ -161,7 +161,7 @@ show_inventory_button = true
 	#an immediate re-check, so this is mostly a safety-net cadence.
 	# Default: 20
 	# Range: 5 ~ 200
-	trigger_poll_interval = 20
+	trigger_poll_interval = 200
 	#Cooldown in milliseconds between lock notification messages
 	#Prevents chat spam when standing on locked items
 	# Default: 3000
@@ -227,7 +227,7 @@ show_stage_description_on_tooltip = true
 	#Cache size per player
 	# Default: 1024
 	# Range: 128 ~ 8192
-	lock_cache_size = 1024
+	lock_cache_size = 16384
 
 [messages]
 	#Text shown in place of item name when mask_locked_item_names is true.
