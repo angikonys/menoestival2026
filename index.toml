@@ -899,6 +899,11 @@ hash = "672fe2518a1795814efc943c3e3cf8dc1b993bc7d838cc62950acfaba348c2c7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "2d493d3343bb82fb448f107a7846e0cc14b06c8195cf8b6b42c445f2e1a6759b"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "37c27d962c71db2d697dbb7e26f6ddc81e6b2a9d96b4e1dcdb89216e302ee06b"
 metafile = true
