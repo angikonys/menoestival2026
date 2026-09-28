@@ -454,11 +454,6 @@ hash = "c8b16a9466293917d779a51b05a3d7678d94c93c422c56369b3107b9aee72e37"
 metafile = true
 
 [[files]]
-file = "mods/bettermultiplayersleep.pw.toml"
-hash = "8a8c14bd9408fc1b19185ed3207f328a8e81ba138125647f80ee3cb568b6e7e9"
-metafile = true
-
-[[files]]
 file = "mods/big-contraptions.pw.toml"
 hash = "d68954b43172e7a7c03381496e0314e02e05730187c22f4cfd2985b40e952157"
 metafile = true
