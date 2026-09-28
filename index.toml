@@ -989,6 +989,10 @@ hash = "9d9983494b6902cf16dd05045c06a25d733309cc181af118ee389c48612e3c07"
 metafile = true
 
 [[files]]
+file = "mods/menoria_perf-1.0.0.jar"
+hash = "8f68ca26fa6d0e5017d5edc7af700c15d181c7c8c2e28c45a65696d6e31c9e92"
+
+[[files]]
 file = "mods/mmlib.pw.toml"
 hash = "9149847f8d53ae6fac76d782d5f9cc59cb5f7721cde8e02b802a4c77aad04233"
 metafile = true
