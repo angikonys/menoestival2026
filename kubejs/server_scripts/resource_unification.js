@@ -64,6 +64,27 @@ ServerEvents.recipes(event => {
   }).id('kubejs:cbc/forge_steel_nugget_16')
 
   // ---------------------------------------------------------------
+  // 2b. Aluminium sans électricité (Ère Industrielle)
+  //     TFMG ne fait l'aluminium que par électrolyse (électrodes +
+  //     courant), verrouillée par l'Ère Électrique. Or l'Ère Aérienne
+  //     ne demande que l'Ère Industrielle et exige des tôles d'alu.
+  //     Recette de secours au mixeur chauffé (blaze burner), moins rentable
+  //     que l'électrolyse (1 lingot contre ~2 en moyenne).
+  // ---------------------------------------------------------------
+  event.custom({
+    type: 'create:mixing',
+    heat_requirement: 'heated',
+    ingredients: [
+      { item: 'tfmg:bauxite_powder' },
+      { item: 'tfmg:bauxite_powder' },
+      { item: 'tfmg:bauxite_powder' },
+      { item: 'tfmg:bauxite_powder' },
+      { item: 'tfmg:coal_coke_dust' }
+    ],
+    results: [{ id: 'tfmg:aluminum_ingot' }]
+  }).id('kubejs:tfmg/aluminum_from_bauxite_mixing')
+
+  // ---------------------------------------------------------------
   // 3. Uranium : plus de poudre d'uranium en broyant du granit
   //    (recette ajoutée par Create Nuclear, Create n'en a pas d'origine)
   // ---------------------------------------------------------------
