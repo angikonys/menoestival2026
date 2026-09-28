@@ -14,6 +14,34 @@ ServerEvents.recipes(event => {
   event.remove({ id: 'createbigcannons:mixing/alloy_steel' })
 
   // ---------------------------------------------------------------
+  // 1b. Pépites / lingots / blocs d'acier : une seule série de
+  //     recettes, sans ère
+  //     Create Nuclear a les mêmes recettes que TFMG. Almost Unified
+  //     fusionnait les doublons en gardant celles de Create Nuclear,
+  //     verrouillées par l'ère nucléaire : pépites et blocs d'acier
+  //     étaient infaisables à l'ère du pétrole.
+  // ---------------------------------------------------------------
+  ;[
+    'steel_nugget_from_decompacting',
+    'steel_ingot_from_compacting',
+    'steel_ingot_from_decompacting',
+    'steel_block_from_compacting'
+  ].forEach(r => {
+    event.remove({ id: `createnuclear:crafting/${r}` })
+    event.remove({ id: `createnuclear:crafting/crafting/${r}` })
+    event.remove({ id: `tfmg:crafting/materials/${r}` })
+  })
+
+  event.shapeless('9x tfmg:steel_nugget', ['#c:ingots/steel'])
+    .id('kubejs:tfmg/steel_nugget_from_ingot')
+  event.shaped('tfmg:steel_ingot', ['NNN', 'NNN', 'NNN'], { N: '#c:nuggets/steel' })
+    .id('kubejs:tfmg/steel_ingot_from_nuggets')
+  event.shapeless('9x tfmg:steel_ingot', ['#c:storage_blocks/steel'])
+    .id('kubejs:tfmg/steel_ingot_from_block')
+  event.shaped('tfmg:steel_block', ['III', 'III', 'III'], { I: '#c:ingots/steel' })
+    .id('kubejs:tfmg/steel_block_from_ingots')
+
+  // ---------------------------------------------------------------
   // 2. Moulage de l'acier fondu de Big Cannons aligné sur TFMG
   //    Avant : 90 mB -> 1 lingot, alors que TFMG compte 144 mB par lingot.
   //    Couler l'acier fondu TFMG chez Big Cannons donnait +60 % de lingots.

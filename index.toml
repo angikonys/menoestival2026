@@ -374,7 +374,7 @@ hash = "48c7b45da8f3db8e47270ec85b837561f1fe39891af2931e351d61c0b81e77bd"
 
 [[files]]
 file = "kubejs/server_scripts/resource_unification.js"
-hash = "a0f9d3607f2e401d7e6d6c56c9a9908764bdeaf3dd3d5311db71c0f13a678fa2"
+hash = "a9e7ac05c267eb444bfee6a65119a9e21212720c879e8df581eb92088a8796fe"
 
 [[files]]
 file = "kubejs/server_scripts/sky_build_limit.js"
