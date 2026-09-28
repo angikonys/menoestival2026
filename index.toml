@@ -9,6 +9,10 @@ file = "config/DistantHorizons.toml"
 hash = "beee0554f72c820aa052f797c091f3705499edf4cdb9bea5db24cebc3e33ea2d"
 
 [[files]]
+file = "config/aiimprovements-common.toml"
+hash = "d04efa96d7a916f2d3df0d64d90d57e25ad6343895a148fa7819cbcaeedf6661"
+
+[[files]]
 file = "config/almostunified/unification/materials.json"
 hash = "94b0e91c5a04f45a4090e11a29537169420dc49057b7f311fc891fd87a53747f"
 
@@ -19,6 +23,10 @@ hash = "b1a7e267eac38e5dab7a225798f854333eb45a405e1caee6e895af1cc51b006f"
 [[files]]
 file = "config/c2me.toml"
 hash = "f139850cdbb014d6271ea8470acc528e29570233ddba07e0ab1492e1e34f6c48"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "405c4947767db24de17c87aae7abddf129321588f662f41c2ed2eb4aa4f046b7"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -295,6 +303,10 @@ hash = "e6024581801e634e7bcd33ca4d5a738392f6d2ca7875e5f29681c3971e5ce5f3"
 [[files]]
 file = "config/tectonic.json"
 hash = "b9103ea3b7f70cc466e60edee3306209d3920b1b8c17e6e8e80337ad74bc4528"
+
+[[files]]
+file = "config/tfmg-common.toml"
+hash = "7f3dc0eb4e8b71fbd57acbf70cecc2581ce527a692d257ffe5792c5ecb87a544"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/archmage_seal.png"
@@ -1160,7 +1172,3 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "a77ad8415551594d437c8a700131028fe6ec870dd524d3c966cd8042d0d30171"
 metafile = true
-
-[[files]]
-file = "config/aiimprovements-common.toml"
-hash = "d04efa96d7a916f2d3df0d64d90d57e25ad6343895a148fa7819cbcaeedf6661"
