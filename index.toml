@@ -25,6 +25,10 @@ file = "config/c2me.toml"
 hash = "f139850cdbb014d6271ea8470acc528e29570233ddba07e0ab1492e1e34f6c48"
 
 [[files]]
+file = "config/createlazytick-server.toml"
+hash = "2ab063a4fe6df46215526c5f1124473cfeb8e374ae119fe9720db1594fafb4a0"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "405c4947767db24de17c87aae7abddf129321588f662f41c2ed2eb4aa4f046b7"
 
