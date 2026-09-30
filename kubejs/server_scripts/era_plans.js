@@ -103,7 +103,7 @@ ServerEvents.recipes(event => {
     'ASA',
     'BPB'
   ], {
-    B: 'tfmg:rebar_concrete',
+    B: 'tfmg:heavy_plate',
     T: 'minecraft:tnt',
     A: 'tfmg:steel_mechanism',
     P: 'tfmg:cast_iron_ingot'

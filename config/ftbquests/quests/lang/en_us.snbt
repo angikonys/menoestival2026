@@ -96,7 +96,8 @@
 	quest.3B0B1C982151A1CF.title: "Fonte"
 	quest.3ACD5D54947BE454.title: "La menace"
 	quest.3ACD5D54947BE454.quest_desc: ["Trouve un avant-poste pillard et nettoie-le."]
-	quest.162C1A818C708207.title: "Fortifier"
+	quest.162C1A818C708207.title: "Thermite"
+	quest.162C1A818C708207.quest_desc: ["Fabrique 2 grenades à thermite." "Poudre de thermite : 2 crimsite + 2 lingots d'aluminium au mixeur Create. Grenade : 4 poudres de thermite autour d'un lingot d'aluminium."]
 	quest.676DE7CF593BC042.title: "Ouvrir l'Ère Militaire"
 	quest.676DE7CF593BC042.quest_desc: ["Fabrique les Plans de l'Ère Militaire à l'établi mécanique et rends-les." "Débloque Create Big Cannons."]
 	chapter.4ED72FD3E2BE3792.title: "Ère Militaire Avancée"

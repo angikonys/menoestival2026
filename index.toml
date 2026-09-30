@@ -74,7 +74,7 @@ hash = "a3989c2d46ffb02b83da1a3a36edb68ba0f4e9d785153a70e849569c7d25df51"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ere_militaire.snbt"
-hash = "4d216ab3355ee9132b94b605f680b591264d24b9fdd06e05e7b6c23905c1db96"
+hash = "26f2e14c3e95420c9955982d3de3a720173403fd9edef7cc55796954401a8ec1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ere_militaire_avancee.snbt"
@@ -102,7 +102,7 @@ hash = "3b885ff5142c63d71852c58d97805ff99b9df8fea65bbed2e5b1d6c5d941564f"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "17993dbe9981a6d21da6f5590d0aae9aa4d4a1d2c124a62d9b66a472812db3ea"
+hash = "037b3982a408594138f650a90437da116281c07b024285ec68d0ea8095288e5c"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -362,7 +362,7 @@ hash = "ae9d944c8a703ed4d9f5b6c99be812f143e337a1720d5a1bbbedcb944a2b4903"
 
 [[files]]
 file = "kubejs/server_scripts/era_plans.js"
-hash = "7a6bf3855c9c16a234a2f501a7208230db8b31c9bf5fc00ec25d2f3f56c77178"
+hash = "7761d6de85a243aa58dcf54a99a121d6d9f3f49f89290af4524f340adb8d9f53"
 
 [[files]]
 file = "kubejs/server_scripts/magic_sky.js"

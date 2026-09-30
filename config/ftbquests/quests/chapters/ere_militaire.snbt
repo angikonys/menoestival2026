@@ -98,9 +98,9 @@
 		}]
 		tasks: [{
 			id: "5B32F1826CDDA84D"
-			item: { count: 1, id: "tfmg:rebar_concrete" }
+			item: { count: 1, id: "tfmg:thermite_grenade" }
 			type: "item"
-			count: 256L
+			count: 2L
 		}]
 		x: 6.0d
 		y: 0.0d
