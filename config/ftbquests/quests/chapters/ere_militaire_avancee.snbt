@@ -114,6 +114,10 @@
 			type: "item"
 		}]
 		tasks: [{
+			id: "3D96B59F58697DF4"
+			stage: "pack_sky_nav"
+			type: "gamestage"
+		}{
 			id: "4DC8C7A55F32FAB0"
 			consume_items: true
 			item: { count: 1, id: "kubejs:plan_military_advanced_era" }

@@ -2,6 +2,7 @@
 
 [items]
 locked = [
+    "mod:tracks",   # Create: Tracks
     "mod:cbc_equally_opposite",   # Create Big Cannons: Equally Opposite
     "mod:cbc_going_ballistic",   # Create Big Cannons: Going Ballistic
     "mod:cbc_at",   # CBC Advanced Technology
@@ -11,6 +12,7 @@ locked = [
 
 [blocks]
 locked = [
+    "mod:tracks",   # Create: Tracks
     "mod:cbc_equally_opposite",   # Create Big Cannons: Equally Opposite
     "mod:cbc_going_ballistic",   # Create Big Cannons: Going Ballistic
     "mod:cbc_at",   # CBC Advanced Technology
@@ -21,6 +23,7 @@ locked = [
 [recipes]
 # recettes appartenant au mod (même si la sortie est vanilla)
 locked_ids = [
+    "mod:tracks",
     "mod:cbc_equally_opposite",
     "mod:cbc_going_ballistic",
     "mod:cbc_at",
@@ -29,6 +32,7 @@ locked_ids = [
 ]
 # toute recette qui produit un item verrouillé
 locked_items = [
+    "mod:tracks",   # Create: Tracks
     "mod:cbc_equally_opposite",   # Create Big Cannons: Equally Opposite
     "mod:cbc_going_ballistic",   # Create Big Cannons: Going Ballistic
     "mod:cbc_at",   # CBC Advanced Technology

@@ -91,9 +91,9 @@
 			team_reward: false
 			type: "gamestage"
 		}{
-			count: 1
+			count: 8
 			id: "7DEFEF8C8AC8FA67"
-			item: { count: 1, id: "mahoutsukai:scroll_fay_sight" }
+			item: { count: 1, id: "mahoutsukai:fae_essence" }
 			type: "item"
 		}]
 		tasks: [{

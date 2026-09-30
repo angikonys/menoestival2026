@@ -78,7 +78,7 @@ hash = "4d216ab3355ee9132b94b605f680b591264d24b9fdd06e05e7b6c23905c1db96"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ere_militaire_avancee.snbt"
-hash = "ffe4b47e44f05ac8213ad139ea629d77988f26796deb116025f58d9590d0743a"
+hash = "3966f5a38f47f43842ae5dd398036f9eb19210552e0e799407e2dcc4ffd1c005"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ere_nucleaire.snbt"
@@ -94,7 +94,7 @@ hash = "c2e4394cf6ba4446fcd051c12b6b534c41b79d84307f2c2512f479301ec56fa8"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/perception_psions.snbt"
-hash = "c766e8be307f1ee05e86e141ef5ca5a29efc10b8479e6a41db2e1f6487ed864b"
+hash = "c2819e4454f5d86273c98daaede556c586c46929200696c09f3763cdecb50d07"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -102,7 +102,7 @@ hash = "3b885ff5142c63d71852c58d97805ff99b9df8fea65bbed2e5b1d6c5d941564f"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "88e0195c127edef921fbba59f3d76547b258908467e352151419b9a5fc67380c"
+hash = "17993dbe9981a6d21da6f5590d0aae9aa4d4a1d2c124a62d9b66a472812db3ea"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -178,7 +178,7 @@ hash = "224b397f6c1f3d892e03b1c4a97bf9e0c45dfdb0be7ff5aec9166656ce7cbce9"
 
 [[files]]
 file = "config/progressivestages/stages/magic_mahou_master/rules.toml"
-hash = "b9609899b899611cc104d2cd815303011ed7f1cb7fac75780ebe2ccbc22ab464"
+hash = "e9da6073ae12731639459b944a368817e50807ef18fe0ea54f32eab7022e5956"
 
 [[files]]
 file = "config/progressivestages/stages/magic_mahou_master/stage.toml"
@@ -202,7 +202,7 @@ hash = "ac03510022a24e7b98c3921e33deb1baa5bbf3d673dee5df05b271290f2a87c6"
 
 [[files]]
 file = "config/progressivestages/stages/pack_industrial_era/rules.toml"
-hash = "a1e457e8ac8d92c4ab2d66913c6eae0cfaf3d2730d9cb57d9510d6baa2689c51"
+hash = "292148f54297e1090678334df6cd9a1ecbdc8a4703059675d492b5efaaf62dea"
 
 [[files]]
 file = "config/progressivestages/stages/pack_industrial_era/stage.toml"
@@ -214,11 +214,11 @@ hash = "2f9a26fb3ae807861389a8e5f5f1ec0318d40624b497b1641bac50a897fa4b7c"
 
 [[files]]
 file = "config/progressivestages/stages/pack_military_advanced_era/rules.toml"
-hash = "fa6033b34d5282eafa66bc7cb2a73864ba0f71a71604fd6e839f8f526148ce65"
+hash = "a0dd123347e980b69894d39386d17be025427b0e2ea828004657cace0610b6a9"
 
 [[files]]
 file = "config/progressivestages/stages/pack_military_advanced_era/stage.toml"
-hash = "7be3db95e1770718502957d49acc4eb67c4b27f10e8aabde5b1de3449d4cabd0"
+hash = "1731f760367bb7c38ff2a3353b2e46a415d9d4285cd0f02d1cc339d48185a986"
 
 [[files]]
 file = "config/progressivestages/stages/pack_military_era/progression.toml"
@@ -643,6 +643,11 @@ hash = "6289fd87829e3d05d4c9e2c878f6e7f49031931560cfd0b19ef69e800539ff45"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "7dc7fc35fd010e168484ddf5e2e07eb9b49d0568b1e219c9e55bc13a6982fdbf"
 metafile = true
@@ -735,6 +740,11 @@ metafile = true
 [[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks.pw.toml"
+hash = "c79dfdac7e2df5cc4026e6ead964d698b609a374701cd012a344a5735f40d4f5"
 metafile = true
 
 [[files]]

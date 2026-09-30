@@ -2,6 +2,7 @@
 
 [items]
 locked = [
+    "mod:createdeco",   # Create Deco
     "mod:tfmg",   # Create: The Factory Must Grow (sa partie électrique est aussi verrouillée par pack_electric_era)
     "mod:createcasing",   # Create Encased
     "mod:createoreexcavation",   # Create Ore Excavation
@@ -33,6 +34,7 @@ locked = [
 
 [blocks]
 locked = [
+    "mod:createdeco",   # Create Deco
     "mod:tfmg",   # Create: The Factory Must Grow (sa partie électrique est aussi verrouillée par pack_electric_era)
     "mod:createcasing",   # Create Encased
     "mod:createoreexcavation",   # Create Ore Excavation
@@ -71,6 +73,7 @@ locked = [
 [recipes]
 # recettes appartenant au mod (même si la sortie est vanilla)
 locked_ids = [
+    "mod:createdeco",
     "mod:tfmg",
     "mod:createcasing",
     "mod:createoreexcavation",
@@ -101,6 +104,7 @@ locked_ids = [
 ]
 # toute recette qui produit un item verrouillé
 locked_items = [
+    "mod:createdeco",   # Create Deco
     "mod:tfmg",   # Create: The Factory Must Grow (sa partie électrique est aussi verrouillée par pack_electric_era)
     "mod:createcasing",   # Create Encased
     "mod:createoreexcavation",   # Create Ore Excavation

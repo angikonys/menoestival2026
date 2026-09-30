@@ -4,9 +4,9 @@ version = 4
 [stage]
 id = "pack_military_advanced_era"
 display_name = "Ère Militaire Avancée"
-description = "Addons de Create Big Cannons."
+description = "Addons de Create Big Cannons et chenilles Create: Tracks. Demande aussi la Navigation céleste."
 icon = "createbigcannons:he_shell"
-dependencies = ["pack_military_era", "pack_electric_era"]
+dependencies = ["pack_military_era", "pack_electric_era", "pack_sky_nav"]
 dependency_mode = "all"
 dependency_count = 1
 category = "Militaire"

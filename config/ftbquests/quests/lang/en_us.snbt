@@ -111,7 +111,8 @@
 	task.7035046B3EF6B39E.title: "Avoir l'Ère Électrique"
 	quest.673E165FE6C44F9D.title: "L'épreuve"
 	quest.303FC3DC160A3FE6.title: "Ouvrir l'Ère Militaire Avancée"
-	quest.303FC3DC160A3FE6.quest_desc: ["Fabrique les Plans de l'Ère Militaire Avancée à l'établi mécanique et rends-les." "Débloque les addons de Create Big Cannons."]
+	quest.303FC3DC160A3FE6.quest_desc: ["Fabrique les Plans de l'Ère Militaire Avancée à l'établi mécanique et rends-les." "Il faut aussi la Navigation céleste (Ère Aérienne ou Ascension ésotérique) : les chenilles de Create: Tracks utilisent la physique d'Aeronautics." "Débloque les addons de Create Big Cannons et Create: Tracks."]
+	task.3D96B59F58697DF4.title: "Navigation céleste"
 	chapter.21AC26ACD481B1F2.title: "Découverte des psions"
 	chapter.21AC26ACD481B1F2.chapter_subtitle: ["Une particule que la physique ne sait pas expliquer"]
 	quest.2052A4F93A4D0370.title: "Prérequis"
