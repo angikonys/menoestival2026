@@ -25,6 +25,9 @@ file = "config/c2me.toml"
 hash = "f139850cdbb014d6271ea8470acc528e29570233ddba07e0ab1492e1e34f6c48"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "69b2630526f721372e73126d5783acf18aad7130b888df88851885c303ba59ab"
+[[files]]
 file = "config/createlazytick-server.toml"
 hash = "2ab063a4fe6df46215526c5f1124473cfeb8e374ae119fe9720db1594fafb4a0"
 
