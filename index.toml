@@ -382,7 +382,7 @@ hash = "fcd5ffa150eb65aefc7544165683c367a2f87293edf00d9882bc2f06b77d3985"
 
 [[files]]
 file = "kubejs/server_scripts/sky_build_limit.js"
-hash = "41a56b45c2f5c4d4b8865fe60176fef5ab674c469248ec3823e9b3eacffacf6f"
+hash = "8e823205899691ebb3e65a1b9732d51cb1db5cf8049c623fd80f6632e3e1c209"
 
 [[files]]
 file = "kubejs/startup_scripts/era_plans.js"

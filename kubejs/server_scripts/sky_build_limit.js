@@ -19,7 +19,9 @@ BlockEvents.placed(event => {
   if (!player || player.fake) return
 
   if (player.creative || player.spectator) return
-  if (player.stages.has(SKY_STAGE)) return
+  // ProgressiveStages expose ses stages à KubeJS avec leur espace de noms
+  // ("progressivestages:pack_sky_nav") : on accepte les deux formes.
+  if (player.stages.has(SKY_STAGE) || player.stages.has('progressivestages:' + SKY_STAGE)) return
 
   player.setStatusMessage(Text.red("Il faut la Navigation céleste pour construire au-dessus de Y " + STANDARD_LIMIT))
   event.cancel()
